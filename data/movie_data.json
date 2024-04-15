@@ -1,0 +1,6038 @@
+[
+  {
+    "movie_id": 8,
+    "movie_name": "Russia House, The",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "2/2/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Dead on Time",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "9/17/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Beneath the Planet of the Apes",
+    "genres": ["Action", "Sci-Fi"],
+    "release_date": "6/11/2018"
+  },
+  {
+    "movie_id": 77,
+    "movie_name": "Red Sorghum (Hong gao liang)",
+    "genres": ["Drama", "War"],
+    "release_date": "2/26/2018"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Deceiver",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "8/14/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Billy Blazes, Esq.",
+    "genres": ["Comedy", "Western"],
+    "release_date": "1/23/2018"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "Beyond the Walls (Hors les murs)",
+    "genres": ["Drama"],
+    "release_date": "7/28/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Fahrenheit 451",
+    "genres": ["Drama", "Sci-Fi"],
+    "release_date": "12/3/2017"
+  },
+  {
+    "movie_id": 38,
+    "movie_name": "Rough House, The",
+    "genres": ["Comedy"],
+    "release_date": "6/14/2018"
+  },
+  {
+    "movie_id": 42,
+    "movie_name": "Happy Accidents",
+    "genres": ["Romance", "Sci-Fi"],
+    "release_date": "10/2/2018"
+  },
+  {
+    "movie_id": 46,
+    "movie_name": "Fright Night Part II",
+    "genres": ["Horror"],
+    "release_date": "8/23/2018"
+  },
+  {
+    "movie_id": 74,
+    "movie_name": "Resistance",
+    "genres": ["Drama", "Thriller", "War"],
+    "release_date": "3/10/2018"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Across the Bridge",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "1/13/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "The Fountain",
+    "genres": ["Comedy"],
+    "release_date": "4/10/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "War of the Worlds 2: The Next Wave",
+    "genres": ["Action"],
+    "release_date": "5/18/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "Primer",
+    "genres": ["Drama", "Sci-Fi"],
+    "release_date": "10/14/2018"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "Charisma (Karisuma)",
+    "genres": ["Drama"],
+    "release_date": "2/25/2018"
+  },
+  {
+    "movie_id": 56,
+    "movie_name": "Comrade Pedersen (Gymnasl\u00e6rer Pedersen)",
+    "genres": ["Drama"],
+    "release_date": "9/6/2018"
+  },
+  {
+    "movie_id": 56,
+    "movie_name": "Besa (Solemn Promise)",
+    "genres": ["Drama", "Romance", "War"],
+    "release_date": "9/11/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "Shaggy D.A., The",
+    "genres": ["Children", "Comedy"],
+    "release_date": "3/29/2018"
+  },
+  {
+    "movie_id": 50,
+    "movie_name": "The Secret of Convict Lake",
+    "genres": ["Western"],
+    "release_date": "11/29/2017"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Clown, The",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "1/29/2018"
+  },
+  {
+    "movie_id": 20,
+    "movie_name": "The Girl in a Swing",
+    "genres": ["Drama", "Romance"],
+    "release_date": "11/12/2017"
+  },
+  {
+    "movie_id": 76,
+    "movie_name": "Money for Nothing",
+    "genres": ["Comedy", "Crime"],
+    "release_date": "10/3/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Antboy II: Revenge of the Red Fury (Antboy: Den R\u00f8de Furies H\u00e6vn)",
+    "genres": ["Adventure", "Children", "Comedy", "Fantasy"],
+    "release_date": "5/27/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Shrink",
+    "genres": ["Drama"],
+    "release_date": "4/4/2018"
+  },
+  {
+    "movie_id": 80,
+    "movie_name": "Filthy Gorgeous: The Bob Guccione Story",
+    "genres": ["Documentary"],
+    "release_date": "9/14/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "Knight and Day",
+    "genres": ["Action", "Comedy", "Thriller"],
+    "release_date": "11/3/2017"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Wuthering Heights",
+    "genres": ["Drama", "Romance"],
+    "release_date": "4/21/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Promotion, The",
+    "genres": ["Comedy"],
+    "release_date": "4/6/2018"
+  },
+  {
+    "movie_id": 50,
+    "movie_name": "Chainsaw Maid",
+    "genres": ["Animation"],
+    "release_date": "11/14/2017"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Flesh for Frankenstein (a.k.a. Andy Warhol's Frankenstein)",
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "release_date": "12/30/2017"
+  },
+  {
+    "movie_id": 87,
+    "movie_name": "High School",
+    "genres": ["Documentary"],
+    "release_date": "6/6/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Secret Policeman's Other Ball, The",
+    "genres": ["Comedy", "Documentary", "Musical"],
+    "release_date": "10/14/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Every Little Step",
+    "genres": ["Documentary"],
+    "release_date": "8/22/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "I Want a Dog for Christmas, Charlie Brown",
+    "genres": ["Animation", "Children", "Comedy"],
+    "release_date": "4/10/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Lie with Me",
+    "genres": ["Drama", "Romance"],
+    "release_date": "8/1/2018"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "The Kick",
+    "genres": ["Action"],
+    "release_date": "10/13/2018"
+  },
+  {
+    "movie_id": 87,
+    "movie_name": "Waiting Room (Bekleme odasi)",
+    "genres": ["Drama"],
+    "release_date": "1/23/2018"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "Ladykillers, The",
+    "genres": ["Comedy", "Crime"],
+    "release_date": "2/1/2018"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "Raiders of Atlantis, The",
+    "genres": ["Action", "Mystery", "Sci-Fi"],
+    "release_date": "11/17/2017"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "Apostle, The",
+    "genres": ["Drama"],
+    "release_date": "9/1/2018"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Morning of the Earth",
+    "genres": ["Documentary"],
+    "release_date": "9/9/2018"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "Stuck Between Stations",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "3/21/2018"
+  },
+  {
+    "movie_id": 88,
+    "movie_name": "Wild Bunch, The",
+    "genres": ["Adventure", "Western"],
+    "release_date": "2/10/2018"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "Whistling in Brooklyn",
+    "genres": ["Comedy", "Crime", "Mystery", "Romance"],
+    "release_date": "7/19/2018"
+  },
+  {
+    "movie_id": 52,
+    "movie_name": "Liberation of L.B. Jones, The",
+    "genres": ["Crime", "Drama"],
+    "release_date": "8/26/2018"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "Italian Job, The",
+    "genres": ["Action", "Comedy", "Crime"],
+    "release_date": "6/17/2018"
+  },
+  {
+    "movie_id": 7,
+    "movie_name": "Cantinflas",
+    "genres": ["Drama"],
+    "release_date": "9/17/2018"
+  },
+  {
+    "movie_id": 21,
+    "movie_name": "False as Water (Falsk som vatten)",
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "release_date": "2/6/2018"
+  },
+  {
+    "movie_id": 62,
+    "movie_name": "Basic Instinct",
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "release_date": "2/17/2018"
+  },
+  {
+    "movie_id": 96,
+    "movie_name": "Spiral",
+    "genres": ["Horror"],
+    "release_date": "3/2/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "Waiting...",
+    "genres": ["Comedy"],
+    "release_date": "11/27/2017"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Detention",
+    "genres": ["Action", "Drama", "Thriller"],
+    "release_date": "3/10/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Gore Vidal: The United States of Amnesia",
+    "genres": ["Documentary"],
+    "release_date": "3/4/2018"
+  },
+  {
+    "movie_id": 50,
+    "movie_name": "In & Out",
+    "genres": ["Comedy"],
+    "release_date": "12/17/2017"
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "House of Tolerance",
+    "genres": ["Drama"],
+    "release_date": "11/15/2017"
+  },
+  {
+    "movie_id": 58,
+    "movie_name": "Villain, The (Ek Villain)",
+    "genres": ["Action", "Romance", "Thriller"],
+    "release_date": "3/30/2018"
+  },
+  {
+    "movie_id": 89,
+    "movie_name": "Blood Work",
+    "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+    "release_date": "6/4/2018"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Suburban Commando",
+    "genres": ["Comedy", "Sci-Fi"],
+    "release_date": "4/15/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Intervista",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "9/23/2018"
+  },
+  {
+    "movie_id": 80,
+    "movie_name": "Kokow\u00e4\u00e4h",
+    "genres": ["Comedy"],
+    "release_date": "1/17/2018"
+  },
+  {
+    "movie_id": 67,
+    "movie_name": "Devil and Daniel Johnston, The",
+    "genres": ["Documentary"],
+    "release_date": "6/30/2018"
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "Naked",
+    "genres": ["Comedy"],
+    "release_date": "3/30/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Cold Showers (Douches froides)",
+    "genres": ["Drama"],
+    "release_date": "10/27/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Modigliani",
+    "genres": ["Drama"],
+    "release_date": "4/30/2018"
+  },
+  {
+    "movie_id": 71,
+    "movie_name": "Trials of Muhammad Ali, The",
+    "genres": ["Documentary"],
+    "release_date": "10/25/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "Take a Giant Step",
+    "genres": ["Drama"],
+    "release_date": "11/20/2017"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Drawn Together Movie: The Movie!, The",
+    "genres": ["Animation", "Comedy"],
+    "release_date": "1/24/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Jack the Ripper",
+    "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+    "release_date": "12/17/2017"
+  },
+  {
+    "movie_id": 29,
+    "movie_name": "Bad Country",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "release_date": "11/9/2017"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "Before I Go to Sleep",
+    "genres": ["Mystery", "Thriller"],
+    "release_date": "7/19/2018"
+  },
+  {
+    "movie_id": 11,
+    "movie_name": "Dunston Checks In",
+    "genres": ["Children", "Comedy"],
+    "release_date": "5/31/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Little Murders",
+    "genres": ["Comedy", "Crime"],
+    "release_date": "7/18/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "Megan Is Missing",
+    "genres": ["Crime", "Drama"],
+    "release_date": "2/19/2018"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Duel at Diablo",
+    "genres": ["War"],
+    "release_date": "9/26/2018"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Hamlet 2",
+    "genres": ["Comedy"],
+    "release_date": "7/9/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Blue Jasmine",
+    "genres": ["Drama"],
+    "release_date": "4/25/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Letter, The",
+    "genres": ["Drama"],
+    "release_date": "3/1/2018"
+  },
+  {
+    "movie_id": 85,
+    "movie_name": "Perched on a Tree (Sur un arbre perch\u00e9)",
+    "genres": ["Comedy"],
+    "release_date": "6/19/2018"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "The Front",
+    "genres": ["Crime", "Drama", "Mystery"],
+    "release_date": "5/22/2018"
+  },
+  {
+    "movie_id": 85,
+    "movie_name": "Hart's War",
+    "genres": ["Drama", "War"],
+    "release_date": "8/31/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Housebound",
+    "genres": ["Comedy", "Horror", "Thriller"],
+    "release_date": "7/2/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Spooner",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "8/5/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "Tevye",
+    "genres": ["Drama"],
+    "release_date": "7/21/2018"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "Koch",
+    "genres": ["Documentary"],
+    "release_date": "7/6/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Max Payne",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "release_date": "9/17/2018"
+  },
+  {
+    "movie_id": 99,
+    "movie_name": "Family Man, The",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "9/20/2018"
+  },
+  {
+    "movie_id": 48,
+    "movie_name": "Counselor, The",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "4/4/2018"
+  },
+  {
+    "movie_id": 16,
+    "movie_name": "Gantz",
+    "genres": ["Action", "Horror", "Sci-Fi"],
+    "release_date": "5/29/2018"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "Suburbia",
+    "genres": ["Drama"],
+    "release_date": "5/31/2018"
+  },
+  {
+    "movie_id": 55,
+    "movie_name": "Married Life",
+    "genres": ["Crime", "Drama", "Romance"],
+    "release_date": "8/11/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Australia",
+    "genres": ["Adventure", "Drama", "War", "Western"],
+    "release_date": "4/11/2018"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "Prayer for the Dying, A",
+    "genres": ["Action", "Drama"],
+    "release_date": "7/8/2018"
+  },
+  {
+    "movie_id": 13,
+    "movie_name": "Long Goodbye, The",
+    "genres": ["Crime", "Film-Noir"],
+    "release_date": "9/17/2018"
+  },
+  {
+    "movie_id": 74,
+    "movie_name": "Night Must Fall",
+    "genres": ["Thriller"],
+    "release_date": "11/16/2017"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Mon Paradis - Der Winterpalast",
+    "genres": ["Documentary"],
+    "release_date": "12/10/2017"
+  },
+  {
+    "movie_id": 19,
+    "movie_name": "Feast II: Sloppy Seconds",
+    "genres": ["Action", "Comedy", "Horror", "Thriller"],
+    "release_date": "5/25/2018"
+  },
+  {
+    "movie_id": 85,
+    "movie_name": "Wrong Turn",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "2/28/2018"
+  },
+  {
+    "movie_id": 13,
+    "movie_name": "These Three",
+    "genres": ["Drama", "Romance"],
+    "release_date": "6/21/2018"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Meet the Spartans",
+    "genres": ["Comedy"],
+    "release_date": "12/12/2017"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Woman Under the Influence, A",
+    "genres": ["Drama"],
+    "release_date": "8/18/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Lady Vanishes, The",
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "release_date": "7/30/2018"
+  },
+  {
+    "movie_id": 88,
+    "movie_name": "Silences of the Palace, The (Saimt el Qusur)",
+    "genres": ["Drama"],
+    "release_date": "8/10/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Buck and the Preacher",
+    "genres": ["Western"],
+    "release_date": "5/14/2018"
+  },
+  {
+    "movie_id": 12,
+    "movie_name": "Cake Eaters, The",
+    "genres": ["Drama"],
+    "release_date": "5/30/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Kager\u00f4-za",
+    "genres": ["Fantasy", "Romance", "Thriller"],
+    "release_date": "6/28/2018"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "Cheaper by the Dozen 2",
+    "genres": ["Adventure", "Comedy"],
+    "release_date": "4/26/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Heaven Is for Real",
+    "genres": ["Drama"],
+    "release_date": "12/15/2017"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Wings of Desire (Himmel \u00fcber Berlin, Der)",
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "release_date": "12/31/2017"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "Loulou",
+    "genres": ["Drama", "Romance"],
+    "release_date": "1/19/2018"
+  },
+  {
+    "movie_id": 11,
+    "movie_name": "Black Robe",
+    "genres": ["Adventure", "Drama"],
+    "release_date": "11/1/2017"
+  },
+  {
+    "movie_id": 83,
+    "movie_name": "Road to El Dorado, The",
+    "genres": ["Animation", "Children"],
+    "release_date": "8/31/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "Get Thrashed: The Story of Thrash Metal",
+    "genres": ["Documentary"],
+    "release_date": "11/18/2017"
+  },
+  {
+    "movie_id": 96,
+    "movie_name": "28 Days",
+    "genres": ["Drama"],
+    "release_date": "2/26/2018"
+  },
+  {
+    "movie_id": 27,
+    "movie_name": "First $20 Million Is Always the Hardest, The",
+    "genres": ["Comedy"],
+    "release_date": "9/30/2018"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Left Behind II: Tribulation Force",
+    "genres": ["Drama"],
+    "release_date": "12/4/2017"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "Go Figure (Va savoir)",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "1/31/2018"
+  },
+  {
+    "movie_id": 27,
+    "movie_name": "Sheepman, The",
+    "genres": ["Comedy", "Western"],
+    "release_date": "3/7/2018"
+  },
+  {
+    "movie_id": 67,
+    "movie_name": "Santa Fe",
+    "genres": ["Action", "Romance", "Western"],
+    "release_date": "7/31/2018"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "Chesty: A Tribute to a Legend",
+    "genres": ["Documentary"],
+    "release_date": "3/23/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Big Broadcast of 1938, The",
+    "genres": ["Comedy", "Musical", "Romance"],
+    "release_date": "7/8/2018"
+  },
+  {
+    "movie_id": 24,
+    "movie_name": "Like Stars on Earth (Taare Zameen Par)",
+    "genres": ["Drama"],
+    "release_date": "3/23/2018"
+  },
+  {
+    "movie_id": 50,
+    "movie_name": "Thunderbirds",
+    "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+    "release_date": "6/26/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "Evil Cult, The (Lord of the Wu Tang) (Yi tian tu long ji: Zhi mo jiao jiao zhu)",
+    "genres": ["Action", "Fantasy"],
+    "release_date": "12/4/2017"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "City on Fire (Lung fu fong wan)",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "release_date": "2/11/2018"
+  },
+  {
+    "movie_id": 12,
+    "movie_name": "One Nite In Mongkok (Wong gok hak yau)",
+    "genres": ["Action", "Crime", "Drama"],
+    "release_date": "9/11/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Return of Don Camillo, The (Retour de Don Camillo, Le)",
+    "genres": ["Comedy"],
+    "release_date": "11/6/2017"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Far Out Isn't Far Enough: The Tomi Ungerer Story",
+    "genres": ["Documentary"],
+    "release_date": "1/19/2018"
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "Tormented",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "4/6/2018"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Vuonna 85",
+    "genres": ["Comedy"],
+    "release_date": "11/4/2017"
+  },
+  {
+    "movie_id": 62,
+    "movie_name": "Police Academy 5: Assignment: Miami Beach",
+    "genres": ["Comedy", "Crime"],
+    "release_date": "8/6/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Amazing Johnathan: Wrong on Every Level",
+    "genres": ["Comedy"],
+    "release_date": "5/11/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Happy Feet Two",
+    "genres": ["Animation", "Children", "Comedy", "IMAX"],
+    "release_date": "4/12/2018"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "Floods of Fear",
+    "genres": ["Action", "Adventure", "Crime", "Thriller"],
+    "release_date": "4/18/2018"
+  },
+  {
+    "movie_id": 16,
+    "movie_name": "Hail the Conquering Hero",
+    "genres": ["Comedy"],
+    "release_date": "10/31/2017"
+  },
+  {
+    "movie_id": 60,
+    "movie_name": "How I Live Now",
+    "genres": ["Action", "Drama", "Thriller"],
+    "release_date": "7/7/2018"
+  },
+  {
+    "movie_id": 58,
+    "movie_name": "Universal Soldier: Day of Reckoning",
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "release_date": "2/17/2018"
+  },
+  {
+    "movie_id": 85,
+    "movie_name": "Sparrows Dance",
+    "genres": ["Drama", "Romance"],
+    "release_date": "11/29/2017"
+  },
+  {
+    "movie_id": 16,
+    "movie_name": "2:22",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "12/18/2017"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Beach Party",
+    "genres": ["Comedy"],
+    "release_date": "6/16/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "The New Girlfriend",
+    "genres": ["Drama"],
+    "release_date": "10/18/2018"
+  },
+  {
+    "movie_id": 7,
+    "movie_name": "Simple Plan, A",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "7/23/2018"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "Gauntlet, The",
+    "genres": ["Action"],
+    "release_date": "10/10/2018"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Violent Cop (Sono otoko, ky\u00f4b\u00f4 ni tsuki)",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "release_date": "11/3/2017"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Daredevil",
+    "genres": ["Action", "Crime"],
+    "release_date": "8/29/2018"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "Taxi for Tobruk",
+    "genres": ["Drama", "War"],
+    "release_date": "10/31/2017"
+  },
+  {
+    "movie_id": 52,
+    "movie_name": "Rebel, The (Le Rebelle)",
+    "genres": ["Drama"],
+    "release_date": "7/29/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "Hell Without Limits (Lugar sin l\u00edmites, El)",
+    "genres": ["Drama"],
+    "release_date": "6/8/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "Tie Me Up! Tie Me Down! (\u00a1\u00c1tame!)",
+    "genres": ["Crime", "Drama", "Romance"],
+    "release_date": "7/4/2018"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "Major and the Minor, The",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "5/8/2018"
+  },
+  {
+    "movie_id": 18,
+    "movie_name": "Sharknado 2: The Second One",
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "release_date": "8/19/2018"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Tale of Springtime, A (Conte de Printemps)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "1/21/2018"
+  },
+  {
+    "movie_id": 13,
+    "movie_name": "Tuesdays with Morrie",
+    "genres": ["Drama"],
+    "release_date": "7/15/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Bob Roberts",
+    "genres": ["Comedy"],
+    "release_date": "8/16/2018"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "Ismael",
+    "genres": ["Drama"],
+    "release_date": "4/16/2018"
+  },
+  {
+    "movie_id": 62,
+    "movie_name": "Gerhard Richter Painting",
+    "genres": ["Documentary"],
+    "release_date": "11/6/2017"
+  },
+  {
+    "movie_id": 83,
+    "movie_name": "It Felt Like Love",
+    "genres": ["Drama"],
+    "release_date": "2/6/2018"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Lonely Passion of Judith Hearne, The",
+    "genres": ["Drama", "Romance"],
+    "release_date": "7/15/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Portraits Chinois",
+    "genres": ["Drama"],
+    "release_date": "4/7/2018"
+  },
+  {
+    "movie_id": 58,
+    "movie_name": "Whatever Happened to Harold Smith?",
+    "genres": ["Comedy"],
+    "release_date": "10/8/2018"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "Raining Stones",
+    "genres": ["Drama"],
+    "release_date": "9/14/2018"
+  },
+  {
+    "movie_id": 55,
+    "movie_name": "Agenda: Grinding America Down",
+    "genres": ["Documentary"],
+    "release_date": "7/13/2018"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Silent Hill: Revelation 3D",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "release_date": "5/22/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "American Heart",
+    "genres": ["Crime", "Drama"],
+    "release_date": "5/24/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "The Dark Knight",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "release_date": "12/19/2017"
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "Gracie",
+    "genres": ["Drama"],
+    "release_date": "7/22/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Taxi zum Klo",
+    "genres": ["Comedy"],
+    "release_date": "9/28/2018"
+  },
+  {
+    "movie_id": 19,
+    "movie_name": "Creature Wasn't Nice, The (a.k.a. Naked Space) (a.k.a. Spaceship)",
+    "genres": ["Comedy", "Horror", "Musical", "Sci-Fi"],
+    "release_date": "8/31/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Can I Do It 'Till I Need Glasses?",
+    "genres": ["Comedy"],
+    "release_date": "10/9/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Romy and Michele: In the Beginning",
+    "genres": ["Comedy"],
+    "release_date": "1/6/2018"
+  },
+  {
+    "movie_id": 58,
+    "movie_name": "Bernie",
+    "genres": ["Comedy", "Crime", "Drama"],
+    "release_date": "12/12/2017"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "Other Guys, The",
+    "genres": ["Action", "Comedy"],
+    "release_date": "2/17/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Nayak: The Hero",
+    "genres": ["Drama"],
+    "release_date": "12/11/2017"
+  },
+  {
+    "movie_id": 29,
+    "movie_name": "Now and Forever",
+    "genres": ["Drama", "Romance"],
+    "release_date": "10/4/2018"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "Tarzan and the Lost City",
+    "genres": ["Action", "Adventure"],
+    "release_date": "4/20/2018"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Betrayed, The",
+    "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+    "release_date": "1/17/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Sleepless in Seattle",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "6/3/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Essential Killing",
+    "genres": ["Thriller", "War"],
+    "release_date": "11/19/2017"
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "Girls on Top 2",
+    "genres": ["Comedy"],
+    "release_date": "9/6/2018"
+  },
+  {
+    "movie_id": 27,
+    "movie_name": "Last Night",
+    "genres": ["Drama", "Romance"],
+    "release_date": "4/14/2018"
+  },
+  {
+    "movie_id": 46,
+    "movie_name": "Screamers: The Hunting",
+    "genres": ["Sci-Fi", "Thriller"],
+    "release_date": "3/17/2018"
+  },
+  {
+    "movie_id": 65,
+    "movie_name": "Bed & Board (Domicile conjugal)",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "4/4/2018"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "Days and Clouds (Giorni e nuvole)",
+    "genres": ["Drama"],
+    "release_date": "9/24/2018"
+  },
+  {
+    "movie_id": 67,
+    "movie_name": "Thousands Cheer",
+    "genres": ["Comedy", "Drama", "Musical"],
+    "release_date": "2/6/2018"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "Montana",
+    "genres": ["Action", "Adventure", "Romance", "Western"],
+    "release_date": "6/6/2018"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "Proud and the Beautiful, The (Orgueilleux, Les) (Proud Ones, The)",
+    "genres": ["Drama"],
+    "release_date": "2/1/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Glenn Killing p\u00e5 Berns",
+    "genres": ["Comedy"],
+    "release_date": "10/6/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Seven Sinners",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "5/2/2018"
+  },
+  {
+    "movie_id": 78,
+    "movie_name": "Little Lord Fauntleroy",
+    "genres": ["Children", "Drama", "Romance"],
+    "release_date": "11/17/2017"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Random Harvest",
+    "genres": ["Drama", "Romance"],
+    "release_date": "10/21/2018"
+  },
+  {
+    "movie_id": 65,
+    "movie_name": "Verboten!",
+    "genres": ["Action", "Romance", "War"],
+    "release_date": "3/21/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Lawyer Man",
+    "genres": ["Drama", "Romance"],
+    "release_date": "9/14/2018"
+  },
+  {
+    "movie_id": 58,
+    "movie_name": "The Corsican Brothers",
+    "genres": ["Adventure"],
+    "release_date": "12/22/2017"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Dinner with Friends",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "3/4/2018"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "Pixar Story, The",
+    "genres": ["Documentary"],
+    "release_date": "10/28/2018"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Zebrahead",
+    "genres": ["Drama"],
+    "release_date": "1/23/2018"
+  },
+  {
+    "movie_id": 31,
+    "movie_name": "Century",
+    "genres": ["Drama"],
+    "release_date": "1/28/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Ciao Bella",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "12/10/2017"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Rock, Paper, Scissors: The Way of the Tosser",
+    "genres": ["Comedy"],
+    "release_date": "9/24/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Boy Meets Boy",
+    "genres": ["Romance"],
+    "release_date": "2/24/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "No Turning Back",
+    "genres": ["Adventure", "Drama", "Thriller"],
+    "release_date": "11/27/2017"
+  },
+  {
+    "movie_id": 55,
+    "movie_name": "Afghan Star",
+    "genres": ["Documentary"],
+    "release_date": "10/22/2018"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Mirror Has Two Faces, The",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "8/5/2018"
+  },
+  {
+    "movie_id": 20,
+    "movie_name": "Rebecca",
+    "genres": ["Drama", "Mystery", "Romance", "Thriller"],
+    "release_date": "8/5/2018"
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "Cell 2, The",
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "release_date": "4/15/2018"
+  },
+  {
+    "movie_id": 21,
+    "movie_name": "Rudy",
+    "genres": ["Drama"],
+    "release_date": "3/28/2018"
+  },
+  {
+    "movie_id": 83,
+    "movie_name": "Bomb It",
+    "genres": ["Documentary"],
+    "release_date": "3/8/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Great Dictator, The",
+    "genres": ["Comedy", "Drama", "War"],
+    "release_date": "8/29/2018"
+  },
+  {
+    "movie_id": 16,
+    "movie_name": "Mrs. Dalloway",
+    "genres": ["Drama", "Romance"],
+    "release_date": "2/25/2018"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Gas",
+    "genres": ["Comedy"],
+    "release_date": "11/25/2017"
+  },
+  {
+    "movie_id": 78,
+    "movie_name": "Far from Heaven",
+    "genres": ["Drama", "Romance"],
+    "release_date": "9/1/2018"
+  },
+  {
+    "movie_id": 7,
+    "movie_name": "Transporter 2",
+    "genres": ["Action", "Crime", "Thriller"],
+    "release_date": "3/25/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Futurama: The Beast with a Billion Backs",
+    "genres": ["Action", "Animation", "Comedy", "Romance", "Sci-Fi"],
+    "release_date": "7/29/2018"
+  },
+  {
+    "movie_id": 67,
+    "movie_name": "Tales of Terror (Kaidan Shin Mimibukuro)",
+    "genres": ["Horror"],
+    "release_date": "3/23/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "The Referees",
+    "genres": ["Documentary"],
+    "release_date": "10/24/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Breaker! Breaker!",
+    "genres": ["Action", "Adventure", "Crime"],
+    "release_date": "8/18/2018"
+  },
+  {
+    "movie_id": 9,
+    "movie_name": "Greatest Story Ever Told, The",
+    "genres": ["Drama"],
+    "release_date": "1/10/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Just a Little Harmless Sex",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "10/21/2018"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "Night They Raided Minsky's, The (Night They Invented Striptease, The)",
+    "genres": ["Comedy"],
+    "release_date": "9/10/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Bye-Bye Bin Laden",
+    "genres": ["Animation", "Comedy"],
+    "release_date": "5/18/2018"
+  },
+  {
+    "movie_id": 29,
+    "movie_name": "$ (Dollars)",
+    "genres": ["Comedy", "Crime", "Drama"],
+    "release_date": "10/7/2018"
+  },
+  {
+    "movie_id": 27,
+    "movie_name": "Psycho",
+    "genres": ["Crime", "Horror", "Thriller"],
+    "release_date": "5/9/2018"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "Bug",
+    "genres": ["Drama", "Horror", "Thriller"],
+    "release_date": "1/14/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Believers, The",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "11/2/2017"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Evidence",
+    "genres": ["Documentary"],
+    "release_date": "8/2/2018"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "Mammy",
+    "genres": ["Comedy", "Drama", "Musical"],
+    "release_date": "7/12/2018"
+  },
+  {
+    "movie_id": 89,
+    "movie_name": "Last Stand At Saber River",
+    "genres": ["Western"],
+    "release_date": "5/15/2018"
+  },
+  {
+    "movie_id": 87,
+    "movie_name": "Holiday Engagement",
+    "genres": ["Comedy"],
+    "release_date": "12/8/2017"
+  },
+  {
+    "movie_id": 55,
+    "movie_name": "Kairat",
+    "genres": ["Drama"],
+    "release_date": "2/5/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Hound of the Baskervilles, The",
+    "genres": ["Crime", "Mystery"],
+    "release_date": "2/12/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "B.U.S.T.E.D (Everybody Loves Sunshine) (Busted)",
+    "genres": ["Crime", "Drama"],
+    "release_date": "2/12/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Man Who Sued God, The",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "12/28/2017"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Christmas Eve",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "9/25/2018"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "The Hyperboloid of Engineer Garin (Giperboloid inzhenera Garina)",
+    "genres": ["Sci-Fi"],
+    "release_date": "12/20/2017"
+  },
+  {
+    "movie_id": 82,
+    "movie_name": "Brides of Dracula",
+    "genres": ["Horror"],
+    "release_date": "2/18/2018"
+  },
+  {
+    "movie_id": 9,
+    "movie_name": "Telstar: The Joe Meek Story",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "4/26/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Interview with the Assassin",
+    "genres": ["Drama"],
+    "release_date": "9/16/2018"
+  },
+  {
+    "movie_id": 42,
+    "movie_name": "Somebody is Waiting",
+    "genres": ["Drama"],
+    "release_date": "7/26/2018"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Crow, The",
+    "genres": ["Action", "Crime", "Fantasy", "Thriller"],
+    "release_date": "7/6/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Virginia",
+    "genres": ["Drama"],
+    "release_date": "7/25/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Medea",
+    "genres": ["Drama"],
+    "release_date": "2/27/2018"
+  },
+  {
+    "movie_id": 9,
+    "movie_name": "Silence of the Sea, The (Le silence de la mer)",
+    "genres": ["Drama", "Romance", "War"],
+    "release_date": "5/30/2018"
+  },
+  {
+    "movie_id": 83,
+    "movie_name": "Rabbit Test",
+    "genres": ["Comedy"],
+    "release_date": "8/13/2018"
+  },
+  {
+    "movie_id": 98,
+    "movie_name": "R\u00e9gion centrale, La",
+    "genres": ["Drama"],
+    "release_date": "8/12/2018"
+  },
+  {
+    "movie_id": 82,
+    "movie_name": "Dream Boy",
+    "genres": ["Drama", "Romance"],
+    "release_date": "11/29/2017"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "8 Mile",
+    "genres": ["Drama"],
+    "release_date": "11/26/2017"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "Elling",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "8/2/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Our Children (\u00c0 perdre la raison)",
+    "genres": ["Drama"],
+    "release_date": "6/22/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Brothers Lionheart, The (Br\u00f6derna Lejonhj\u00e4rta)",
+    "genres": ["Adventure", "Children", "Fantasy"],
+    "release_date": "2/21/2018"
+  },
+  {
+    "movie_id": 93,
+    "movie_name": "Reagan",
+    "genres": ["Documentary"],
+    "release_date": "3/22/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Milarepa",
+    "genres": ["Action", "Adventure", "Drama"],
+    "release_date": "10/6/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Buud Yam",
+    "genres": ["Drama"],
+    "release_date": "12/28/2017"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "Stand Up and Cheer!",
+    "genres": ["Comedy", "Musical"],
+    "release_date": "11/19/2017"
+  },
+  {
+    "movie_id": 85,
+    "movie_name": "Funny Man, A (Dirch)",
+    "genres": ["Drama"],
+    "release_date": "6/29/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Sexy Beast",
+    "genres": ["Comedy", "Crime", "Drama"],
+    "release_date": "9/30/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Cobweb, The",
+    "genres": ["Drama"],
+    "release_date": "6/9/2018"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "Seconds Apart ",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "1/13/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Guy Named Joe, A",
+    "genres": ["Drama", "Fantasy", "Romance", "War"],
+    "release_date": "10/6/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Rashomon (Rash\u00f4mon)",
+    "genres": ["Crime", "Drama", "Mystery"],
+    "release_date": "3/6/2018"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "Goodbye, Dragon Inn (Bu san)",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "1/22/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Carnosaur",
+    "genres": ["Horror", "Sci-Fi"],
+    "release_date": "2/23/2018"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Out of the Fog",
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "release_date": "5/20/2018"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Untraceable",
+    "genres": ["Crime", "Thriller"],
+    "release_date": "6/24/2018"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Crimes of Fashion",
+    "genres": ["Comedy"],
+    "release_date": "4/14/2018"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Riptide",
+    "genres": ["Drama"],
+    "release_date": "9/1/2018"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "Poetry (Shi)",
+    "genres": ["Drama"],
+    "release_date": "2/22/2018"
+  },
+  {
+    "movie_id": 69,
+    "movie_name": "Caterina in the Big City (Caterina va in citt\u00e0)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "3/4/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Omen, The",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "release_date": "1/9/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "La Premi\u00e8re \u00e9toile",
+    "genres": ["Comedy"],
+    "release_date": "7/22/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Madison",
+    "genres": ["Drama"],
+    "release_date": "2/5/2018"
+  },
+  {
+    "movie_id": 77,
+    "movie_name": "The Lazarus Effect",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "12/11/2017"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Cottage Country",
+    "genres": ["Action", "Comedy", "Crime"],
+    "release_date": "11/3/2017"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "Man Hunt",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "6/25/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Show Boat",
+    "genres": ["Drama", "Musical", "Romance"],
+    "release_date": "1/28/2018"
+  },
+  {
+    "movie_id": 71,
+    "movie_name": "Conversations with Other Women",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "5/12/2018"
+  },
+  {
+    "movie_id": 52,
+    "movie_name": "Experts, The",
+    "genres": ["Comedy"],
+    "release_date": "10/13/2018"
+  },
+  {
+    "movie_id": 76,
+    "movie_name": "Legacy, The",
+    "genres": ["Horror"],
+    "release_date": "9/17/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Frozen Fever",
+    "genres": ["Adventure", "Animation"],
+    "release_date": "1/28/2018"
+  },
+  {
+    "movie_id": 52,
+    "movie_name": "Deaths of Ian Stone, The",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "4/16/2018"
+  },
+  {
+    "movie_id": 29,
+    "movie_name": "Welcome to the Rileys",
+    "genres": ["Drama"],
+    "release_date": "7/18/2018"
+  },
+  {
+    "movie_id": 28,
+    "movie_name": "Born to Kill",
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "release_date": "12/16/2017"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Mosaic",
+    "genres": ["Animation"],
+    "release_date": "12/29/2017"
+  },
+  {
+    "movie_id": 84,
+    "movie_name": "Don't Worry, I'm Fine (Je vais bien, ne t'en fais pas)",
+    "genres": ["Drama"],
+    "release_date": "12/22/2017"
+  },
+  {
+    "movie_id": 24,
+    "movie_name": "Butter",
+    "genres": ["Comedy"],
+    "release_date": "6/29/2018"
+  },
+  {
+    "movie_id": 56,
+    "movie_name": "San Antonio",
+    "genres": ["Western"],
+    "release_date": "10/5/2018"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "Shattered Glass",
+    "genres": ["Crime", "Drama"],
+    "release_date": "11/6/2017"
+  },
+  {
+    "movie_id": 24,
+    "movie_name": "Bloodtide",
+    "genres": ["Horror"],
+    "release_date": "7/5/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Kisses for My President",
+    "genres": ["Comedy"],
+    "release_date": "1/13/2018"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Man Who Quit Smoking, The (Mannen som slutade r\u00f6ka)",
+    "genres": ["Comedy"],
+    "release_date": "5/10/2018"
+  },
+  {
+    "movie_id": 89,
+    "movie_name": "Girls! Girls! Girls!",
+    "genres": ["Comedy", "Musical"],
+    "release_date": "5/2/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Serpico",
+    "genres": ["Crime", "Drama"],
+    "release_date": "5/10/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Happiest Days of Your Life, The",
+    "genres": ["Comedy"],
+    "release_date": "3/27/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Take the Money and Run",
+    "genres": ["Comedy", "Crime"],
+    "release_date": "7/20/2018"
+  },
+  {
+    "movie_id": 11,
+    "movie_name": "Racing Stripes",
+    "genres": ["Children", "Comedy"],
+    "release_date": "10/28/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Disappeared, The",
+    "genres": ["Horror"],
+    "release_date": "4/26/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Phil Spector",
+    "genres": ["Drama"],
+    "release_date": "3/25/2018"
+  },
+  {
+    "movie_id": 11,
+    "movie_name": "Kind Hearts and Coronets",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "5/17/2018"
+  },
+  {
+    "movie_id": 38,
+    "movie_name": "Take This Job and Shove It",
+    "genres": ["Comedy"],
+    "release_date": "10/3/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Star Is Born, A",
+    "genres": ["Drama", "Musical", "Romance"],
+    "release_date": "4/6/2018"
+  },
+  {
+    "movie_id": 84,
+    "movie_name": "Dead Pit, The",
+    "genres": ["Horror"],
+    "release_date": "6/16/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "A Star Athlete",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "12/15/2017"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "18 Years Old and Rising (J'aime regarder les filles)",
+    "genres": ["Comedy"],
+    "release_date": "9/12/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Three Men and a Cradle (3 hommes et un couffin)",
+    "genres": ["Comedy"],
+    "release_date": "6/6/2018"
+  },
+  {
+    "movie_id": 60,
+    "movie_name": "Tortured, The",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "12/15/2017"
+  },
+  {
+    "movie_id": 24,
+    "movie_name": "Inkheart",
+    "genres": ["Adventure", "Fantasy"],
+    "release_date": "6/14/2018"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Impy's Island",
+    "genres": ["Animation", "Children", "Fantasy"],
+    "release_date": "6/18/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "Involuntary (De ofrivilliga)",
+    "genres": ["Drama"],
+    "release_date": "2/25/2018"
+  },
+  {
+    "movie_id": 78,
+    "movie_name": "War on Democracy, The",
+    "genres": ["Documentary"],
+    "release_date": "6/20/2018"
+  },
+  {
+    "movie_id": 55,
+    "movie_name": "Dark at the Top of the Stairs, The",
+    "genres": ["Drama"],
+    "release_date": "10/6/2018"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "Venice/Venice",
+    "genres": ["Drama"],
+    "release_date": "3/15/2018"
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "Stanley & Iris",
+    "genres": ["Drama", "Romance"],
+    "release_date": "7/24/2018"
+  },
+  {
+    "movie_id": 50,
+    "movie_name": "Roberta",
+    "genres": ["Comedy", "Musical", "Romance"],
+    "release_date": "12/6/2017"
+  },
+  {
+    "movie_id": 71,
+    "movie_name": "Late Marriage (Hatuna Meuheret)",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "8/19/2018"
+  },
+  {
+    "movie_id": 48,
+    "movie_name": "Crimson Gold (Talaye sorgh)",
+    "genres": ["Drama"],
+    "release_date": "10/9/2018"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "Captain America II: Death Too Soon",
+    "genres": ["Action", "Crime"],
+    "release_date": "3/23/2018"
+  },
+  {
+    "movie_id": 9,
+    "movie_name": "Police Academy 2: Their First Assignment",
+    "genres": ["Comedy", "Crime"],
+    "release_date": "12/18/2017"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "Moonshot",
+    "genres": ["Drama"],
+    "release_date": "1/20/2018"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Wild Angels, The",
+    "genres": ["Action", "Drama"],
+    "release_date": "2/5/2018"
+  },
+  {
+    "movie_id": 74,
+    "movie_name": "B\u00fbche, La",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "2/26/2018"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "Three Coins in the Fountain",
+    "genres": ["Drama", "Romance"],
+    "release_date": "4/19/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Matriarch, The (Lieksa!)",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "8/31/2018"
+  },
+  {
+    "movie_id": 88,
+    "movie_name": "Sins of My Father",
+    "genres": ["Documentary"],
+    "release_date": "2/18/2018"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "He Walked by Night",
+    "genres": ["Crime", "Film-Noir", "Thriller"],
+    "release_date": "3/31/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Amityville Horror, The",
+    "genres": ["Drama", "Horror", "Mystery", "Thriller"],
+    "release_date": "10/6/2018"
+  },
+  {
+    "movie_id": 18,
+    "movie_name": "Greyfriars Bobby (a.k.a. Greyfriars Bobby: The True Story of a Dog)",
+    "genres": ["Children", "Drama"],
+    "release_date": "3/10/2018"
+  },
+  {
+    "movie_id": 98,
+    "movie_name": "Red Sorghum (Hong gao liang)",
+    "genres": ["Drama", "War"],
+    "release_date": "5/29/2018"
+  },
+  {
+    "movie_id": 84,
+    "movie_name": "Wattstax",
+    "genres": ["Documentary", "Musical"],
+    "release_date": "5/31/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "7 Khoon Maaf",
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "release_date": "5/23/2018"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "Couples Retreat",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "4/5/2018"
+  },
+  {
+    "movie_id": 26,
+    "movie_name": "Love Movie, The (Rakkauselokuva)",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "1/18/2018"
+  },
+  {
+    "movie_id": 16,
+    "movie_name": "Ice Soldiers",
+    "genres": ["Action", "Sci-Fi"],
+    "release_date": "5/24/2018"
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "Medium Cool",
+    "genres": ["Drama", "Romance"],
+    "release_date": "9/18/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Daddy's Dyin'... Who's Got the Will?",
+    "genres": ["Comedy"],
+    "release_date": "4/7/2018"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Tribe, The (Plemya)",
+    "genres": ["Crime", "Drama"],
+    "release_date": "6/17/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "House of Wax",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "5/10/2018"
+  },
+  {
+    "movie_id": 88,
+    "movie_name": "Bhaji on the Beach",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "6/12/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "The Dancer",
+    "genres": ["Drama", "Romance"],
+    "release_date": "8/2/2018"
+  },
+  {
+    "movie_id": 77,
+    "movie_name": "Suicide Club (Jisatsu saakuru)",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "release_date": "8/16/2018"
+  },
+  {
+    "movie_id": 69,
+    "movie_name": "Ten Inch Hero",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "6/18/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Dog Run",
+    "genres": ["Drama"],
+    "release_date": "11/24/2017"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "In the Mood For Love (Fa yeung nin wa)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "10/30/2017"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "Twin Sitters",
+    "genres": ["Thriller"],
+    "release_date": "8/21/2018"
+  },
+  {
+    "movie_id": 96,
+    "movie_name": "Linda Linda Linda",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "1/3/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Longest Day, The",
+    "genres": ["Action", "Drama", "War"],
+    "release_date": "3/14/2018"
+  },
+  {
+    "movie_id": 71,
+    "movie_name": "Thirst (Pyaasa)",
+    "genres": ["Drama", "Musical", "Romance"],
+    "release_date": "12/11/2017"
+  },
+  {
+    "movie_id": 19,
+    "movie_name": "Billy Liar",
+    "genres": ["Comedy"],
+    "release_date": "7/25/2018"
+  },
+  {
+    "movie_id": 89,
+    "movie_name": "Moon",
+    "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
+    "release_date": "12/27/2017"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "Adventure of Sherlock Holmes' Smarter Brother, The",
+    "genres": ["Comedy", "Crime", "Mystery"],
+    "release_date": "8/27/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Thrilla in Manila",
+    "genres": ["Documentary"],
+    "release_date": "7/4/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Sex and the Single Girl",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "8/4/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Hipnos",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "4/18/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "If a Tree Falls: A Story of the Earth Liberation Front",
+    "genres": ["Documentary"],
+    "release_date": "7/12/2018"
+  },
+  {
+    "movie_id": 48,
+    "movie_name": "Het Vonnis",
+    "genres": ["Crime", "Drama"],
+    "release_date": "10/20/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Chronos",
+    "genres": ["Documentary", "IMAX"],
+    "release_date": "6/26/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Air Doll (K\u00fbki ningy\u00f4)",
+    "genres": ["Drama"],
+    "release_date": "11/29/2017"
+  },
+  {
+    "movie_id": 46,
+    "movie_name": "Era of Vampires, The",
+    "genres": ["Action", "Horror"],
+    "release_date": "5/5/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Ned Kelly",
+    "genres": ["Drama"],
+    "release_date": "5/3/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Entrapment",
+    "genres": ["Crime", "Thriller"],
+    "release_date": "11/30/2017"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Island President, The",
+    "genres": ["Documentary"],
+    "release_date": "2/18/2018"
+  },
+  {
+    "movie_id": 31,
+    "movie_name": "MVP: Most Valuable Primate",
+    "genres": ["Comedy"],
+    "release_date": "9/20/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Long Gray Line, The",
+    "genres": ["Drama"],
+    "release_date": "11/28/2017"
+  },
+  {
+    "movie_id": 28,
+    "movie_name": "Too Late the Hero",
+    "genres": ["Action", "War"],
+    "release_date": "2/18/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Wolves",
+    "genres": ["Documentary", "IMAX"],
+    "release_date": "3/20/2018"
+  },
+  {
+    "movie_id": 89,
+    "movie_name": "Working Girl",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "12/19/2017"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Pursuit of D.B. Cooper, The (a.k.a. Pursuit)",
+    "genres": ["Adventure"],
+    "release_date": "2/19/2018"
+  },
+  {
+    "movie_id": 31,
+    "movie_name": "Summer by the River, A (Kuningasj\u00e4tk\u00e4)",
+    "genres": ["Drama"],
+    "release_date": "8/28/2018"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "Thousand Clouds of Peace, A (Mil nubes de paz cercan el cielo, amor, jam\u00e1s acabar\u00e1s de ser amor)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "9/30/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Flat, The",
+    "genres": ["Documentary"],
+    "release_date": "1/29/2018"
+  },
+  {
+    "movie_id": 21,
+    "movie_name": "2 Fast 2 Furious (Fast and the Furious 2, The)",
+    "genres": ["Action", "Crime", "Thriller"],
+    "release_date": "5/17/2018"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Together (Han ni Zai Yiki)",
+    "genres": ["Drama"],
+    "release_date": "7/10/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "March of the Penguins (Marche de l'empereur, La)",
+    "genres": ["Documentary"],
+    "release_date": "6/9/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "Electric House, The",
+    "genres": ["Comedy"],
+    "release_date": "9/9/2018"
+  },
+  {
+    "movie_id": 78,
+    "movie_name": "Wild Geese II",
+    "genres": ["Action"],
+    "release_date": "5/23/2018"
+  },
+  {
+    "movie_id": 13,
+    "movie_name": "Party Girl",
+    "genres": ["Comedy"],
+    "release_date": "2/6/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "Soldier, The",
+    "genres": ["Action"],
+    "release_date": "5/2/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Campus Man",
+    "genres": ["Comedy"],
+    "release_date": "10/3/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Mr. Woodcock",
+    "genres": ["Comedy"],
+    "release_date": "7/30/2018"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "Color of Paradise, The (Rang-e khoda)",
+    "genres": ["Drama"],
+    "release_date": "5/3/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Monster Walks, The",
+    "genres": ["Horror"],
+    "release_date": "9/10/2018"
+  },
+  {
+    "movie_id": 26,
+    "movie_name": "Pervert's Guide to Ideology, The",
+    "genres": ["Documentary"],
+    "release_date": "3/27/2018"
+  },
+  {
+    "movie_id": 26,
+    "movie_name": "Dane Cook: Vicious Circle",
+    "genres": ["Comedy"],
+    "release_date": "6/13/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Primus Hallucino-Genetics Live 2004",
+    "genres": ["(no genres listed)"],
+    "release_date": "8/17/2018"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "Vivre sa vie: Film en douze tableaux (My Life to Live)",
+    "genres": ["Drama"],
+    "release_date": "12/23/2017"
+  },
+  {
+    "movie_id": 98,
+    "movie_name": "Three (Tri)",
+    "genres": ["Drama", "War"],
+    "release_date": "3/11/2018"
+  },
+  {
+    "movie_id": 55,
+    "movie_name": "All These Women (F\u00f6r att inte tala om alla dessa kvinnor)",
+    "genres": ["Comedy"],
+    "release_date": "12/20/2017"
+  },
+  {
+    "movie_id": 96,
+    "movie_name": "G@me",
+    "genres": ["Thriller"],
+    "release_date": "4/14/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Attack, The",
+    "genres": ["Romance", "Thriller"],
+    "release_date": "12/23/2017"
+  },
+  {
+    "movie_id": 83,
+    "movie_name": "War You Don't See, The",
+    "genres": ["Documentary"],
+    "release_date": "2/3/2018"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "Vision (Vision - Aus dem Leben der Hildegard von Bingen)",
+    "genres": ["Drama"],
+    "release_date": "5/14/2018"
+  },
+  {
+    "movie_id": 13,
+    "movie_name": "Story of Yonosuke, A (Yokomichi Yonosuke)",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "8/4/2018"
+  },
+  {
+    "movie_id": 55,
+    "movie_name": "Young & Beautiful",
+    "genres": ["Drama"],
+    "release_date": "9/2/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "They Won't Believe Me",
+    "genres": ["Drama", "Film-Noir"],
+    "release_date": "11/22/2017"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "The Fat Spy",
+    "genres": ["Comedy"],
+    "release_date": "4/11/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Walk the Line",
+    "genres": ["Drama", "Musical", "Romance"],
+    "release_date": "4/25/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Mondays in the Sun (Lunes al sol, Los)",
+    "genres": ["Drama"],
+    "release_date": "2/1/2018"
+  },
+  {
+    "movie_id": 85,
+    "movie_name": "24 City (Er shi si cheng ji)",
+    "genres": ["Drama"],
+    "release_date": "10/26/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Montana",
+    "genres": ["Action", "Adventure", "Romance", "Western"],
+    "release_date": "11/26/2017"
+  },
+  {
+    "movie_id": 55,
+    "movie_name": "Cran d'arr\u00eat",
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "release_date": "5/7/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Calendar Girl",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "7/8/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Terms and Conditions May Apply",
+    "genres": ["Documentary"],
+    "release_date": "12/29/2017"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Eight Days a Week",
+    "genres": ["Comedy"],
+    "release_date": "2/1/2018"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "You Will Meet a Tall Dark Stranger",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "10/7/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Parenthood",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "9/21/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "The Apocalypse",
+    "genres": ["Action", "Drama"],
+    "release_date": "2/24/2018"
+  },
+  {
+    "movie_id": 65,
+    "movie_name": "Win a Date with Tad Hamilton!",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "5/20/2018"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Bajo la Sal (Under the Salt)",
+    "genres": ["Mystery", "Thriller"],
+    "release_date": "12/2/2017"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "Jack the Giant Killer",
+    "genres": ["Adventure", "Fantasy"],
+    "release_date": "11/9/2017"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Blue Gardenia, The",
+    "genres": ["Crime", "Drama", "Film-Noir", "Thriller"],
+    "release_date": "2/23/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Will Ferrell: You're Welcome America - A Final Night with George W Bush",
+    "genres": ["Comedy"],
+    "release_date": "2/1/2018"
+  },
+  {
+    "movie_id": 89,
+    "movie_name": "Night Terrors",
+    "genres": ["Horror"],
+    "release_date": "11/25/2017"
+  },
+  {
+    "movie_id": 87,
+    "movie_name": "Judge and the Assassin, The (Juge et l'assassin, Le)",
+    "genres": ["Crime", "Drama"],
+    "release_date": "4/3/2018"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "They Call Us Misfits (Dom kallar oss mods)",
+    "genres": ["Documentary"],
+    "release_date": "3/25/2018"
+  },
+  {
+    "movie_id": 42,
+    "movie_name": "I Am Ali",
+    "genres": ["Documentary"],
+    "release_date": "2/7/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Long Weekend, The",
+    "genres": ["Comedy"],
+    "release_date": "11/4/2017"
+  },
+  {
+    "movie_id": 62,
+    "movie_name": "Ebola Syndrome, The (Yi boh laai beng duk)",
+    "genres": ["Comedy", "Horror"],
+    "release_date": "6/29/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Promised Life, The (Vie promise, La)",
+    "genres": ["Drama"],
+    "release_date": "8/14/2018"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "I Accuse!",
+    "genres": ["Drama"],
+    "release_date": "12/3/2017"
+  },
+  {
+    "movie_id": 82,
+    "movie_name": "Tomb, The",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "3/10/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Fathom",
+    "genres": ["Adventure"],
+    "release_date": "10/14/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Assassination",
+    "genres": ["Action", "Drama", "Thriller"],
+    "release_date": "1/13/2018"
+  },
+  {
+    "movie_id": 26,
+    "movie_name": "Shanghai Express",
+    "genres": ["Adventure", "Drama", "Romance"],
+    "release_date": "9/7/2018"
+  },
+  {
+    "movie_id": 88,
+    "movie_name": "Woman Who Drinks, The (La femme qui boit)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "6/19/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "Go Get Some Rosemary (Daddy Longlegs)",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "10/2/2018"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "Jour se l\u00e8ve, Le (Daybreak)",
+    "genres": ["Crime", "Drama", "Romance", "Thriller"],
+    "release_date": "8/13/2018"
+  },
+  {
+    "movie_id": 9,
+    "movie_name": "Chaser, The (Chugyeogja)",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "6/12/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Awfully Big Adventure, An",
+    "genres": ["Drama"],
+    "release_date": "7/29/2018"
+  },
+  {
+    "movie_id": 12,
+    "movie_name": "Not Another Teen Movie",
+    "genres": ["Comedy"],
+    "release_date": "9/7/2018"
+  },
+  {
+    "movie_id": 21,
+    "movie_name": "Frankenstein's Army",
+    "genres": ["Action", "Horror", "Sci-Fi"],
+    "release_date": "6/7/2018"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "King, The",
+    "genres": ["Drama"],
+    "release_date": "2/11/2018"
+  },
+  {
+    "movie_id": 88,
+    "movie_name": "Monty Python: Almost the Truth - Lawyers Cut",
+    "genres": ["Comedy", "Documentary"],
+    "release_date": "11/3/2017"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Craig Ferguson: I'm Here To Help",
+    "genres": ["Comedy", "Documentary"],
+    "release_date": "11/17/2017"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "You Were Never Lovelier",
+    "genres": ["Comedy", "Musical", "Romance"],
+    "release_date": "10/15/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "OH in Ohio, The",
+    "genres": ["Comedy"],
+    "release_date": "8/28/2018"
+  },
+  {
+    "movie_id": 82,
+    "movie_name": "Car Bonus (Autobonus)",
+    "genres": ["Documentary"],
+    "release_date": "8/23/2018"
+  },
+  {
+    "movie_id": 96,
+    "movie_name": "Believer, The",
+    "genres": ["Drama"],
+    "release_date": "2/21/2018"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Wild Bill",
+    "genres": ["Crime", "Drama"],
+    "release_date": "6/12/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Down and Out in Beverly Hills",
+    "genres": ["Comedy"],
+    "release_date": "6/12/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Mad About Mambo",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "9/22/2018"
+  },
+  {
+    "movie_id": 7,
+    "movie_name": "Prom Night",
+    "genres": ["Horror"],
+    "release_date": "9/17/2018"
+  },
+  {
+    "movie_id": 16,
+    "movie_name": "Holiday Wishes",
+    "genres": ["Children", "Comedy", "Drama"],
+    "release_date": "10/11/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Finding Forrester",
+    "genres": ["Drama"],
+    "release_date": "8/12/2018"
+  },
+  {
+    "movie_id": 52,
+    "movie_name": "Peanut Butter Solution, The",
+    "genres": ["Children", "Fantasy"],
+    "release_date": "5/6/2018"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "There's Something Wrong with Aunt Diane",
+    "genres": ["Documentary"],
+    "release_date": "1/22/2018"
+  },
+  {
+    "movie_id": 71,
+    "movie_name": "Berkeley in the '60s",
+    "genres": ["Documentary"],
+    "release_date": "9/30/2018"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "Adam & Steve",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "11/24/2017"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Naked Souls",
+    "genres": ["Sci-Fi", "Thriller"],
+    "release_date": "11/24/2017"
+  },
+  {
+    "movie_id": 12,
+    "movie_name": "Five Minutes of Heaven",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "1/5/2018"
+  },
+  {
+    "movie_id": 13,
+    "movie_name": "Camouflage",
+    "genres": ["Action", "Comedy"],
+    "release_date": "7/14/2018"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Princess O'Rourke",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "4/17/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Days and Nights in the Forest (Aranyer Din Ratri)",
+    "genres": ["Drama"],
+    "release_date": "2/23/2018"
+  },
+  {
+    "movie_id": 77,
+    "movie_name": "Casanova",
+    "genres": ["Action", "Adventure", "Comedy", "Drama", "Romance"],
+    "release_date": "7/21/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Carnosaur 3: Primal Species",
+    "genres": ["Horror", "Sci-Fi"],
+    "release_date": "11/29/2017"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "In the Heart of the Sea",
+    "genres": ["Action", "Adventure", "Drama"],
+    "release_date": "2/22/2018"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Stay Tuned",
+    "genres": ["Comedy"],
+    "release_date": "6/26/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Fireworks Wednesday (Chaharshanbe-soori)",
+    "genres": ["Drama", "Mystery", "Romance"],
+    "release_date": "8/15/2018"
+  },
+  {
+    "movie_id": 16,
+    "movie_name": "Anna Christie",
+    "genres": ["Drama"],
+    "release_date": "6/16/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Tomorrow at Dawn (Demain d\u00e8s l'aube)",
+    "genres": ["Drama"],
+    "release_date": "1/24/2018"
+  },
+  {
+    "movie_id": 61,
+    "movie_name": "Old Gringo",
+    "genres": ["Drama"],
+    "release_date": "11/27/2017"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Little Help, A",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "11/15/2017"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "Shall We Kiss? (Un baiser s'il vous plait)",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "11/29/2017"
+  },
+  {
+    "movie_id": 76,
+    "movie_name": "Jarhead 2: Field of Fire",
+    "genres": ["Action", "Drama", "War"],
+    "release_date": "6/30/2018"
+  },
+  {
+    "movie_id": 61,
+    "movie_name": "Josh and S.A.M.",
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "release_date": "4/13/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Thorn in the Heart, The",
+    "genres": ["Documentary"],
+    "release_date": "5/14/2018"
+  },
+  {
+    "movie_id": 26,
+    "movie_name": "Mike Bassett: England Manager",
+    "genres": ["Comedy"],
+    "release_date": "8/15/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Sniper: Reloaded ",
+    "genres": ["Action", "Drama", "Thriller", "War"],
+    "release_date": "5/5/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Zathura",
+    "genres": ["Action", "Adventure", "Children", "Fantasy"],
+    "release_date": "9/16/2018"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "River Murders, The",
+    "genres": ["Thriller"],
+    "release_date": "6/15/2018"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Madigan",
+    "genres": ["Crime", "Drama"],
+    "release_date": "1/23/2018"
+  },
+  {
+    "movie_id": 87,
+    "movie_name": "George & A.J.",
+    "genres": ["Animation", "Children", "Comedy"],
+    "release_date": "2/17/2018"
+  },
+  {
+    "movie_id": 76,
+    "movie_name": "Baton Rouge (B\u00e2ton rouge)",
+    "genres": ["Thriller"],
+    "release_date": "12/12/2017"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Summer Storm (Sommersturm)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "3/16/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "Northwest Passage",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Thriller",
+      "Western"
+    ],
+    "release_date": "9/6/2018"
+  },
+  {
+    "movie_id": 29,
+    "movie_name": "LennoNYC",
+    "genres": ["Documentary"],
+    "release_date": "10/13/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Sunday in Kigali, A (Un dimanche \u00e0 Kigali)",
+    "genres": ["Drama", "War"],
+    "release_date": "5/10/2018"
+  },
+  {
+    "movie_id": 28,
+    "movie_name": "Dead, The",
+    "genres": ["Horror"],
+    "release_date": "8/9/2018"
+  },
+  {
+    "movie_id": 29,
+    "movie_name": "Manderlay",
+    "genres": ["Drama"],
+    "release_date": "7/5/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Crimewave",
+    "genres": ["Comedy", "Crime"],
+    "release_date": "10/9/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Art of Dying, The (El Arte de Morir)",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "release_date": "3/17/2018"
+  },
+  {
+    "movie_id": 52,
+    "movie_name": "As Good as It Gets",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "4/26/2018"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Zeus and Roxanne",
+    "genres": ["Children"],
+    "release_date": "12/12/2017"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Ocean's Eleven",
+    "genres": ["Crime", "Thriller"],
+    "release_date": "6/28/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Passion Flower",
+    "genres": ["Drama"],
+    "release_date": "11/9/2017"
+  },
+  {
+    "movie_id": 38,
+    "movie_name": "Batman Returns",
+    "genres": ["Action", "Crime"],
+    "release_date": "4/3/2018"
+  },
+  {
+    "movie_id": 61,
+    "movie_name": "5,000 Fingers of Dr. T, The",
+    "genres": ["Children", "Fantasy", "Musical"],
+    "release_date": "10/10/2018"
+  },
+  {
+    "movie_id": 11,
+    "movie_name": "Outlaw of Gor",
+    "genres": ["Action", "Fantasy", "Sci-Fi"],
+    "release_date": "9/11/2018"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "Almost an Angel",
+    "genres": ["Comedy"],
+    "release_date": "2/23/2018"
+  },
+  {
+    "movie_id": 93,
+    "movie_name": "Lucy",
+    "genres": ["Action", "Sci-Fi"],
+    "release_date": "1/20/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Legion",
+    "genres": ["Action", "Fantasy", "Horror", "Thriller"],
+    "release_date": "6/6/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "World, The (Shijie)",
+    "genres": ["Drama"],
+    "release_date": "7/18/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Ace of Hearts",
+    "genres": ["Children", "Drama"],
+    "release_date": "8/24/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Enid Is Sleeping",
+    "genres": ["Comedy"],
+    "release_date": "7/29/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Man Who Loved Women, The (Homme qui aimait les femmes, L')",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "2/18/2018"
+  },
+  {
+    "movie_id": 74,
+    "movie_name": "Excuse Me Darling, But Lucas Loved Me",
+    "genres": ["Comedy"],
+    "release_date": "9/23/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Mr. Accident",
+    "genres": ["Comedy"],
+    "release_date": "12/28/2017"
+  },
+  {
+    "movie_id": 7,
+    "movie_name": "Nadja",
+    "genres": ["Drama"],
+    "release_date": "7/17/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "D.E.B.S.",
+    "genres": ["Action", "Comedy"],
+    "release_date": "9/14/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Tap",
+    "genres": ["Drama"],
+    "release_date": "2/25/2018"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Doppelganger (Dopperugeng\u00e2)",
+    "genres": ["Comedy", "Thriller"],
+    "release_date": "9/19/2018"
+  },
+  {
+    "movie_id": 62,
+    "movie_name": "One-Eyed Jacks",
+    "genres": ["Western"],
+    "release_date": "11/4/2017"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "House of Strangers",
+    "genres": ["Drama", "Film-Noir"],
+    "release_date": "12/9/2017"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Dear John",
+    "genres": ["Drama", "Romance", "War"],
+    "release_date": "3/5/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Resistance",
+    "genres": ["Drama", "Thriller", "War"],
+    "release_date": "8/14/2018"
+  },
+  {
+    "movie_id": 69,
+    "movie_name": "Repo Men",
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "release_date": "6/4/2018"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Rich and Famous (Gong woo ching)",
+    "genres": ["Action", "Crime", "Drama"],
+    "release_date": "1/20/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Hitcher, The",
+    "genres": ["Action", "Horror", "Thriller"],
+    "release_date": "11/3/2017"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "He Loves Me... He Loves Me Not (\u00c0 la folie... pas du tout)",
+    "genres": ["Romance", "Thriller"],
+    "release_date": "2/28/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "High Time (Big Daddy)",
+    "genres": ["Comedy", "Musical"],
+    "release_date": "6/26/2018"
+  },
+  {
+    "movie_id": 76,
+    "movie_name": "2 ou 3 choses que je sais d'elle (2 or 3 Things I Know About Her)",
+    "genres": ["Drama"],
+    "release_date": "6/19/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Wind, The",
+    "genres": ["Drama", "Western"],
+    "release_date": "8/29/2018"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "Miss Firecracker",
+    "genres": ["Comedy"],
+    "release_date": "11/14/2017"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Ravenous",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "8/2/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Tribute to a Bad Man",
+    "genres": ["Western"],
+    "release_date": "2/1/2018"
+  },
+  {
+    "movie_id": 99,
+    "movie_name": "Johnny Guitar",
+    "genres": ["Drama", "Western"],
+    "release_date": "4/28/2018"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "Shark Night 3D",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "3/27/2018"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "Heaven",
+    "genres": ["Drama"],
+    "release_date": "8/29/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Dust of Time, The",
+    "genres": ["Drama"],
+    "release_date": "4/25/2018"
+  },
+  {
+    "movie_id": 74,
+    "movie_name": "Chronicle of My Mother (Waga haha no ki)",
+    "genres": ["Drama"],
+    "release_date": "8/18/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "Human Comedy, The",
+    "genres": ["Drama"],
+    "release_date": "11/11/2017"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Under the Stars (Bajo las estrellas)",
+    "genres": ["Drama"],
+    "release_date": "3/3/2018"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Position Among The Stars (Stand van de Sterren)",
+    "genres": ["Documentary"],
+    "release_date": "5/26/2018"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Red Riding: 1983",
+    "genres": ["Crime", "Drama", "Mystery"],
+    "release_date": "7/29/2018"
+  },
+  {
+    "movie_id": 71,
+    "movie_name": "Blood Suckers from Outer Space",
+    "genres": ["Comedy", "Horror", "Sci-Fi"],
+    "release_date": "10/7/2018"
+  },
+  {
+    "movie_id": 61,
+    "movie_name": "Julia",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "3/20/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Dutch",
+    "genres": ["Comedy"],
+    "release_date": "12/7/2017"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Tamara",
+    "genres": ["Fantasy", "Horror", "Thriller"],
+    "release_date": "6/14/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Eureka (Yur\u00eeka)",
+    "genres": ["Drama"],
+    "release_date": "7/6/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Wicked Blood",
+    "genres": ["Action", "Drama", "Thriller"],
+    "release_date": "12/26/2017"
+  },
+  {
+    "movie_id": 84,
+    "movie_name": "Coming Home",
+    "genres": ["Drama", "War"],
+    "release_date": "8/30/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Just an American Boy",
+    "genres": ["Documentary"],
+    "release_date": "4/29/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Less is More (Menos es m\u00e1s)",
+    "genres": ["Comedy"],
+    "release_date": "5/29/2018"
+  },
+  {
+    "movie_id": 24,
+    "movie_name": "Brooklyn Bridge",
+    "genres": ["Documentary"],
+    "release_date": "7/11/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "City Slickers II: The Legend of Curly's Gold",
+    "genres": ["Adventure", "Comedy", "Western"],
+    "release_date": "4/3/2018"
+  },
+  {
+    "movie_id": 19,
+    "movie_name": "Cinderfella",
+    "genres": ["Comedy"],
+    "release_date": "9/17/2018"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "12 Days of Terror",
+    "genres": ["Drama", "Horror", "Thriller"],
+    "release_date": "8/24/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Dreamland",
+    "genres": ["Drama"],
+    "release_date": "2/24/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "White Banners",
+    "genres": ["Drama"],
+    "release_date": "11/8/2017"
+  },
+  {
+    "movie_id": 31,
+    "movie_name": "Secrets of Jonathan Sperry, The",
+    "genres": ["Drama"],
+    "release_date": "3/23/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Test Pilot",
+    "genres": ["Drama", "Romance"],
+    "release_date": "2/10/2018"
+  },
+  {
+    "movie_id": 20,
+    "movie_name": "West of Memphis",
+    "genres": ["Documentary"],
+    "release_date": "8/6/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Boxing Gym",
+    "genres": ["Documentary"],
+    "release_date": "4/15/2018"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "Silent Hill: Revelation 3D",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "release_date": "5/27/2018"
+  },
+  {
+    "movie_id": 56,
+    "movie_name": "Balto: Wolf Quest ",
+    "genres": ["Adventure", "Animation", "Children"],
+    "release_date": "8/15/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Watercolors",
+    "genres": ["Drama", "Romance"],
+    "release_date": "8/24/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "Aujourd'hui",
+    "genres": ["Drama"],
+    "release_date": "9/16/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Cliffhanger",
+    "genres": ["Action", "Adventure", "Thriller"],
+    "release_date": "9/2/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "King's Faith",
+    "genres": ["Drama"],
+    "release_date": "5/23/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Battlestar Galactica: The Plan",
+    "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+    "release_date": "10/17/2018"
+  },
+  {
+    "movie_id": 87,
+    "movie_name": "Happy Time, The",
+    "genres": ["Comedy"],
+    "release_date": "11/14/2017"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Eight Days a Week",
+    "genres": ["Comedy"],
+    "release_date": "5/7/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Tai Chi Zero",
+    "genres": ["Action", "Fantasy", "Sci-Fi", "IMAX"],
+    "release_date": "7/31/2018"
+  },
+  {
+    "movie_id": 28,
+    "movie_name": "Innocent Affair, An (Don't Trust Your Husband) (Under Suspicion)",
+    "genres": ["Comedy"],
+    "release_date": "10/27/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Nancy Goes to Rio",
+    "genres": ["Comedy", "Musical"],
+    "release_date": "8/1/2018"
+  },
+  {
+    "movie_id": 77,
+    "movie_name": "Basket Case",
+    "genres": ["Comedy", "Horror"],
+    "release_date": "1/23/2018"
+  },
+  {
+    "movie_id": 99,
+    "movie_name": "Village Barbershop, The",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "6/15/2018"
+  },
+  {
+    "movie_id": 93,
+    "movie_name": "Neverland",
+    "genres": ["Adventure", "Fantasy"],
+    "release_date": "7/23/2018"
+  },
+  {
+    "movie_id": 18,
+    "movie_name": "Sune p\u00e5 bilsemester",
+    "genres": ["Children", "Comedy"],
+    "release_date": "1/13/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "David Cross: Bigger & Blackerer",
+    "genres": ["Comedy", "Documentary"],
+    "release_date": "10/1/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Marat/Sade",
+    "genres": ["Drama", "Musical"],
+    "release_date": "3/3/2018"
+  },
+  {
+    "movie_id": 61,
+    "movie_name": "The Night That Panicked America",
+    "genres": ["(no genres listed)"],
+    "release_date": "5/25/2018"
+  },
+  {
+    "movie_id": 85,
+    "movie_name": "Stand Off",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "10/24/2018"
+  },
+  {
+    "movie_id": 48,
+    "movie_name": "Ingrid",
+    "genres": ["Drama"],
+    "release_date": "3/1/2018"
+  },
+  {
+    "movie_id": 38,
+    "movie_name": "Manta, Manta",
+    "genres": ["Comedy"],
+    "release_date": "6/11/2018"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "Arlington Road",
+    "genres": ["Thriller"],
+    "release_date": "12/19/2017"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "V\u00e4\u00e4peli K\u00f6rmy - Taisteluni",
+    "genres": ["Comedy"],
+    "release_date": "1/13/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "WUSA",
+    "genres": ["Drama"],
+    "release_date": "8/3/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Runaway Jury",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "9/23/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Around the World Under the Sea",
+    "genres": ["Action", "Adventure"],
+    "release_date": "11/5/2017"
+  },
+  {
+    "movie_id": 9,
+    "movie_name": "Saints and Soldiers: The Void",
+    "genres": ["Action", "Drama", "War"],
+    "release_date": "1/26/2018"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Playing 'In the Company of Men' (En jouant 'Dans la compagnie des hommes')",
+    "genres": ["Drama"],
+    "release_date": "9/7/2018"
+  },
+  {
+    "movie_id": 56,
+    "movie_name": "Package, The",
+    "genres": ["Action", "Thriller"],
+    "release_date": "11/13/2017"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "Happy-Go-Lucky",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "1/15/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Bone Man, The (Der Knochenmann)",
+    "genres": ["Crime", "Thriller"],
+    "release_date": "9/28/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Blood and Chocolate",
+    "genres": ["Drama", "Fantasy", "Horror", "Romance"],
+    "release_date": "3/20/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Alligator",
+    "genres": ["Action", "Horror", "Sci-Fi"],
+    "release_date": "12/14/2017"
+  },
+  {
+    "movie_id": 12,
+    "movie_name": "Runaway Bride",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "4/11/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud)",
+    "genres": ["Drama"],
+    "release_date": "2/2/2018"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Duplicity",
+    "genres": ["Crime", "Romance", "Thriller"],
+    "release_date": "4/10/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Dischord",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "4/3/2018"
+  },
+  {
+    "movie_id": 27,
+    "movie_name": "Female Agents (Les femmes de l'ombre)",
+    "genres": ["Drama", "War"],
+    "release_date": "11/13/2017"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Seducing Mr. Perfect",
+    "genres": ["Romance"],
+    "release_date": "8/10/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Innocent Man, An",
+    "genres": ["Crime", "Drama"],
+    "release_date": "2/20/2018"
+  },
+  {
+    "movie_id": 60,
+    "movie_name": "Youth of the Son",
+    "genres": ["Drama"],
+    "release_date": "11/27/2017"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Ingrid",
+    "genres": ["Drama"],
+    "release_date": "11/20/2017"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "Let's Be Cops",
+    "genres": ["Comedy", "Crime"],
+    "release_date": "7/4/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Ju Dou",
+    "genres": ["Drama"],
+    "release_date": "2/11/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Desperate Hours, The",
+    "genres": ["Drama", "Film-Noir", "Thriller"],
+    "release_date": "7/15/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Punisher: War Zone",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "release_date": "10/15/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Hunters, The (J\u00e4garna)",
+    "genres": ["Crime", "Thriller"],
+    "release_date": "1/21/2018"
+  },
+  {
+    "movie_id": 83,
+    "movie_name": "Prodigal Son, The (Bai ga jai)",
+    "genres": ["Action", "Adventure", "Drama"],
+    "release_date": "5/9/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Destruction Force",
+    "genres": ["Crime"],
+    "release_date": "8/16/2018"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "Lawless, The",
+    "genres": ["Drama"],
+    "release_date": "6/19/2018"
+  },
+  {
+    "movie_id": 19,
+    "movie_name": "Twenty Bucks",
+    "genres": ["Comedy"],
+    "release_date": "4/28/2018"
+  },
+  {
+    "movie_id": 98,
+    "movie_name": "Fresh Bait (L'app\u00e2t) ",
+    "genres": ["Crime", "Drama"],
+    "release_date": "12/23/2017"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Trouble in Mind",
+    "genres": ["Crime", "Drama"],
+    "release_date": "4/13/2018"
+  },
+  {
+    "movie_id": 7,
+    "movie_name": "Married to the Mob",
+    "genres": ["Comedy"],
+    "release_date": "1/17/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Hi-Yo Silver",
+    "genres": ["Western"],
+    "release_date": "10/27/2018"
+  },
+  {
+    "movie_id": 52,
+    "movie_name": "I Married a Monster from Outer Space",
+    "genres": ["Horror", "Sci-Fi"],
+    "release_date": "11/30/2017"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "King Lear (Korol Lir)",
+    "genres": ["Drama"],
+    "release_date": "10/18/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Last Exorcism, The",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "2/12/2018"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Scarecrow",
+    "genres": ["Drama"],
+    "release_date": "10/9/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Sicko",
+    "genres": ["Documentary", "Drama"],
+    "release_date": "4/22/2018"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "Christmas Carol: The Movie",
+    "genres": ["Animation", "Children"],
+    "release_date": "10/30/2017"
+  },
+  {
+    "movie_id": 60,
+    "movie_name": "The Gilded Cage",
+    "genres": ["Comedy"],
+    "release_date": "4/29/2018"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Stray Cat Rock: Sex Hunter (Nora-neko rokku: Sekkusu hanta)",
+    "genres": ["Crime"],
+    "release_date": "12/26/2017"
+  },
+  {
+    "movie_id": 18,
+    "movie_name": "Cutter's Way",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "12/10/2017"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Butcher, The (Boucher, Le)",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "12/8/2017"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "Buffalo Bill",
+    "genres": ["Western"],
+    "release_date": "3/29/2018"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "Cat Returns, The (Neko no ongaeshi)",
+    "genres": ["Adventure", "Animation", "Children", "Fantasy"],
+    "release_date": "8/21/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Tale of Zatoichi, The (Zat\u00f4ichi monogatari) (Zat\u00f4ichi 1)",
+    "genres": ["Drama"],
+    "release_date": "11/28/2017"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "Paan Singh Tomar",
+    "genres": ["Crime"],
+    "release_date": "2/8/2018"
+  },
+  {
+    "movie_id": 65,
+    "movie_name": "Little Witches",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "10/3/2018"
+  },
+  {
+    "movie_id": 77,
+    "movie_name": "Spiral",
+    "genres": ["Horror"],
+    "release_date": "11/23/2017"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Oceans (Oc\u00e9ans)",
+    "genres": ["Documentary", "Drama"],
+    "release_date": "4/21/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "Another Me",
+    "genres": ["Mystery", "Thriller"],
+    "release_date": "12/23/2017"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Assisted Living",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "3/3/2018"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "Triumph of the Will (Triumph des Willens)",
+    "genres": ["Documentary"],
+    "release_date": "1/14/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "American Boy: A Profile of: Steven Prince",
+    "genres": ["Documentary"],
+    "release_date": "5/14/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Kingsman: The Secret Service",
+    "genres": ["Action", "Adventure", "Comedy", "Crime"],
+    "release_date": "6/6/2018"
+  },
+  {
+    "movie_id": 19,
+    "movie_name": "They All Laughed",
+    "genres": ["Comedy"],
+    "release_date": "3/28/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Red Tent, The (Krasnaya palatka)",
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "release_date": "4/9/2018"
+  },
+  {
+    "movie_id": 76,
+    "movie_name": "Muppet Treasure Island",
+    "genres": ["Adventure", "Children", "Comedy", "Musical"],
+    "release_date": "8/13/2018"
+  },
+  {
+    "movie_id": 11,
+    "movie_name": "Almighty Thor",
+    "genres": ["Adventure", "Fantasy"],
+    "release_date": "4/5/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Mudlark, The",
+    "genres": ["Drama"],
+    "release_date": "5/8/2018"
+  },
+  {
+    "movie_id": 99,
+    "movie_name": "Down to Earth",
+    "genres": ["Drama"],
+    "release_date": "1/14/2018"
+  },
+  {
+    "movie_id": 20,
+    "movie_name": "Forest for the Trees, The (Der Wald vor lauter B\u00e4umen)",
+    "genres": ["Drama"],
+    "release_date": "6/4/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Taps",
+    "genres": ["Drama"],
+    "release_date": "7/21/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "Once Upon a Time in the West (C'era una volta il West)",
+    "genres": ["Action", "Drama", "Western"],
+    "release_date": "10/20/2018"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Morituri",
+    "genres": ["Drama", "War"],
+    "release_date": "2/24/2018"
+  },
+  {
+    "movie_id": 24,
+    "movie_name": "2010: The Year We Make Contact",
+    "genres": ["Sci-Fi"],
+    "release_date": "7/14/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "The Best of Me",
+    "genres": ["Drama", "Romance"],
+    "release_date": "7/5/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Svidd Neger",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "release_date": "3/10/2018"
+  },
+  {
+    "movie_id": 60,
+    "movie_name": "Beautiful Dreamer: Brian Wilson and the Story of 'Smile'",
+    "genres": ["Documentary"],
+    "release_date": "6/17/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Adam's Rib",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "11/28/2017"
+  },
+  {
+    "movie_id": 60,
+    "movie_name": "Ratcatcher",
+    "genres": ["Drama"],
+    "release_date": "10/15/2018"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Black Rose Ascension (Kurobara sh\u00f4ten)",
+    "genres": ["Drama"],
+    "release_date": "3/8/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Sun Alley (Sonnenallee)",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "2/25/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "The Possession of Michael King",
+    "genres": ["Horror"],
+    "release_date": "9/2/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Escape Artist, The",
+    "genres": ["Drama"],
+    "release_date": "11/19/2017"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "I Give It a Year",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "4/30/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Man I Love, The",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "3/27/2018"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "March of the Movies (Film Parade, The)",
+    "genres": ["Documentary"],
+    "release_date": "2/1/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Reefer Madness: The Movie Musical",
+    "genres": ["Comedy", "Drama", "Musical"],
+    "release_date": "7/28/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "X-Men Origins: Wolverine",
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "release_date": "3/17/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "Don't Come Knocking",
+    "genres": ["Drama", "Western"],
+    "release_date": "3/9/2018"
+  },
+  {
+    "movie_id": 12,
+    "movie_name": "Makai Tensho: Samurai Reincarnation (Makai tensh\u00f4)",
+    "genres": ["Action", "Fantasy", "Horror"],
+    "release_date": "2/21/2018"
+  },
+  {
+    "movie_id": 31,
+    "movie_name": "Nighthawks",
+    "genres": ["Action", "Drama"],
+    "release_date": "10/11/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "ABCs of Death, The",
+    "genres": ["Horror"],
+    "release_date": "6/17/2018"
+  },
+  {
+    "movie_id": 31,
+    "movie_name": "Louie Bluie",
+    "genres": ["Documentary"],
+    "release_date": "12/3/2017"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "Hannibal",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "9/25/2018"
+  },
+  {
+    "movie_id": 88,
+    "movie_name": "Oh, God!",
+    "genres": ["Comedy", "Fantasy"],
+    "release_date": "11/6/2017"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "Eye of the Dolphin",
+    "genres": ["Children", "Drama"],
+    "release_date": "8/20/2018"
+  },
+  {
+    "movie_id": 58,
+    "movie_name": "Stray Dogs (Sag-haye velgard)",
+    "genres": ["Drama"],
+    "release_date": "6/13/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Turn the River",
+    "genres": ["Drama"],
+    "release_date": "3/31/2018"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "Hammer of the Gods",
+    "genres": ["Action"],
+    "release_date": "11/25/2017"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "WarGames: The Dead Code",
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "release_date": "1/25/2018"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "Garage Sale Mystery",
+    "genres": ["Drama"],
+    "release_date": "6/9/2018"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Innocent Sleep, The",
+    "genres": ["Crime"],
+    "release_date": "10/14/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Warning Shadows (Schatten - Eine n\u00e4chtliche Halluzination)",
+    "genres": ["Drama", "Fantasy"],
+    "release_date": "7/25/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Faces of Death 2",
+    "genres": ["Documentary", "Horror"],
+    "release_date": "8/7/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "50 Children: The Rescue Mission of Mr. And Mrs. Kraus",
+    "genres": ["Documentary"],
+    "release_date": "3/20/2018"
+  },
+  {
+    "movie_id": 56,
+    "movie_name": "Experts, The",
+    "genres": ["Comedy"],
+    "release_date": "12/23/2017"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Celebration, The (Festen)",
+    "genres": ["Drama"],
+    "release_date": "2/24/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Turtle Diary",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "7/27/2018"
+  },
+  {
+    "movie_id": 84,
+    "movie_name": "One, The",
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "release_date": "10/19/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Special Day, A (Giornata particolare, Una)",
+    "genres": ["Drama", "War"],
+    "release_date": "10/4/2018"
+  },
+  {
+    "movie_id": 42,
+    "movie_name": "Varan the Unbelievable",
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "release_date": "10/6/2018"
+  },
+  {
+    "movie_id": 13,
+    "movie_name": "Dracula 2000",
+    "genres": ["Horror"],
+    "release_date": "5/11/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Fond Kiss, A (Ae Fond Kiss...)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "5/25/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Terri",
+    "genres": ["Comedy"],
+    "release_date": "6/25/2018"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Anatomy of a Love Seen",
+    "genres": ["Drama", "Romance"],
+    "release_date": "5/28/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Chaos Theory",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "9/27/2018"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "Stratosphere Girl",
+    "genres": ["Drama", "Mystery"],
+    "release_date": "12/16/2017"
+  },
+  {
+    "movie_id": 50,
+    "movie_name": "Cucaracha, La",
+    "genres": ["Thriller"],
+    "release_date": "5/8/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Screwed",
+    "genres": ["Comedy"],
+    "release_date": "5/27/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "Illegal Tender",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "12/11/2017"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Kenny Begins",
+    "genres": ["Action", "Comedy", "Sci-Fi"],
+    "release_date": "5/8/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "All Is Lost",
+    "genres": ["Action", "Adventure", "Drama"],
+    "release_date": "1/19/2018"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "Delgo",
+    "genres": ["Adventure", "Animation", "Comedy", "Fantasy", "Romance"],
+    "release_date": "8/20/2018"
+  },
+  {
+    "movie_id": 46,
+    "movie_name": "Cosmic Psychos: Blokes You Can Trust",
+    "genres": ["Documentary", "Musical"],
+    "release_date": "4/18/2018"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "My Friend Irma Goes West",
+    "genres": ["Comedy", "Crime", "Musical"],
+    "release_date": "12/7/2017"
+  },
+  {
+    "movie_id": 83,
+    "movie_name": "Om Shanti Om",
+    "genres": ["Action", "Drama", "Musical", "Romance"],
+    "release_date": "8/1/2018"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Day After, The",
+    "genres": ["Drama", "Sci-Fi"],
+    "release_date": "12/15/2017"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "All Quiet on the Western Front",
+    "genres": ["Action", "Drama", "War"],
+    "release_date": "11/1/2017"
+  },
+  {
+    "movie_id": 99,
+    "movie_name": "Party, The",
+    "genres": ["Comedy"],
+    "release_date": "1/30/2018"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Extreme Measures",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "5/25/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "Eyewitness (Janitor, The)",
+    "genres": ["Thriller"],
+    "release_date": "6/5/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "My Love Has Been Burning (Waga koi wa moenu)",
+    "genres": ["Drama"],
+    "release_date": "2/24/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Guardian Angel",
+    "genres": ["Action", "Drama", "Thriller"],
+    "release_date": "1/10/2018"
+  },
+  {
+    "movie_id": 98,
+    "movie_name": "Absurdistan",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "9/8/2018"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "Ladies Man, The",
+    "genres": ["Comedy"],
+    "release_date": "8/3/2018"
+  },
+  {
+    "movie_id": 46,
+    "movie_name": "Dirty Dozen: The Deadly Mission",
+    "genres": ["Action", "Drama", "War"],
+    "release_date": "7/19/2018"
+  },
+  {
+    "movie_id": 83,
+    "movie_name": "Blind Chance (Przypadek)",
+    "genres": ["Drama"],
+    "release_date": "8/5/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Darjeeling Limited, The",
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "release_date": "12/14/2017"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "Secret Life of Walter Mitty, The",
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "release_date": "10/2/2018"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "Streets of Laredo",
+    "genres": ["Drama", "Western"],
+    "release_date": "1/23/2018"
+  },
+  {
+    "movie_id": 26,
+    "movie_name": "3 Holiday Tails (Golden Christmas 2: The Second Tail, A)",
+    "genres": ["Children", "Comedy", "Romance"],
+    "release_date": "4/25/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Family Jewels, The",
+    "genres": ["Comedy"],
+    "release_date": "7/16/2018"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "The Savior",
+    "genres": ["Drama"],
+    "release_date": "12/23/2017"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Slaughter Rule, The",
+    "genres": ["Drama"],
+    "release_date": "5/11/2018"
+  },
+  {
+    "movie_id": 60,
+    "movie_name": "Our Life (La nostra vita)",
+    "genres": ["Drama"],
+    "release_date": "9/18/2018"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "1969",
+    "genres": ["Drama", "War"],
+    "release_date": "4/20/2018"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Vincent",
+    "genres": ["Animation"],
+    "release_date": "4/7/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Star Trek VI: The Undiscovered Country",
+    "genres": ["Action", "Mystery", "Sci-Fi"],
+    "release_date": "1/27/2018"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Debt, The",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "3/2/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Tie Me Up! Tie Me Down! (\u00a1\u00c1tame!)",
+    "genres": ["Crime", "Drama", "Romance"],
+    "release_date": "10/26/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Silver Chalice, The",
+    "genres": ["Drama", "Romance"],
+    "release_date": "5/25/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "5x2",
+    "genres": ["Drama", "Romance"],
+    "release_date": "9/13/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Beyond the Lights",
+    "genres": ["Drama"],
+    "release_date": "12/9/2017"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Cartoon All-Stars to the Rescue",
+    "genres": ["Animation", "Children", "Comedy", "Drama", "Fantasy"],
+    "release_date": "10/12/2018"
+  },
+  {
+    "movie_id": 11,
+    "movie_name": "Clone (Womb)",
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "release_date": "8/20/2018"
+  },
+  {
+    "movie_id": 11,
+    "movie_name": "Good Work (Beau travail)",
+    "genres": ["Drama"],
+    "release_date": "2/21/2018"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "If Only",
+    "genres": ["Drama", "Fantasy", "Romance", "Thriller"],
+    "release_date": "10/19/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Jefferson in Paris",
+    "genres": ["Drama"],
+    "release_date": "3/5/2018"
+  },
+  {
+    "movie_id": 9,
+    "movie_name": "Hudsucker Proxy, The",
+    "genres": ["Comedy"],
+    "release_date": "4/22/2018"
+  },
+  {
+    "movie_id": 46,
+    "movie_name": "Man of Her Dreams (a.k.a. The Fianc\u00e9)",
+    "genres": ["Drama"],
+    "release_date": "7/8/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Summertime",
+    "genres": ["Comedy"],
+    "release_date": "4/21/2018"
+  },
+  {
+    "movie_id": 42,
+    "movie_name": "Dear Mr. Watterson",
+    "genres": ["Documentary"],
+    "release_date": "2/26/2018"
+  },
+  {
+    "movie_id": 87,
+    "movie_name": "Steal This Film",
+    "genres": ["Documentary"],
+    "release_date": "10/16/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "Swarm, The",
+    "genres": ["Action", "Horror", "Sci-Fi"],
+    "release_date": "1/21/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Special Bulletin",
+    "genres": ["Drama"],
+    "release_date": "1/15/2018"
+  },
+  {
+    "movie_id": 87,
+    "movie_name": "Tai Chi Zero",
+    "genres": ["Action", "Fantasy", "Sci-Fi", "IMAX"],
+    "release_date": "11/29/2017"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "Johnny Cash at Folsom Prison",
+    "genres": ["Documentary"],
+    "release_date": "1/14/2018"
+  },
+  {
+    "movie_id": 12,
+    "movie_name": "Matin\u00e9e",
+    "genres": ["Adventure", "Comedy", "Crime", "Thriller"],
+    "release_date": "4/28/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Night and the City",
+    "genres": ["Crime", "Drama"],
+    "release_date": "8/13/2018"
+  },
+  {
+    "movie_id": 83,
+    "movie_name": "Righteous Kill",
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "release_date": "9/30/2018"
+  },
+  {
+    "movie_id": 26,
+    "movie_name": "Orgazmo",
+    "genres": ["Comedy"],
+    "release_date": "6/28/2018"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "Gandhi",
+    "genres": ["Drama"],
+    "release_date": "1/4/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Kiss Me Goodbye",
+    "genres": ["Comedy"],
+    "release_date": "12/22/2017"
+  },
+  {
+    "movie_id": 72,
+    "movie_name": "World's Fastest Indian, The",
+    "genres": ["Drama"],
+    "release_date": "11/30/2017"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Paid in Full",
+    "genres": ["Action", "Drama"],
+    "release_date": "10/19/2018"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "Hell Is Sold Out",
+    "genres": ["Drama", "Romance"],
+    "release_date": "4/8/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "Beast from 20,000 Fathoms, The",
+    "genres": ["Sci-Fi"],
+    "release_date": "5/4/2018"
+  },
+  {
+    "movie_id": 46,
+    "movie_name": "Chase a Crooked Shadow",
+    "genres": ["Crime", "Film-Noir", "Mystery", "Thriller"],
+    "release_date": "10/25/2018"
+  },
+  {
+    "movie_id": 93,
+    "movie_name": "Tremors 3: Back to Perfection",
+    "genres": ["Comedy", "Horror", "Sci-Fi"],
+    "release_date": "2/25/2018"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "Push",
+    "genres": ["Sci-Fi", "Thriller"],
+    "release_date": "9/16/2018"
+  },
+  {
+    "movie_id": 52,
+    "movie_name": "Apr\u00e8s lui",
+    "genres": ["Drama"],
+    "release_date": "5/18/2018"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "In the Heat of the Night",
+    "genres": ["Drama", "Mystery"],
+    "release_date": "1/11/2018"
+  },
+  {
+    "movie_id": 42,
+    "movie_name": "Princess Mononoke (Mononoke-hime)",
+    "genres": ["Action", "Adventure", "Animation", "Drama", "Fantasy"],
+    "release_date": "3/9/2018"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "Women, The",
+    "genres": ["Comedy"],
+    "release_date": "4/27/2018"
+  },
+  {
+    "movie_id": 62,
+    "movie_name": "Keep Your Distance",
+    "genres": ["Drama", "Mystery", "Romance"],
+    "release_date": "4/23/2018"
+  },
+  {
+    "movie_id": 93,
+    "movie_name": "Harold & Kumar Escape from Guantanamo Bay",
+    "genres": ["Adventure", "Comedy"],
+    "release_date": "2/14/2018"
+  },
+  {
+    "movie_id": 26,
+    "movie_name": "Pal Joey",
+    "genres": ["Comedy", "Drama", "Musical", "Romance"],
+    "release_date": "9/6/2018"
+  },
+  {
+    "movie_id": 76,
+    "movie_name": "Piter FM",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "9/30/2018"
+  },
+  {
+    "movie_id": 71,
+    "movie_name": "Spring Break Shark Attack",
+    "genres": ["Adventure", "Drama", "Horror"],
+    "release_date": "9/11/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Story of My Death",
+    "genres": ["Drama"],
+    "release_date": "5/4/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "G Men",
+    "genres": ["Crime", "Drama"],
+    "release_date": "4/8/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Story of the Late Chrysanthemums, The (Zangiku monogatari)",
+    "genres": ["Drama"],
+    "release_date": "5/30/2018"
+  },
+  {
+    "movie_id": 48,
+    "movie_name": "Philadelphia Experiment II",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "release_date": "3/12/2018"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "Princesas",
+    "genres": ["Drama"],
+    "release_date": "5/8/2018"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "Ironclads",
+    "genres": ["Drama", "Romance", "War"],
+    "release_date": "8/29/2018"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "Guys, The",
+    "genres": ["Drama"],
+    "release_date": "7/28/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Blue Ruin",
+    "genres": ["Thriller"],
+    "release_date": "11/28/2017"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "Escapist, The",
+    "genres": ["Thriller"],
+    "release_date": "9/6/2018"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "Joe Versus the Volcano",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "12/22/2017"
+  },
+  {
+    "movie_id": 18,
+    "movie_name": "Kon-Tiki",
+    "genres": ["Adventure", "Documentary"],
+    "release_date": "7/8/2018"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "Grace Is Gone",
+    "genres": ["Drama"],
+    "release_date": "8/11/2018"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "Countess from Hong Kong, A",
+    "genres": ["Comedy"],
+    "release_date": "1/31/2018"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "Jungle2Jungle (a.k.a. Jungle 2 Jungle)",
+    "genres": ["Children", "Comedy"],
+    "release_date": "6/12/2018"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "Conspiracy",
+    "genres": ["Drama", "War"],
+    "release_date": "11/19/2017"
+  },
+  {
+    "movie_id": 18,
+    "movie_name": "Sick Girl",
+    "genres": ["Crime", "Horror", "Thriller"],
+    "release_date": "8/16/2018"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "Beneath the Dark",
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "release_date": "11/4/2017"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "It's a Disaster",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "8/1/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Species",
+    "genres": ["Horror", "Sci-Fi"],
+    "release_date": "3/29/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "5th Day of Peace (Dio \u00e8 con noi)",
+    "genres": ["Drama", "War"],
+    "release_date": "10/11/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Jewtopia",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "3/26/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Trainer on the Beach 2",
+    "genres": ["Comedy"],
+    "release_date": "9/19/2018"
+  },
+  {
+    "movie_id": 61,
+    "movie_name": "Crackers",
+    "genres": ["Action", "Comedy", "Crime", "Thriller"],
+    "release_date": "11/21/2017"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "The Violent Professionals",
+    "genres": ["Crime", "Drama"],
+    "release_date": "12/24/2017"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Walter",
+    "genres": ["Drama"],
+    "release_date": "9/14/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Whity",
+    "genres": ["Drama", "Western"],
+    "release_date": "1/15/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Amelie (Fabuleux destin d'Am\u00e9lie Poulain, Le)",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "2/17/2018"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "Ashes, The (Popioly)",
+    "genres": ["Drama", "War"],
+    "release_date": "7/18/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "Chuck Norris vs Communism",
+    "genres": ["Documentary"],
+    "release_date": "10/18/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Am Ende eiens viel zu kurzen Tages (Death of a superhero)",
+    "genres": ["Animation", "Drama"],
+    "release_date": "11/7/2017"
+  },
+  {
+    "movie_id": 52,
+    "movie_name": "King and I, The",
+    "genres": ["Drama", "Musical", "Romance"],
+    "release_date": "5/18/2018"
+  },
+  {
+    "movie_id": 18,
+    "movie_name": "Louis C.K.: Live at The Comedy Store",
+    "genres": ["Comedy"],
+    "release_date": "3/22/2018"
+  },
+  {
+    "movie_id": 74,
+    "movie_name": "I Am Maria (Jag \u00e4r Maria)",
+    "genres": ["Drama"],
+    "release_date": "11/4/2017"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Crimes Against Humanity",
+    "genres": ["Comedy"],
+    "release_date": "12/30/2017"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Snowball Express",
+    "genres": ["Children", "Comedy"],
+    "release_date": "4/21/2018"
+  },
+  {
+    "movie_id": 96,
+    "movie_name": "Not Easily Broken",
+    "genres": ["Drama", "Romance"],
+    "release_date": "12/23/2017"
+  },
+  {
+    "movie_id": 81,
+    "movie_name": "CJ7 (Cheung Gong 7 hou)",
+    "genres": ["Children", "Comedy", "Sci-Fi"],
+    "release_date": "2/28/2018"
+  },
+  {
+    "movie_id": 82,
+    "movie_name": "Buona Sera, Mrs. Campbell",
+    "genres": ["Comedy"],
+    "release_date": "11/30/2017"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "Grave Encounters 2",
+    "genres": ["Horror"],
+    "release_date": "2/25/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Bringing Up Baby",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "8/28/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "Cul-de-sac",
+    "genres": ["Comedy", "Crime", "Drama", "Thriller"],
+    "release_date": "5/5/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Dirty Dancing: Havana Nights",
+    "genres": ["Romance"],
+    "release_date": "2/28/2018"
+  },
+  {
+    "movie_id": 58,
+    "movie_name": "World According to Garp, The",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "9/18/2018"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Guest from the Future (Gostya iz buduschego)",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "release_date": "5/17/2018"
+  },
+  {
+    "movie_id": 74,
+    "movie_name": "MatchMaker, The",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "12/24/2017"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "John Doe: Vigilante",
+    "genres": ["Crime", "Thriller"],
+    "release_date": "11/14/2017"
+  },
+  {
+    "movie_id": 84,
+    "movie_name": "Milwaukee, Minnesota",
+    "genres": ["Drama"],
+    "release_date": "9/6/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Shop on Main Street, The (Obchod na korze)",
+    "genres": ["Drama"],
+    "release_date": "6/5/2018"
+  },
+  {
+    "movie_id": 61,
+    "movie_name": "Black Christmas",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "release_date": "11/22/2017"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Monte Carlo",
+    "genres": ["Adventure", "Comedy", "Romance"],
+    "release_date": "2/13/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "Mist, The",
+    "genres": ["Horror", "Sci-Fi"],
+    "release_date": "3/9/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Girls Just Want to Have Fun",
+    "genres": ["Comedy"],
+    "release_date": "9/19/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Chapman Report, The",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "12/23/2017"
+  },
+  {
+    "movie_id": 84,
+    "movie_name": "Black Widow",
+    "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+    "release_date": "3/19/2018"
+  },
+  {
+    "movie_id": 78,
+    "movie_name": "Renegades",
+    "genres": ["Action"],
+    "release_date": "11/9/2017"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Double Impact",
+    "genres": ["Action"],
+    "release_date": "9/26/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Beverly Hills Chihuahua 2",
+    "genres": ["Children", "Comedy"],
+    "release_date": "5/18/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "She Creature (Mermaid Chronicles Part 1: She Creature)",
+    "genres": ["Fantasy", "Horror", "Thriller"],
+    "release_date": "5/24/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Edge of the City",
+    "genres": ["Drama", "Film-Noir"],
+    "release_date": "4/11/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Hey Ram",
+    "genres": ["Drama"],
+    "release_date": "10/4/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Strayed (\u00e9gar\u00e9s, Les)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "7/10/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Men Who Made the Movies: Samuel Fuller, The",
+    "genres": ["Documentary"],
+    "release_date": "2/4/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Humoresque",
+    "genres": ["Drama", "Romance"],
+    "release_date": "12/21/2017"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "Elstree Calling",
+    "genres": ["Comedy", "Musical"],
+    "release_date": "11/14/2017"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "New York Minute",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "release_date": "7/21/2018"
+  },
+  {
+    "movie_id": 20,
+    "movie_name": "Black Dawn",
+    "genres": ["Action"],
+    "release_date": "9/6/2018"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Stop-Loss",
+    "genres": ["Drama", "War"],
+    "release_date": "1/9/2018"
+  },
+  {
+    "movie_id": 40,
+    "movie_name": "Resistance",
+    "genres": ["Drama", "Thriller", "War"],
+    "release_date": "3/26/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "RocketMan (a.k.a. Rocket Man)",
+    "genres": ["Children", "Comedy", "Romance", "Sci-Fi"],
+    "release_date": "12/9/2017"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "One Hour Photo",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "10/24/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "Secrets of a Soul (Geheimnisse einer Seele)",
+    "genres": ["Drama"],
+    "release_date": "6/27/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "Zatoichi's Conspiracy (Shin Zat\u00f4ichi monogatari: Kasama no chimatsuri) (Zat\u00f4ichi 25)",
+    "genres": ["Action", "Drama"],
+    "release_date": "9/21/2018"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "Mardock Scramble: The Second Combustion",
+    "genres": ["Animation", "Sci-Fi"],
+    "release_date": "12/22/2017"
+  },
+  {
+    "movie_id": 7,
+    "movie_name": "Open Water",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "4/29/2018"
+  },
+  {
+    "movie_id": 18,
+    "movie_name": "Black Tar Heroin: The Dark End of the Street",
+    "genres": ["Documentary"],
+    "release_date": "4/3/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Lille Fridolf and I",
+    "genres": ["Comedy"],
+    "release_date": "9/27/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Line King: The Al Hirschfeld Story, The",
+    "genres": ["Documentary"],
+    "release_date": "1/20/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Dragonheart 3: The Sorcerer's Curse",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "release_date": "2/17/2018"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Mission, The",
+    "genres": ["Drama"],
+    "release_date": "11/30/2017"
+  },
+  {
+    "movie_id": 38,
+    "movie_name": "Lucky Break (a.k.a. Paperback Romance)",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "12/20/2017"
+  },
+  {
+    "movie_id": 49,
+    "movie_name": "Nobody's Children (I figli di nessuno)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "9/14/2018"
+  },
+  {
+    "movie_id": 82,
+    "movie_name": "Rush",
+    "genres": ["Action", "Drama"],
+    "release_date": "1/28/2018"
+  },
+  {
+    "movie_id": 67,
+    "movie_name": "Happy Time, The",
+    "genres": ["Comedy"],
+    "release_date": "3/5/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Employment, The (Empleo, El)",
+    "genres": ["Animation", "Comedy", "Drama"],
+    "release_date": "1/2/2018"
+  },
+  {
+    "movie_id": 71,
+    "movie_name": "A Pigeon Sat on a Branch Reflecting on Existence",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "6/10/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "Paperboy, The",
+    "genres": ["Thriller"],
+    "release_date": "12/14/2017"
+  },
+  {
+    "movie_id": 37,
+    "movie_name": "The Seventh Sin",
+    "genres": ["Drama"],
+    "release_date": "5/24/2018"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "American Pie",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "8/7/2018"
+  },
+  {
+    "movie_id": 26,
+    "movie_name": "Space Jam",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "release_date": "12/9/2017"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Snow Day",
+    "genres": ["Comedy"],
+    "release_date": "11/2/2017"
+  },
+  {
+    "movie_id": 96,
+    "movie_name": "Among Giants",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "11/24/2017"
+  },
+  {
+    "movie_id": 65,
+    "movie_name": "Divergent",
+    "genres": ["Adventure", "Romance", "Sci-Fi", "IMAX"],
+    "release_date": "5/20/2018"
+  },
+  {
+    "movie_id": 98,
+    "movie_name": "Svensson, Svensson - I n\u00f6d och lust",
+    "genres": ["Comedy"],
+    "release_date": "12/30/2017"
+  },
+  {
+    "movie_id": 38,
+    "movie_name": "Whistle Down the Wind",
+    "genres": ["Drama"],
+    "release_date": "1/6/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "That Cold Day in the Park",
+    "genres": ["Drama"],
+    "release_date": "4/8/2018"
+  },
+  {
+    "movie_id": 80,
+    "movie_name": "Punksters & Youngsters (Punk - Tauti joka ei tapa)",
+    "genres": ["Documentary"],
+    "release_date": "1/25/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Coast Guard, The (Hae anseon)",
+    "genres": ["Drama"],
+    "release_date": "11/7/2017"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "100 Rifles",
+    "genres": ["Adventure", "War", "Western"],
+    "release_date": "1/14/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "The Fat Spy",
+    "genres": ["Comedy"],
+    "release_date": "2/27/2018"
+  },
+  {
+    "movie_id": 80,
+    "movie_name": "The Universe of Keith Haring",
+    "genres": ["Documentary"],
+    "release_date": "5/30/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Man - Woman Wanted (Poszukiwany, poszukiwana)",
+    "genres": ["Comedy"],
+    "release_date": "5/1/2018"
+  },
+  {
+    "movie_id": 85,
+    "movie_name": "Empty Mirror, The",
+    "genres": ["Drama"],
+    "release_date": "8/13/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Prisoner of Zenda, The",
+    "genres": ["Adventure"],
+    "release_date": "9/6/2018"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "Someone Else's America",
+    "genres": ["Drama"],
+    "release_date": "6/20/2018"
+  },
+  {
+    "movie_id": 60,
+    "movie_name": "Final Destination 3",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "release_date": "11/21/2017"
+  },
+  {
+    "movie_id": 29,
+    "movie_name": "Lord of the Rings: The Two Towers, The",
+    "genres": ["Adventure", "Fantasy"],
+    "release_date": "6/29/2018"
+  },
+  {
+    "movie_id": 38,
+    "movie_name": "Death Warrant",
+    "genres": ["Action"],
+    "release_date": "6/16/2018"
+  },
+  {
+    "movie_id": 13,
+    "movie_name": "Wild Party, The",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "2/12/2018"
+  },
+  {
+    "movie_id": 69,
+    "movie_name": "Frisk",
+    "genres": ["Drama"],
+    "release_date": "7/23/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Nekromantik 2",
+    "genres": ["Horror"],
+    "release_date": "7/13/2018"
+  },
+  {
+    "movie_id": 99,
+    "movie_name": "Blackhat",
+    "genres": ["Action", "Crime", "Drama", "Mystery", "Thriller"],
+    "release_date": "6/29/2018"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "Don't Tell Anyone (No se lo digas a nadie)",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "8/22/2018"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "Ballad of Little Jo, The",
+    "genres": ["Drama", "Western"],
+    "release_date": "10/6/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Criminals",
+    "genres": ["Documentary"],
+    "release_date": "8/27/2018"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Love Is News",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "5/3/2018"
+  },
+  {
+    "movie_id": 77,
+    "movie_name": "Gravedancers, The",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "5/14/2018"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "No Flesh Shall Be Spared",
+    "genres": ["Documentary"],
+    "release_date": "6/16/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Shaft in Africa",
+    "genres": ["Action", "Crime"],
+    "release_date": "2/22/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Happy Christmas",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "7/12/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "Mummy Returns, The",
+    "genres": ["Action", "Adventure", "Comedy", "Thriller"],
+    "release_date": "9/23/2018"
+  },
+  {
+    "movie_id": 46,
+    "movie_name": "Feeding Frenzy",
+    "genres": ["Comedy", "Horror"],
+    "release_date": "4/27/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Bounty Killer",
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "release_date": "1/20/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Unborn, The",
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "release_date": "9/21/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Female Convict Scorpion: Jailhouse 41 (Joshuu sasori: Dai-41 zakkyo-b\u00f4)",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "5/24/2018"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "Ninja Assassin",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "release_date": "3/22/2018"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Exam",
+    "genres": ["Mystery", "Thriller"],
+    "release_date": "5/13/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Death of a Cyclist (Muerte de un ciclista)",
+    "genres": ["Drama"],
+    "release_date": "10/2/2018"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "Harsh Times",
+    "genres": ["Action", "Crime", "Drama"],
+    "release_date": "8/29/2018"
+  },
+  {
+    "movie_id": 16,
+    "movie_name": "Frank and Ollie",
+    "genres": ["Documentary"],
+    "release_date": "12/2/2017"
+  },
+  {
+    "movie_id": 16,
+    "movie_name": "Brooklyn",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "11/15/2017"
+  },
+  {
+    "movie_id": 84,
+    "movie_name": "Big Momma's House",
+    "genres": ["Comedy"],
+    "release_date": "10/3/2018"
+  },
+  {
+    "movie_id": 24,
+    "movie_name": "That Hagen Girl",
+    "genres": ["Drama"],
+    "release_date": "9/17/2018"
+  },
+  {
+    "movie_id": 97,
+    "movie_name": "Night of the Lepus",
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "release_date": "9/25/2018"
+  },
+  {
+    "movie_id": 99,
+    "movie_name": "Laurence Anyways",
+    "genres": ["Drama", "Romance"],
+    "release_date": "8/16/2018"
+  },
+  {
+    "movie_id": 36,
+    "movie_name": "Bride Wore Black, The (La mari\u00e9e \u00e9tait en noir)",
+    "genres": ["Crime", "Drama"],
+    "release_date": "2/15/2018"
+  },
+  {
+    "movie_id": 44,
+    "movie_name": "Step Up Revolution",
+    "genres": ["Musical"],
+    "release_date": "12/11/2017"
+  },
+  {
+    "movie_id": 20,
+    "movie_name": "Good For Nothing",
+    "genres": ["Comedy", "Western"],
+    "release_date": "11/12/2017"
+  },
+  {
+    "movie_id": 32,
+    "movie_name": "Show Boat",
+    "genres": ["Comedy", "Drama", "Musical", "Romance"],
+    "release_date": "1/31/2018"
+  },
+  {
+    "movie_id": 46,
+    "movie_name": "Dilemma, The",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "9/6/2018"
+  },
+  {
+    "movie_id": 71,
+    "movie_name": "Going Down in LA-LA Land",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "3/7/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Body, The",
+    "genres": ["Drama", "Sci-Fi"],
+    "release_date": "3/2/2018"
+  },
+  {
+    "movie_id": 43,
+    "movie_name": "Ip Man 2",
+    "genres": ["Action"],
+    "release_date": "2/9/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "After Sex",
+    "genres": ["Drama", "Romance"],
+    "release_date": "4/7/2018"
+  },
+  {
+    "movie_id": 69,
+    "movie_name": "Wallace & Gromit in The Curse of the Were-Rabbit",
+    "genres": ["Adventure", "Animation", "Children", "Comedy"],
+    "release_date": "1/18/2018"
+  },
+  {
+    "movie_id": 51,
+    "movie_name": "Pocahontas",
+    "genres": ["Animation", "Children", "Drama", "Musical", "Romance"],
+    "release_date": "3/9/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Police Academy",
+    "genres": ["Comedy", "Crime"],
+    "release_date": "10/2/2018"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "Family Weekend",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "3/16/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Chicken Little",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "release_date": "9/11/2018"
+  },
+  {
+    "movie_id": 9,
+    "movie_name": "Father Takes a Wife",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "7/13/2018"
+  },
+  {
+    "movie_id": 48,
+    "movie_name": "Final Fantasy VII: Advent Children",
+    "genres": ["Action", "Adventure", "Animation", "Fantasy", "Sci-Fi"],
+    "release_date": "8/4/2018"
+  },
+  {
+    "movie_id": 63,
+    "movie_name": "The Spiritual Boxer",
+    "genres": ["Action", "Comedy", "Drama"],
+    "release_date": "7/12/2018"
+  },
+  {
+    "movie_id": 18,
+    "movie_name": "Vincent Wants to Sea (Vincent will meer)",
+    "genres": ["Drama"],
+    "release_date": "2/1/2018"
+  },
+  {
+    "movie_id": 69,
+    "movie_name": "Under the Bridges (Unter den Br\u00fccken)",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "6/22/2018"
+  },
+  {
+    "movie_id": 85,
+    "movie_name": "Surrender, Dorothy",
+    "genres": ["Drama"],
+    "release_date": "1/15/2018"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Black Balloon, The",
+    "genres": ["Drama"],
+    "release_date": "2/15/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Charlie Chan Carries On",
+    "genres": ["Mystery"],
+    "release_date": "5/17/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Fine-Tune",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "6/19/2018"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "Holes",
+    "genres": ["Adventure", "Children", "Comedy", "Mystery"],
+    "release_date": "12/9/2017"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "No Nukes",
+    "genres": ["Documentary", "Musical"],
+    "release_date": "12/27/2017"
+  },
+  {
+    "movie_id": 50,
+    "movie_name": "House of the Devil, The",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "5/4/2018"
+  },
+  {
+    "movie_id": 75,
+    "movie_name": "Buddy",
+    "genres": ["Adventure", "Children", "Drama"],
+    "release_date": "12/15/2017"
+  },
+  {
+    "movie_id": 76,
+    "movie_name": "He Loves Me... He Loves Me Not (\u00c0 la folie... pas du tout)",
+    "genres": ["Romance", "Thriller"],
+    "release_date": "11/22/2017"
+  },
+  {
+    "movie_id": 19,
+    "movie_name": "Without Warning",
+    "genres": ["Sci-Fi"],
+    "release_date": "6/6/2018"
+  },
+  {
+    "movie_id": 15,
+    "movie_name": "Legend of Lizzie Borden, The",
+    "genres": ["Drama"],
+    "release_date": "5/2/2018"
+  },
+  {
+    "movie_id": 100,
+    "movie_name": "Voices of a Distant Star (Hoshi no koe)",
+    "genres": ["Animation", "Drama", "Romance", "Sci-Fi"],
+    "release_date": "9/1/2018"
+  },
+  {
+    "movie_id": 70,
+    "movie_name": "Password: Uccidete agente Gordon",
+    "genres": ["(no genres listed)"],
+    "release_date": "7/18/2018"
+  },
+  {
+    "movie_id": 80,
+    "movie_name": "Clara's Heart",
+    "genres": ["Drama"],
+    "release_date": "12/1/2017"
+  },
+  {
+    "movie_id": 65,
+    "movie_name": "Addicted",
+    "genres": ["Drama"],
+    "release_date": "4/24/2018"
+  },
+  {
+    "movie_id": 56,
+    "movie_name": "Grace of My Heart",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "11/1/2017"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "August Evening",
+    "genres": ["Drama"],
+    "release_date": "2/21/2018"
+  },
+  {
+    "movie_id": 42,
+    "movie_name": "Nickelodeon",
+    "genres": ["Comedy"],
+    "release_date": "10/15/2018"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Elena Undone",
+    "genres": ["Drama", "Romance"],
+    "release_date": "10/27/2018"
+  },
+  {
+    "movie_id": 7,
+    "movie_name": "How to Make a Monster",
+    "genres": ["Horror", "Sci-Fi"],
+    "release_date": "6/3/2018"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "Speechless",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "3/6/2018"
+  },
+  {
+    "movie_id": 93,
+    "movie_name": "Niagara Motel",
+    "genres": ["Comedy"],
+    "release_date": "7/16/2018"
+  },
+  {
+    "movie_id": 88,
+    "movie_name": "Timeline",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "release_date": "7/22/2018"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "Investigation of a Citizen Above Suspicion (Indagine su un cittadino al di sopra di ogni sospetto)",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "release_date": "9/26/2018"
+  },
+  {
+    "movie_id": 41,
+    "movie_name": "Dante's Peak",
+    "genres": ["Action", "Thriller"],
+    "release_date": "4/6/2018"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "009 Re: Cyborg",
+    "genres": ["Action", "Animation", "Sci-Fi"],
+    "release_date": "11/3/2017"
+  },
+  {
+    "movie_id": 20,
+    "movie_name": "YellowBrickRoad",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "8/7/2018"
+  },
+  {
+    "movie_id": 64,
+    "movie_name": "Nomad (K\u00f6shpendiler)",
+    "genres": ["Drama", "War"],
+    "release_date": "11/8/2017"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "Mystery Train",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "4/20/2018"
+  },
+  {
+    "movie_id": 21,
+    "movie_name": "Gretchen the Greenhorn",
+    "genres": ["Crime", "Drama", "Romance"],
+    "release_date": "11/17/2017"
+  },
+  {
+    "movie_id": 27,
+    "movie_name": "Joyeux No\u00ebl (Merry Christmas)",
+    "genres": ["Drama", "War"],
+    "release_date": "3/13/2018"
+  },
+  {
+    "movie_id": 48,
+    "movie_name": "Summer of Blood",
+    "genres": ["Comedy", "Horror"],
+    "release_date": "11/24/2017"
+  },
+  {
+    "movie_id": 22,
+    "movie_name": "Callan",
+    "genres": ["Thriller"],
+    "release_date": "8/11/2018"
+  },
+  {
+    "movie_id": 79,
+    "movie_name": "About Last Night",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "3/23/2018"
+  },
+  {
+    "movie_id": 20,
+    "movie_name": "My Father the Hero",
+    "genres": ["Comedy", "Romance"],
+    "release_date": "1/27/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Fallen Art (Sztuka spadania)",
+    "genres": ["Action", "Animation", "Comedy"],
+    "release_date": "11/26/2017"
+  },
+  {
+    "movie_id": 27,
+    "movie_name": "Take Me Home Tonight",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "2/11/2018"
+  },
+  {
+    "movie_id": 68,
+    "movie_name": "Wings",
+    "genres": ["Action", "Drama", "Romance", "War"],
+    "release_date": "9/2/2018"
+  },
+  {
+    "movie_id": 14,
+    "movie_name": "Lovers of the Arctic Circle, The (Los Amantes del C\u00edrculo Polar)",
+    "genres": ["Drama", "Romance"],
+    "release_date": "9/3/2018"
+  },
+  {
+    "movie_id": 30,
+    "movie_name": "Twelve Tasks of Asterix, The (Les douze travaux d'Ast\u00e9rix)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Fantasy"
+    ],
+    "release_date": "7/17/2018"
+  },
+  {
+    "movie_id": 88,
+    "movie_name": "Life and Nothing But (Vie et rien d'autre, La)",
+    "genres": ["Drama"],
+    "release_date": "6/2/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "Great Texas Dynamite Chase, The",
+    "genres": ["Action", "Comedy", "Crime", "Drama", "Romance"],
+    "release_date": "11/13/2017"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Aloft",
+    "genres": ["Drama"],
+    "release_date": "12/24/2017"
+  },
+  {
+    "movie_id": 31,
+    "movie_name": "Seed of Chucky (Child's Play 5)",
+    "genres": ["Comedy", "Horror"],
+    "release_date": "12/20/2017"
+  },
+  {
+    "movie_id": 55,
+    "movie_name": "Peking Opera Blues (Do ma daan)",
+    "genres": ["Action", "Comedy"],
+    "release_date": "7/7/2018"
+  },
+  {
+    "movie_id": 27,
+    "movie_name": "Destination Tokyo",
+    "genres": ["Adventure", "War"],
+    "release_date": "6/7/2018"
+  },
+  {
+    "movie_id": 38,
+    "movie_name": "Gypsy",
+    "genres": ["Musical"],
+    "release_date": "9/19/2018"
+  },
+  {
+    "movie_id": 59,
+    "movie_name": "Fun on a Weekend",
+    "genres": ["(no genres listed)"],
+    "release_date": "1/2/2018"
+  },
+  {
+    "movie_id": 33,
+    "movie_name": "Importance of Being Earnest, The",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "3/15/2018"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Bending the Rules",
+    "genres": ["Action", "Drama"],
+    "release_date": "9/23/2018"
+  },
+  {
+    "movie_id": 93,
+    "movie_name": "And the Ship Sails On (E la nave va)",
+    "genres": ["Comedy", "War"],
+    "release_date": "11/4/2017"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Rabbit",
+    "genres": ["Animation", "Horror"],
+    "release_date": "7/26/2018"
+  },
+  {
+    "movie_id": 31,
+    "movie_name": "Dogs",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "9/14/2018"
+  },
+  {
+    "movie_id": 53,
+    "movie_name": "Quartet",
+    "genres": ["Comedy", "Drama"],
+    "release_date": "11/17/2017"
+  },
+  {
+    "movie_id": 65,
+    "movie_name": "Cutting Edge, The",
+    "genres": ["Comedy", "Drama", "Romance"],
+    "release_date": "9/8/2018"
+  },
+  {
+    "movie_id": 89,
+    "movie_name": "Vinyan",
+    "genres": ["Drama", "Horror", "Thriller"],
+    "release_date": "11/12/2017"
+  },
+  {
+    "movie_id": 98,
+    "movie_name": "Adventures of Mark Twain, The",
+    "genres": ["Adventure", "Drama"],
+    "release_date": "10/28/2018"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Magic in the Water",
+    "genres": ["Adventure", "Children", "Fantasy"],
+    "release_date": "12/31/2017"
+  },
+  {
+    "movie_id": 42,
+    "movie_name": "Big Empty, The",
+    "genres": ["Comedy", "Mystery", "Sci-Fi"],
+    "release_date": "4/10/2018"
+  },
+  {
+    "movie_id": 10,
+    "movie_name": "Otis",
+    "genres": ["Comedy", "Crime", "Horror", "Thriller"],
+    "release_date": "10/12/2018"
+  },
+  {
+    "movie_id": 73,
+    "movie_name": "Dynamite",
+    "genres": ["Drama"],
+    "release_date": "10/20/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Sharkwater",
+    "genres": ["Documentary"],
+    "release_date": "4/26/2018"
+  },
+  {
+    "movie_id": 66,
+    "movie_name": "Bigfoot Lives",
+    "genres": ["Adventure", "Documentary", "Drama"],
+    "release_date": "8/2/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Into the Mind",
+    "genres": ["Documentary"],
+    "release_date": "10/3/2018"
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "Street Fighter: Assassin's Fist",
+    "genres": ["Action", "Adventure", "Drama", "Thriller"],
+    "release_date": "8/26/2018"
+  },
+  {
+    "movie_id": 11,
+    "movie_name": "Fury",
+    "genres": ["Drama", "Film-Noir"],
+    "release_date": "12/16/2017"
+  },
+  {
+    "movie_id": 56,
+    "movie_name": "Ten Minutes Older: The Trumpet",
+    "genres": ["Drama"],
+    "release_date": "4/10/2018"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "Princess Bride, The",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Romance"],
+    "release_date": "8/26/2018"
+  },
+  {
+    "movie_id": 82,
+    "movie_name": "13 Rue Madeleine",
+    "genres": ["Thriller", "War"],
+    "release_date": "8/24/2018"
+  },
+  {
+    "movie_id": 35,
+    "movie_name": "Home",
+    "genres": ["Documentary"],
+    "release_date": "2/8/2018"
+  },
+  {
+    "movie_id": 28,
+    "movie_name": "Anna: 6-18 (Anna: Ot shesti do vosemnadtsati)",
+    "genres": ["Documentary"],
+    "release_date": "10/31/2017"
+  },
+  {
+    "movie_id": 90,
+    "movie_name": "Conspiracy, The",
+    "genres": ["Horror", "Thriller"],
+    "release_date": "11/24/2017"
+  },
+  {
+    "movie_id": 28,
+    "movie_name": "Jamilya",
+    "genres": ["Drama", "Romance", "War"],
+    "release_date": "3/11/2018"
+  },
+  {
+    "movie_id": 34,
+    "movie_name": "Baby Boy",
+    "genres": ["Crime", "Drama"],
+    "release_date": "4/19/2018"
+  },
+  {
+    "movie_id": 67,
+    "movie_name": "Basic Instinct 2",
+    "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+    "release_date": "4/24/2018"
+  },
+  {
+    "movie_id": 21,
+    "movie_name": "Two-Minute Warning",
+    "genres": ["Drama", "Thriller"],
+    "release_date": "5/27/2018"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "Night and the City",
+    "genres": ["Film-Noir", "Thriller"],
+    "release_date": "12/14/2017"
+  },
+  {
+    "movie_id": 54,
+    "movie_name": "Midnight Clear, A",
+    "genres": ["Drama", "War"],
+    "release_date": "10/7/2018"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "My Stars (Mes stars et moi)",
+    "genres": ["Comedy"],
+    "release_date": "8/22/2018"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Above Us Only Sky",
+    "genres": ["Drama"],
+    "release_date": "8/26/2018"
+  },
+  {
+    "movie_id": 58,
+    "movie_name": "Abbott and Costello Meet the Keystone Kops",
+    "genres": ["Comedy"],
+    "release_date": "10/16/2018"
+  },
+  {
+    "movie_id": 99,
+    "movie_name": "Kiss Me Deadly",
+    "genres": ["Film-Noir"],
+    "release_date": "5/9/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Satan's Sword (Daibosatsu t\u00f4ge)",
+    "genres": ["Action", "Drama"],
+    "release_date": "7/15/2018"
+  },
+  {
+    "movie_id": 91,
+    "movie_name": "Blue Sky",
+    "genres": ["Drama", "Romance"],
+    "release_date": "2/1/2018"
+  },
+  {
+    "movie_id": 50,
+    "movie_name": "Elia Kazan: A Director's Journey",
+    "genres": ["Documentary"],
+    "release_date": "4/22/2018"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "At Midnight I'll Take Your Soul (\u00c0 Meia-Noite Levarei Sua Alma)",
+    "genres": ["Horror"],
+    "release_date": "8/9/2018"
+  },
+  {
+    "movie_id": 25,
+    "movie_name": "Blame It on the Bellboy",
+    "genres": ["Comedy"],
+    "release_date": "8/14/2018"
+  },
+  {
+    "movie_id": 17,
+    "movie_name": "Pirates of Silicon Valley",
+    "genres": ["Documentary", "Drama"],
+    "release_date": "12/23/2017"
+  },
+  {
+    "movie_id": 45,
+    "movie_name": "Slackers",
+    "genres": ["Comedy"],
+    "release_date": "7/25/2018"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Two Deaths",
+    "genres": ["Drama"],
+    "release_date": "5/16/2018"
+  },
+  {
+    "movie_id": 95,
+    "movie_name": "Big Fish",
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "release_date": "4/28/2018"
+  },
+  {
+    "movie_id": 94,
+    "movie_name": "Rover, The",
+    "genres": ["Crime", "Drama"],
+    "release_date": "2/13/2018"
+  },
+  {
+    "movie_id": 39,
+    "movie_name": "Prince of Jutland (a.k.a. Royal Deceit)",
+    "genres": ["Drama"],
+    "release_date": "5/25/2018"
+  },
+  {
+    "movie_id": 23,
+    "movie_name": "Sea Is Watching, The (Umi wa miteita)",
+    "genres": ["Romance"],
+    "release_date": "2/6/2018"
+  },
+  {
+    "movie_id": 20,
+    "movie_name": "Beauty Prize",
+    "genres": ["Drama"],
+    "release_date": "4/1/2018"
+  },
+  {
+    "movie_id": 84,
+    "movie_name": "What Price Glory",
+    "genres": ["Comedy", "Drama", "War"],
+    "release_date": "8/8/2018"
+  },
+  {
+    "movie_id": 47,
+    "movie_name": "Cosmos",
+    "genres": ["Documentary"],
+    "release_date": "2/24/2018"
+  },
+  {
+    "movie_id": 12,
+    "movie_name": "Hanussen",
+    "genres": ["Drama"],
+    "release_date": "11/15/2017"
+  },
+  {
+    "movie_id": 80,
+    "movie_name": "Circles (Krugovi)",
+    "genres": ["Drama"],
+    "release_date": "10/22/2018"
+  },
+  {
+    "movie_id": 57,
+    "movie_name": "Home on the Range",
+    "genres": ["Animation", "Children", "Comedy", "Musical", "Western"],
+    "release_date": "12/21/2017"
+  },
+  {
+    "movie_id": 92,
+    "movie_name": "Return of Mod Squad, The",
+    "genres": ["Crime", "Drama"],
+    "release_date": "3/12/2018"
+  },
+  {
+    "movie_id": 86,
+    "movie_name": "Hamlet",
+    "genres": ["Crime", "Drama", "Romance", "Thriller"],
+    "release_date": "6/25/2018"
+  }
+]

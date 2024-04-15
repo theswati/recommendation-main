@@ -1,0 +1,7006 @@
+[
+    {
+        "user_id": 890,
+        "preference": [
+            { "preference_score":54, "genre":"Crime"},
+            { "preference_score":40, "genre":"Film-Noir"}
+        ]
+    },
+    {
+        "user_id": 740,
+        "preference": [
+            { "preference_score":61, "genre":"Comedy"},
+            { "preference_score":42, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 713,
+        "preference": [
+            { "preference_score":36, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 302,
+        "preference": [
+            { "preference_score":32, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 564,
+        "preference": [
+            { "preference_score":31, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 297,
+        "preference": [
+            { "preference_score":86, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 830,
+        "preference": [
+            { "preference_score":5, "genre":"Mystery"},
+            { "preference_score":41, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 648,
+        "preference": [
+            { "preference_score":27, "genre":"Drama"},
+            { "preference_score":49, "genre":"Horror"},
+            { "preference_score":47, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 605,
+        "preference": [
+            { "preference_score":21, "genre":"Action"},
+            { "preference_score":32, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 914,
+        "preference": [
+            { "preference_score":16, "genre":"Crime"},
+            { "preference_score":64, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 750,
+        "preference": [
+            { "preference_score":16, "genre":"(no genres listed)"}
+        ]
+    },
+    {
+        "user_id": 798,
+        "preference": [
+            { "preference_score":36, "genre":"Action"},
+            { "preference_score":14, "genre":"Adventure"},
+            { "preference_score":40, "genre":"Animation"},
+            { "preference_score":66, "genre":"Children"},
+            { "preference_score":94, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 508,
+        "preference": [
+            { "preference_score":30, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 969,
+        "preference": [
+            { "preference_score":1, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 353,
+        "preference": [
+            { "preference_score":49, "genre":"Action"},
+            { "preference_score":76, "genre":"Adventure"},
+            { "preference_score":21, "genre":"Crime"},
+            { "preference_score":18, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 788,
+        "preference": [
+            { "preference_score":60, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 512,
+        "preference": [
+            { "preference_score":55, "genre":"Action"},
+            { "preference_score":28, "genre":"Adventure"},
+            { "preference_score":96, "genre":"Crime"},
+            { "preference_score":76, "genre":"Sci-Fi"},
+            { "preference_score":67, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 910,
+        "preference": [
+            { "preference_score":90, "genre":"Drama"},
+            { "preference_score":75, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 765,
+        "preference": [
+            { "preference_score":69, "genre":"Documentary"},
+            { "preference_score":86, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 237,
+        "preference": [
+            { "preference_score":99, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 966,
+        "preference": [
+            { "preference_score":16, "genre":"Action"},
+            { "preference_score":89, "genre":"Adventure"},
+            { "preference_score":16, "genre":"Animation"},
+            { "preference_score":89, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 474,
+        "preference": [
+            { "preference_score":69, "genre":"(no genres listed)"}
+        ]
+    },
+    {
+        "user_id": 486,
+        "preference": [
+            { "preference_score":10, "genre":"Crime"},
+            { "preference_score":64, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 41,
+        "preference": [
+            { "preference_score":45, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 844,
+        "preference": [
+            { "preference_score":8, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 595,
+        "preference": [
+            { "preference_score":92, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 949,
+        "preference": [
+            { "preference_score":5, "genre":"Adventure"},
+            { "preference_score":72, "genre":"Drama"},
+            { "preference_score":16, "genre":"Sci-Fi"},
+            { "preference_score":19, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 48,
+        "preference": [
+            { "preference_score":51, "genre":"Crime"},
+            { "preference_score":81, "genre":"Drama"},
+            { "preference_score":1, "genre":"Romance"},
+            { "preference_score":53, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 422,
+        "preference": [
+            { "preference_score":97, "genre":"Adventure"},
+            { "preference_score":43, "genre":"Animation"},
+            { "preference_score":40, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 362,
+        "preference": [
+            { "preference_score":15, "genre":"Drama"},
+            { "preference_score":52, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 704,
+        "preference": [
+            { "preference_score":5, "genre":"Comedy"},
+            { "preference_score":45, "genre":"Drama"},
+            { "preference_score":6, "genre":"Horror"},
+            { "preference_score":44, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 409,
+        "preference": [
+            { "preference_score":32, "genre":"Comedy"},
+            { "preference_score":43, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 989,
+        "preference": [
+            { "preference_score":41, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 145,
+        "preference": [
+            { "preference_score":47, "genre":"Animation"},
+            { "preference_score":1, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 527,
+        "preference": [
+            { "preference_score":85, "genre":"Action"},
+            { "preference_score":18, "genre":"Comedy"},
+            { "preference_score":46, "genre":"Crime"},
+            { "preference_score":97, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 953,
+        "preference": [
+            { "preference_score":44, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 597,
+        "preference": [
+            { "preference_score":58, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 5,
+        "preference": [
+            { "preference_score":46, "genre":"Children"},
+            { "preference_score":95, "genre":"Documentary"},
+            { "preference_score":37, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 381,
+        "preference": [
+            { "preference_score":12, "genre":"Adventure"},
+            { "preference_score":42, "genre":"Drama"},
+            { "preference_score":65, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 608,
+        "preference": [
+            { "preference_score":58, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 221,
+        "preference": [
+            { "preference_score":22, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 913,
+        "preference": [
+            { "preference_score":6, "genre":"Action"},
+            { "preference_score":69, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 375,
+        "preference": [
+            { "preference_score":40, "genre":"Comedy"},
+            { "preference_score":99, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 572,
+        "preference": [
+            { "preference_score":90, "genre":"Animation"}
+        ]
+    },
+    {
+        "user_id": 3,
+        "preference": [
+            { "preference_score":99, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 369,
+        "preference": [
+            { "preference_score":52, "genre":"Drama"},
+            { "preference_score":65, "genre":"Romance"},
+            { "preference_score":4, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 953,
+        "preference": [
+            { "preference_score":77, "genre":"Action"},
+            { "preference_score":23, "genre":"Adventure"},
+            { "preference_score":95, "genre":"Animation"},
+            { "preference_score":13, "genre":"Comedy"},
+            { "preference_score":28, "genre":"Fantasy"},
+            { "preference_score":79, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 311,
+        "preference": [
+            { "preference_score":15, "genre":"Drama"},
+            { "preference_score":85, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 684,
+        "preference": [
+            { "preference_score":4, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 70,
+        "preference": [
+            { "preference_score":33, "genre":"Drama"},
+            { "preference_score":66, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 237,
+        "preference": [
+            { "preference_score":6, "genre":"Horror"},
+            { "preference_score":5, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 750,
+        "preference": [
+            { "preference_score":15, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 318,
+        "preference": [
+            { "preference_score":51, "genre":"Drama"},
+            { "preference_score":84, "genre":"Romance"},
+            { "preference_score":88, "genre":"Sci-Fi"},
+            { "preference_score":12, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 433,
+        "preference": [
+            { "preference_score":1, "genre":"Comedy"},
+            { "preference_score":95, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 73,
+        "preference": [
+            { "preference_score":56, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 688,
+        "preference": [
+            { "preference_score":99, "genre":"Adventure"},
+            { "preference_score":18, "genre":"Crime"},
+            { "preference_score":83, "genre":"Drama"},
+            { "preference_score":39, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 886,
+        "preference": [
+            { "preference_score":13, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 552,
+        "preference": [
+            { "preference_score":64, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 817,
+        "preference": [
+            { "preference_score":15, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 309,
+        "preference": [
+            { "preference_score":68, "genre":"Crime"},
+            { "preference_score":93, "genre":"Drama"},
+            { "preference_score":68, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 438,
+        "preference": [
+            { "preference_score":92, "genre":"Drama"},
+            { "preference_score":22, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 287,
+        "preference": [
+            { "preference_score":55, "genre":"Drama"},
+            { "preference_score":50, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 83,
+        "preference": [
+            { "preference_score":48, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 768,
+        "preference": [
+            { "preference_score":20, "genre":"Comedy"},
+            { "preference_score":3, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 699,
+        "preference": [
+            { "preference_score":55, "genre":"Animation"},
+            { "preference_score":59, "genre":"Children"},
+            { "preference_score":76, "genre":"Fantasy"},
+            { "preference_score":99, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 959,
+        "preference": [
+            { "preference_score":92, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 657,
+        "preference": [
+            { "preference_score":24, "genre":"Comedy"},
+            { "preference_score":68, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 221,
+        "preference": [
+            { "preference_score":5, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 950,
+        "preference": [
+            { "preference_score":73, "genre":"Comedy"},
+            { "preference_score":59, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 643,
+        "preference": [
+            { "preference_score":94, "genre":"Documentary"},
+            { "preference_score":9, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 599,
+        "preference": [
+            { "preference_score":86, "genre":"Action"},
+            { "preference_score":11, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 255,
+        "preference": [
+            { "preference_score":1, "genre":"Comedy"},
+            { "preference_score":6, "genre":"Horror"},
+            { "preference_score":24, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 631,
+        "preference": [
+            { "preference_score":2, "genre":"Action"},
+            { "preference_score":64, "genre":"Comedy"},
+            { "preference_score":19, "genre":"Drama"},
+            { "preference_score":66, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 924,
+        "preference": [
+            { "preference_score":5, "genre":"Crime"},
+            { "preference_score":77, "genre":"Drama"},
+            { "preference_score":33, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 162,
+        "preference": [
+            { "preference_score":60, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 997,
+        "preference": [
+            { "preference_score":26, "genre":"Action"},
+            { "preference_score":66, "genre":"Horror"},
+            { "preference_score":66, "genre":"Sci-Fi"},
+            { "preference_score":96, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 864,
+        "preference": [
+            { "preference_score":59, "genre":"Drama"},
+            { "preference_score":75, "genre":"Mystery"},
+            { "preference_score":2, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 381,
+        "preference": [
+            { "preference_score":2, "genre":"Crime"},
+            { "preference_score":41, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 556,
+        "preference": [
+            { "preference_score":34, "genre":"Comedy"},
+            { "preference_score":58, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 513,
+        "preference": [
+            { "preference_score":70, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 830,
+        "preference": [
+            { "preference_score":3, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 842,
+        "preference": [
+            { "preference_score":17, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 260,
+        "preference": [
+            { "preference_score":32, "genre":"Comedy"},
+            { "preference_score":30, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 902,
+        "preference": [
+            { "preference_score":57, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 236,
+        "preference": [
+            { "preference_score":41, "genre":"Romance"},
+            { "preference_score":47, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 153,
+        "preference": [
+            { "preference_score":93, "genre":"Comedy"},
+            { "preference_score":45, "genre":"Musical"},
+            { "preference_score":8, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 366,
+        "preference": [
+            { "preference_score":78, "genre":"Comedy"},
+            { "preference_score":76, "genre":"Drama"},
+            { "preference_score":25, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 79,
+        "preference": [
+            { "preference_score":31, "genre":"Comedy"},
+            { "preference_score":48, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 518,
+        "preference": [
+            { "preference_score":96, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 799,
+        "preference": [
+            { "preference_score":30, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 834,
+        "preference": [
+            { "preference_score":64, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 226,
+        "preference": [
+            { "preference_score":77, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 591,
+        "preference": [
+            { "preference_score":60, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 386,
+        "preference": [
+            { "preference_score":41, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 731,
+        "preference": [
+            { "preference_score":3, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 532,
+        "preference": [
+            { "preference_score":20, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 893,
+        "preference": [
+            { "preference_score":22, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 533,
+        "preference": [
+            { "preference_score":72, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 993,
+        "preference": [
+            { "preference_score":9, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 450,
+        "preference": [
+            { "preference_score":45, "genre":"Comedy"},
+            { "preference_score":60, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 286,
+        "preference": [
+            { "preference_score":50, "genre":"Action"},
+            { "preference_score":66, "genre":"Adventure"},
+            { "preference_score":93, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 513,
+        "preference": [
+            { "preference_score":67, "genre":"Drama"},
+            { "preference_score":33, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 700,
+        "preference": [
+            { "preference_score":98, "genre":"Horror"},
+            { "preference_score":38, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 954,
+        "preference": [
+            { "preference_score":51, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 810,
+        "preference": [
+            { "preference_score":10, "genre":"Action"},
+            { "preference_score":26, "genre":"Comedy"},
+            { "preference_score":52, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 441,
+        "preference": [
+            { "preference_score":31, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 984,
+        "preference": [
+            { "preference_score":17, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 470,
+        "preference": [
+            { "preference_score":23, "genre":"(no genres listed)"}
+        ]
+    },
+    {
+        "user_id": 979,
+        "preference": [
+            { "preference_score":97, "genre":"Comedy"},
+            { "preference_score":72, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 638,
+        "preference": [
+            { "preference_score":10, "genre":"Comedy"},
+            { "preference_score":84, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 202,
+        "preference": [
+            { "preference_score":95, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 745,
+        "preference": [
+            { "preference_score":85, "genre":"Comedy"},
+            { "preference_score":27, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 42,
+        "preference": [
+            { "preference_score":15, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 680,
+        "preference": [
+            { "preference_score":97, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 386,
+        "preference": [
+            { "preference_score":26, "genre":"Drama"},
+            { "preference_score":75, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 972,
+        "preference": [
+            { "preference_score":59, "genre":"Comedy"},
+            { "preference_score":78, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 324,
+        "preference": [
+            { "preference_score":61, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 48,
+        "preference": [
+            { "preference_score":23, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 720,
+        "preference": [
+            { "preference_score":2, "genre":"Comedy"},
+            { "preference_score":29, "genre":"Musical"},
+            { "preference_score":40, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 657,
+        "preference": [
+            { "preference_score":4, "genre":"Action"},
+            { "preference_score":75, "genre":"Drama"},
+            { "preference_score":32, "genre":"Musical"},
+            { "preference_score":59, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 344,
+        "preference": [
+            { "preference_score":36, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 61,
+        "preference": [
+            { "preference_score":33, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 166,
+        "preference": [
+            { "preference_score":83, "genre":"Sci-Fi"},
+            { "preference_score":11, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 677,
+        "preference": [
+            { "preference_score":28, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 501,
+        "preference": [
+            { "preference_score":32, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 130,
+        "preference": [
+            { "preference_score":54, "genre":"Comedy"},
+            { "preference_score":43, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 185,
+        "preference": [
+            { "preference_score":70, "genre":"Drama"},
+            { "preference_score":56, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 480,
+        "preference": [
+            { "preference_score":11, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 977,
+        "preference": [
+            { "preference_score":87, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 231,
+        "preference": [
+            { "preference_score":46, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 95,
+        "preference": [
+            { "preference_score":98, "genre":"Horror"},
+            { "preference_score":8, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 454,
+        "preference": [
+            { "preference_score":70, "genre":"Comedy"},
+            { "preference_score":90, "genre":"Musical"},
+            { "preference_score":32, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 669,
+        "preference": [
+            { "preference_score":46, "genre":"Drama"},
+            { "preference_score":11, "genre":"Horror"},
+            { "preference_score":49, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 133,
+        "preference": [
+            { "preference_score":24, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 505,
+        "preference": [
+            { "preference_score":68, "genre":"Action"},
+            { "preference_score":6, "genre":"Crime"},
+            { "preference_score":1, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 208,
+        "preference": [
+            { "preference_score":45, "genre":"Comedy"},
+            { "preference_score":50, "genre":"Musical"},
+            { "preference_score":16, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 600,
+        "preference": [
+            { "preference_score":39, "genre":"Drama"},
+            { "preference_score":59, "genre":"Thriller"},
+            { "preference_score":39, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 970,
+        "preference": [
+            { "preference_score":67, "genre":"Comedy"},
+            { "preference_score":10, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 349,
+        "preference": [
+            { "preference_score":79, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 952,
+        "preference": [
+            { "preference_score":10, "genre":"Drama"},
+            { "preference_score":41, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 277,
+        "preference": [
+            { "preference_score":5, "genre":"Comedy"},
+            { "preference_score":78, "genre":"Horror"},
+            { "preference_score":3, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 217,
+        "preference": [
+            { "preference_score":19, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 806,
+        "preference": [
+            { "preference_score":2, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 578,
+        "preference": [
+            { "preference_score":26, "genre":"Adventure"},
+            { "preference_score":18, "genre":"Mystery"},
+            { "preference_score":93, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 440,
+        "preference": [
+            { "preference_score":38, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 598,
+        "preference": [
+            { "preference_score":68, "genre":"Comedy"},
+            { "preference_score":22, "genre":"Drama"},
+            { "preference_score":11, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 190,
+        "preference": [
+            { "preference_score":63, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 790,
+        "preference": [
+            { "preference_score":31, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 384,
+        "preference": [
+            { "preference_score":30, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 500,
+        "preference": [
+            { "preference_score":85, "genre":"Crime"},
+            { "preference_score":55, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 108,
+        "preference": [
+            { "preference_score":67, "genre":"Crime"},
+            { "preference_score":87, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 824,
+        "preference": [
+            { "preference_score":4, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 84,
+        "preference": [
+            { "preference_score":29, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 824,
+        "preference": [
+            { "preference_score":3, "genre":"Crime"},
+            { "preference_score":53, "genre":"Drama"},
+            { "preference_score":56, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 804,
+        "preference": [
+            { "preference_score":75, "genre":"Drama"},
+            { "preference_score":75, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 984,
+        "preference": [
+            { "preference_score":42, "genre":"Drama"},
+            { "preference_score":72, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 103,
+        "preference": [
+            { "preference_score":87, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 676,
+        "preference": [
+            { "preference_score":51, "genre":"Crime"},
+            { "preference_score":28, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 879,
+        "preference": [
+            { "preference_score":19, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 153,
+        "preference": [
+            { "preference_score":85, "genre":"Comedy"},
+            { "preference_score":18, "genre":"Drama"},
+            { "preference_score":88, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 606,
+        "preference": [
+            { "preference_score":39, "genre":"Animation"},
+            { "preference_score":23, "genre":"Children"},
+            { "preference_score":74, "genre":"Comedy"},
+            { "preference_score":60, "genre":"Drama"},
+            { "preference_score":45, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 362,
+        "preference": [
+            { "preference_score":36, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 360,
+        "preference": [
+            { "preference_score":90, "genre":"Horror"},
+            { "preference_score":70, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 18,
+        "preference": [
+            { "preference_score":40, "genre":"Comedy"},
+            { "preference_score":40, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 568,
+        "preference": [
+            { "preference_score":62, "genre":"Drama"},
+            { "preference_score":79, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 127,
+        "preference": [
+            { "preference_score":44, "genre":"Comedy"},
+            { "preference_score":96, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 401,
+        "preference": [
+            { "preference_score":48, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 433,
+        "preference": [
+            { "preference_score":23, "genre":"Documentary"},
+            { "preference_score":62, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 162,
+        "preference": [
+            { "preference_score":58, "genre":"Comedy"},
+            { "preference_score":8, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 811,
+        "preference": [
+            { "preference_score":69, "genre":"Drama"},
+            { "preference_score":77, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 570,
+        "preference": [
+            { "preference_score":2, "genre":"Action"},
+            { "preference_score":84, "genre":"Adventure"},
+            { "preference_score":18, "genre":"Animation"},
+            { "preference_score":61, "genre":"Fantasy"},
+            { "preference_score":26, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 515,
+        "preference": [
+            { "preference_score":88, "genre":"Adventure"},
+            { "preference_score":23, "genre":"Comedy"},
+            { "preference_score":6, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 994,
+        "preference": [
+            { "preference_score":98, "genre":"Comedy"},
+            { "preference_score":12, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 31,
+        "preference": [
+            { "preference_score":88, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 777,
+        "preference": [
+            { "preference_score":59, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 770,
+        "preference": [
+            { "preference_score":18, "genre":"Comedy"},
+            { "preference_score":81, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 993,
+        "preference": [
+            { "preference_score":2, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 523,
+        "preference": [
+            { "preference_score":14, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 642,
+        "preference": [
+            { "preference_score":77, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 399,
+        "preference": [
+            { "preference_score":85, "genre":"Comedy"},
+            { "preference_score":59, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 853,
+        "preference": [
+            { "preference_score":22, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 957,
+        "preference": [
+            { "preference_score":6, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 618,
+        "preference": [
+            { "preference_score":12, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 966,
+        "preference": [
+            { "preference_score":92, "genre":"Crime"},
+            { "preference_score":94, "genre":"Drama"},
+            { "preference_score":89, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 352,
+        "preference": [
+            { "preference_score":39, "genre":"Comedy"},
+            { "preference_score":10, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 415,
+        "preference": [
+            { "preference_score":20, "genre":"Action"},
+            { "preference_score":56, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 886,
+        "preference": [
+            { "preference_score":63, "genre":"Horror"},
+            { "preference_score":63, "genre":"Mystery"},
+            { "preference_score":70, "genre":"Sci-Fi"},
+            { "preference_score":29, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 391,
+        "preference": [
+            { "preference_score":80, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 633,
+        "preference": [
+            { "preference_score":24, "genre":"Action"},
+            { "preference_score":12, "genre":"Comedy"},
+            { "preference_score":20, "genre":"Crime"},
+            { "preference_score":45, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 716,
+        "preference": [
+            { "preference_score":30, "genre":"Drama"},
+            { "preference_score":81, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 798,
+        "preference": [
+            { "preference_score":44, "genre":"Comedy"},
+            { "preference_score":58, "genre":"Musical"},
+            { "preference_score":7, "genre":"Sci-Fi"},
+            { "preference_score":56, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 149,
+        "preference": [
+            { "preference_score":11, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 284,
+        "preference": [
+            { "preference_score":91, "genre":"Comedy"},
+            { "preference_score":23, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 294,
+        "preference": [
+            { "preference_score":71, "genre":"Drama"},
+            { "preference_score":25, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 138,
+        "preference": [
+            { "preference_score":7, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 855,
+        "preference": [
+            { "preference_score":98, "genre":"Adventure"},
+            { "preference_score":31, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 241,
+        "preference": [
+            { "preference_score":39, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 477,
+        "preference": [
+            { "preference_score":62, "genre":"Adventure"},
+            { "preference_score":11, "genre":"Animation"},
+            { "preference_score":71, "genre":"Children"},
+            { "preference_score":90, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 829,
+        "preference": [
+            { "preference_score":66, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 10,
+        "preference": [
+            { "preference_score":6, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 354,
+        "preference": [
+            { "preference_score":86, "genre":"Crime"},
+            { "preference_score":51, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 372,
+        "preference": [
+            { "preference_score":82, "genre":"Horror"},
+            { "preference_score":49, "genre":"Mystery"},
+            { "preference_score":31, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 627,
+        "preference": [
+            { "preference_score":12, "genre":"Drama"},
+            { "preference_score":67, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 354,
+        "preference": [
+            { "preference_score":16, "genre":"Crime"},
+            { "preference_score":76, "genre":"Drama"},
+            { "preference_score":58, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 589,
+        "preference": [
+            { "preference_score":87, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 995,
+        "preference": [
+            { "preference_score":39, "genre":"Crime"},
+            { "preference_score":65, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 421,
+        "preference": [
+            { "preference_score":27, "genre":"Action"},
+            { "preference_score":48, "genre":"Adventure"},
+            { "preference_score":7, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 333,
+        "preference": [
+            { "preference_score":50, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 411,
+        "preference": [
+            { "preference_score":14, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 73,
+        "preference": [
+            { "preference_score":14, "genre":"Comedy"},
+            { "preference_score":93, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 522,
+        "preference": [
+            { "preference_score":32, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 254,
+        "preference": [
+            { "preference_score":49, "genre":"Action"},
+            { "preference_score":36, "genre":"Sci-Fi"},
+            { "preference_score":6, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 480,
+        "preference": [
+            { "preference_score":86, "genre":"Horror"},
+            { "preference_score":50, "genre":"Sci-Fi"},
+            { "preference_score":95, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 15,
+        "preference": [
+            { "preference_score":73, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 937,
+        "preference": [
+            { "preference_score":14, "genre":"Action"},
+            { "preference_score":86, "genre":"Adventure"},
+            { "preference_score":95, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 526,
+        "preference": [
+            { "preference_score":55, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 83,
+        "preference": [
+            { "preference_score":59, "genre":"Drama"},
+            { "preference_score":71, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 868,
+        "preference": [
+            { "preference_score":97, "genre":"Drama"},
+            { "preference_score":30, "genre":"Romance"},
+            { "preference_score":60, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 663,
+        "preference": [
+            { "preference_score":59, "genre":"Crime"},
+            { "preference_score":18, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 843,
+        "preference": [
+            { "preference_score":22, "genre":"Drama"},
+            { "preference_score":2, "genre":"Mystery"},
+            { "preference_score":32, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 677,
+        "preference": [
+            { "preference_score":31, "genre":"Action"},
+            { "preference_score":33, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 750,
+        "preference": [
+            { "preference_score":73, "genre":"Crime"},
+            { "preference_score":81, "genre":"Drama"},
+            { "preference_score":5, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 474,
+        "preference": [
+            { "preference_score":72, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 777,
+        "preference": [
+            { "preference_score":14, "genre":"Adventure"},
+            { "preference_score":55, "genre":"Children"},
+            { "preference_score":73, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 456,
+        "preference": [
+            { "preference_score":35, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 433,
+        "preference": [
+            { "preference_score":56, "genre":"Comedy"},
+            { "preference_score":25, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 521,
+        "preference": [
+            { "preference_score":75, "genre":"Drama"},
+            { "preference_score":82, "genre":"Film-Noir"},
+            { "preference_score":80, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 400,
+        "preference": [
+            { "preference_score":71, "genre":"Adventure"},
+            { "preference_score":6, "genre":"Drama"},
+            { "preference_score":65, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 258,
+        "preference": [
+            { "preference_score":10, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 371,
+        "preference": [
+            { "preference_score":62, "genre":"Horror"},
+            { "preference_score":59, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 204,
+        "preference": [
+            { "preference_score":57, "genre":"Drama"},
+            { "preference_score":16, "genre":"Romance"},
+            { "preference_score":46, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 678,
+        "preference": [
+            { "preference_score":47, "genre":"Comedy"},
+            { "preference_score":2, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 351,
+        "preference": [
+            { "preference_score":30, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 269,
+        "preference": [
+            { "preference_score":60, "genre":"Animation"},
+            { "preference_score":83, "genre":"Children"},
+            { "preference_score":58, "genre":"Comedy"},
+            { "preference_score":67, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 357,
+        "preference": [
+            { "preference_score":1, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 868,
+        "preference": [
+            { "preference_score":71, "genre":"Adventure"},
+            { "preference_score":31, "genre":"Drama"},
+            { "preference_score":93, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 842,
+        "preference": [
+            { "preference_score":90, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 218,
+        "preference": [
+            { "preference_score":90, "genre":"Comedy"},
+            { "preference_score":91, "genre":"Fantasy"},
+            { "preference_score":68, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 293,
+        "preference": [
+            { "preference_score":21, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 453,
+        "preference": [
+            { "preference_score":26, "genre":"Comedy"},
+            { "preference_score":10, "genre":"War"},
+            { "preference_score":66, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 466,
+        "preference": [
+            { "preference_score":73, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 630,
+        "preference": [
+            { "preference_score":69, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 779,
+        "preference": [
+            { "preference_score":83, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 555,
+        "preference": [
+            { "preference_score":3, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 879,
+        "preference": [
+            { "preference_score":19, "genre":"Comedy"},
+            { "preference_score":60, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 78,
+        "preference": [
+            { "preference_score":72, "genre":"Comedy"},
+            { "preference_score":86, "genre":"Drama"},
+            { "preference_score":28, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 782,
+        "preference": [
+            { "preference_score":15, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 345,
+        "preference": [
+            { "preference_score":1, "genre":"Crime"},
+            { "preference_score":17, "genre":"Drama"},
+            { "preference_score":85, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 622,
+        "preference": [
+            { "preference_score":78, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 787,
+        "preference": [
+            { "preference_score":75, "genre":"Crime"},
+            { "preference_score":70, "genre":"Drama"},
+            { "preference_score":24, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 451,
+        "preference": [
+            { "preference_score":85, "genre":"Drama"},
+            { "preference_score":14, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 570,
+        "preference": [
+            { "preference_score":84, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 132,
+        "preference": [
+            { "preference_score":66, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 920,
+        "preference": [
+            { "preference_score":37, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 884,
+        "preference": [
+            { "preference_score":76, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 472,
+        "preference": [
+            { "preference_score":64, "genre":"Action"},
+            { "preference_score":75, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 253,
+        "preference": [
+            { "preference_score":82, "genre":"Comedy"},
+            { "preference_score":16, "genre":"Horror"},
+            { "preference_score":93, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 302,
+        "preference": [
+            { "preference_score":17, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 422,
+        "preference": [
+            { "preference_score":10, "genre":"Adventure"},
+            { "preference_score":23, "genre":"Comedy"},
+            { "preference_score":36, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 523,
+        "preference": [
+            { "preference_score":6, "genre":"Comedy"},
+            { "preference_score":98, "genre":"Drama"},
+            { "preference_score":96, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 449,
+        "preference": [
+            { "preference_score":14, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 432,
+        "preference": [
+            { "preference_score":55, "genre":"Action"},
+            { "preference_score":64, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 212,
+        "preference": [
+            { "preference_score":80, "genre":"Children"},
+            { "preference_score":61, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 358,
+        "preference": [
+            { "preference_score":52, "genre":"Adventure"},
+            { "preference_score":32, "genre":"Drama"},
+            { "preference_score":80, "genre":"Romance"},
+            { "preference_score":73, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 340,
+        "preference": [
+            { "preference_score":84, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 441,
+        "preference": [
+            { "preference_score":77, "genre":"Action"}
+        ]
+    },
+    {
+        "user_id": 183,
+        "preference": [
+            { "preference_score":92, "genre":"Crime"},
+            { "preference_score":84, "genre":"Drama"},
+            { "preference_score":50, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 107,
+        "preference": [
+            { "preference_score":25, "genre":"Action"},
+            { "preference_score":88, "genre":"Crime"},
+            { "preference_score":47, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 738,
+        "preference": [
+            { "preference_score":99, "genre":"Crime"},
+            { "preference_score":49, "genre":"Drama"},
+            { "preference_score":94, "genre":"Film-Noir"},
+            { "preference_score":11, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 466,
+        "preference": [
+            { "preference_score":64, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 380,
+        "preference": [
+            { "preference_score":26, "genre":"Comedy"},
+            { "preference_score":89, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 553,
+        "preference": [
+            { "preference_score":1, "genre":"Fantasy"},
+            { "preference_score":45, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 308,
+        "preference": [
+            { "preference_score":97, "genre":"Adventure"},
+            { "preference_score":18, "genre":"Animation"},
+            { "preference_score":72, "genre":"Children"},
+            { "preference_score":78, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 446,
+        "preference": [
+            { "preference_score":71, "genre":"Action"},
+            { "preference_score":15, "genre":"Crime"},
+            { "preference_score":76, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 581,
+        "preference": [
+            { "preference_score":33, "genre":"Drama"},
+            { "preference_score":24, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 804,
+        "preference": [
+            { "preference_score":69, "genre":"Comedy"},
+            { "preference_score":38, "genre":"Crime"},
+            { "preference_score":50, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 723,
+        "preference": [
+            { "preference_score":36, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 193,
+        "preference": [
+            { "preference_score":74, "genre":"(no genres listed)"}
+        ]
+    },
+    {
+        "user_id": 54,
+        "preference": [
+            { "preference_score":59, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 513,
+        "preference": [
+            { "preference_score":49, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 738,
+        "preference": [
+            { "preference_score":55, "genre":"Children"},
+            { "preference_score":71, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 830,
+        "preference": [
+            { "preference_score":21, "genre":"Drama"},
+            { "preference_score":54, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 460,
+        "preference": [
+            { "preference_score":69, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 646,
+        "preference": [
+            { "preference_score":7, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 961,
+        "preference": [
+            { "preference_score":9, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 752,
+        "preference": [
+            { "preference_score":47, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 254,
+        "preference": [
+            { "preference_score":75, "genre":"Horror"},
+            { "preference_score":86, "genre":"Mystery"},
+            { "preference_score":1, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 766,
+        "preference": [
+            { "preference_score":73, "genre":"Drama"},
+            { "preference_score":77, "genre":"Mystery"},
+            { "preference_score":92, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 604,
+        "preference": [
+            { "preference_score":75, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 684,
+        "preference": [
+            { "preference_score":93, "genre":"Comedy"},
+            { "preference_score":75, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 873,
+        "preference": [
+            { "preference_score":65, "genre":"Children"},
+            { "preference_score":76, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 829,
+        "preference": [
+            { "preference_score":96, "genre":"Animation"}
+        ]
+    },
+    {
+        "user_id": 754,
+        "preference": [
+            { "preference_score":18, "genre":"Fantasy"},
+            { "preference_score":21, "genre":"Horror"},
+            { "preference_score":36, "genre":"Romance"},
+            { "preference_score":62, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 225,
+        "preference": [
+            { "preference_score":84, "genre":"Documentary"},
+            { "preference_score":26, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 424,
+        "preference": [
+            { "preference_score":26, "genre":"Adventure"},
+            { "preference_score":50, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 73,
+        "preference": [
+            { "preference_score":24, "genre":"Documentary"},
+            { "preference_score":8, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 637,
+        "preference": [
+            { "preference_score":61, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 988,
+        "preference": [
+            { "preference_score":10, "genre":"Drama"},
+            { "preference_score":56, "genre":"Fantasy"},
+            { "preference_score":35, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 972,
+        "preference": [
+            { "preference_score":96, "genre":"Drama"},
+            { "preference_score":76, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 292,
+        "preference": [
+            { "preference_score":75, "genre":"Action"},
+            { "preference_score":10, "genre":"Adventure"},
+            { "preference_score":78, "genre":"Crime"},
+            { "preference_score":16, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 327,
+        "preference": [
+            { "preference_score":20, "genre":"Comedy"},
+            { "preference_score":93, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 379,
+        "preference": [
+            { "preference_score":62, "genre":"Horror"},
+            { "preference_score":38, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 943,
+        "preference": [
+            { "preference_score":95, "genre":"Drama"},
+            { "preference_score":82, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 826,
+        "preference": [
+            { "preference_score":10, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 768,
+        "preference": [
+            { "preference_score":7, "genre":"Drama"},
+            { "preference_score":39, "genre":"Fantasy"},
+            { "preference_score":55, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 620,
+        "preference": [
+            { "preference_score":38, "genre":"Action"},
+            { "preference_score":22, "genre":"Comedy"},
+            { "preference_score":17, "genre":"Drama"},
+            { "preference_score":45, "genre":"Fantasy"},
+            { "preference_score":64, "genre":"Mystery"},
+            { "preference_score":58, "genre":"Sci-Fi"},
+            { "preference_score":70, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 320,
+        "preference": [
+            { "preference_score":83, "genre":"Comedy"},
+            { "preference_score":57, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 199,
+        "preference": [
+            { "preference_score":2, "genre":"Action"},
+            { "preference_score":54, "genre":"War"},
+            { "preference_score":98, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 614,
+        "preference": [
+            { "preference_score":10, "genre":"Comedy"},
+            { "preference_score":27, "genre":"Drama"},
+            { "preference_score":88, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 54,
+        "preference": [
+            { "preference_score":94, "genre":"Adventure"},
+            { "preference_score":5, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 910,
+        "preference": [
+            { "preference_score":48, "genre":"Comedy"},
+            { "preference_score":82, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 80,
+        "preference": [
+            { "preference_score":3, "genre":"Drama"},
+            { "preference_score":44, "genre":"Romance"},
+            { "preference_score":28, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 381,
+        "preference": [
+            { "preference_score":82, "genre":"Horror"},
+            { "preference_score":12, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 776,
+        "preference": [
+            { "preference_score":22, "genre":"Action"},
+            { "preference_score":36, "genre":"Crime"},
+            { "preference_score":27, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 897,
+        "preference": [
+            { "preference_score":13, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 462,
+        "preference": [
+            { "preference_score":25, "genre":"Comedy"},
+            { "preference_score":97, "genre":"Crime"},
+            { "preference_score":39, "genre":"Horror"},
+            { "preference_score":32, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 56,
+        "preference": [
+            { "preference_score":75, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 950,
+        "preference": [
+            { "preference_score":49, "genre":"Action"},
+            { "preference_score":27, "genre":"Adventure"},
+            { "preference_score":13, "genre":"Mystery"},
+            { "preference_score":52, "genre":"Romance"},
+            { "preference_score":66, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 139,
+        "preference": [
+            { "preference_score":44, "genre":"Comedy"},
+            { "preference_score":75, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 235,
+        "preference": [
+            { "preference_score":18, "genre":"Comedy"},
+            { "preference_score":48, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 446,
+        "preference": [
+            { "preference_score":96, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 177,
+        "preference": [
+            { "preference_score":6, "genre":"Drama"},
+            { "preference_score":13, "genre":"Fantasy"},
+            { "preference_score":69, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 553,
+        "preference": [
+            { "preference_score":55, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 555,
+        "preference": [
+            { "preference_score":29, "genre":"Drama"},
+            { "preference_score":12, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 192,
+        "preference": [
+            { "preference_score":92, "genre":"Action"},
+            { "preference_score":70, "genre":"Adventure"},
+            { "preference_score":47, "genre":"Mystery"},
+            { "preference_score":31, "genre":"Romance"},
+            { "preference_score":24, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 776,
+        "preference": [
+            { "preference_score":90, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 541,
+        "preference": [
+            { "preference_score":18, "genre":"Comedy"},
+            { "preference_score":74, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 822,
+        "preference": [
+            { "preference_score":31, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 785,
+        "preference": [
+            { "preference_score":90, "genre":"Comedy"},
+            { "preference_score":48, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 24,
+        "preference": [
+            { "preference_score":13, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 873,
+        "preference": [
+            { "preference_score":51, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 795,
+        "preference": [
+            { "preference_score":16, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 495,
+        "preference": [
+            { "preference_score":55, "genre":"Comedy"},
+            { "preference_score":62, "genre":"Drama"},
+            { "preference_score":82, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 859,
+        "preference": [
+            { "preference_score":46, "genre":"Drama"},
+            { "preference_score":3, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 667,
+        "preference": [
+            { "preference_score":62, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 213,
+        "preference": [
+            { "preference_score":1, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 116,
+        "preference": [
+            { "preference_score":62, "genre":"Drama"},
+            { "preference_score":60, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 524,
+        "preference": [
+            { "preference_score":97, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 658,
+        "preference": [
+            { "preference_score":70, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 506,
+        "preference": [
+            { "preference_score":36, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 759,
+        "preference": [
+            { "preference_score":69, "genre":"Comedy"},
+            { "preference_score":65, "genre":"Drama"},
+            { "preference_score":30, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 873,
+        "preference": [
+            { "preference_score":60, "genre":"Horror"},
+            { "preference_score":24, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 375,
+        "preference": [
+            { "preference_score":73, "genre":"Horror"},
+            { "preference_score":83, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 288,
+        "preference": [
+            { "preference_score":64, "genre":"Comedy"},
+            { "preference_score":42, "genre":"Musical"},
+            { "preference_score":89, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 598,
+        "preference": [
+            { "preference_score":29, "genre":"Animation"},
+            { "preference_score":7, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 773,
+        "preference": [
+            { "preference_score":46, "genre":"Comedy"},
+            { "preference_score":98, "genre":"Horror"},
+            { "preference_score":27, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 912,
+        "preference": [
+            { "preference_score":60, "genre":"Mystery"},
+            { "preference_score":98, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 378,
+        "preference": [
+            { "preference_score":84, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 40,
+        "preference": [
+            { "preference_score":24, "genre":"Children"},
+            { "preference_score":62, "genre":"Comedy"},
+            { "preference_score":15, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 603,
+        "preference": [
+            { "preference_score":32, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 808,
+        "preference": [
+            { "preference_score":42, "genre":"Comedy"},
+            { "preference_score":59, "genre":"Crime"},
+            { "preference_score":34, "genre":"Mystery"},
+            { "preference_score":39, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 538,
+        "preference": [
+            { "preference_score":74, "genre":"Crime"},
+            { "preference_score":88, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 617,
+        "preference": [
+            { "preference_score":27, "genre":"Drama"},
+            { "preference_score":95, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 511,
+        "preference": [
+            { "preference_score":29, "genre":"Drama"},
+            { "preference_score":92, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 1000,
+        "preference": [
+            { "preference_score":55, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 838,
+        "preference": [
+            { "preference_score":34, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 243,
+        "preference": [
+            { "preference_score":27, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 808,
+        "preference": [
+            { "preference_score":3, "genre":"Crime"},
+            { "preference_score":88, "genre":"Horror"},
+            { "preference_score":75, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 142,
+        "preference": [
+            { "preference_score":42, "genre":"Adventure"},
+            { "preference_score":83, "genre":"Drama"},
+            { "preference_score":2, "genre":"Fantasy"},
+            { "preference_score":45, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 369,
+        "preference": [
+            { "preference_score":66, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 926,
+        "preference": [
+            { "preference_score":37, "genre":"Drama"},
+            { "preference_score":41, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 182,
+        "preference": [
+            { "preference_score":13, "genre":"Comedy"},
+            { "preference_score":74, "genre":"Crime"},
+            { "preference_score":1, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 820,
+        "preference": [
+            { "preference_score":25, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 553,
+        "preference": [
+            { "preference_score":7, "genre":"Comedy"},
+            { "preference_score":29, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 922,
+        "preference": [
+            { "preference_score":35, "genre":"Drama"},
+            { "preference_score":73, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 506,
+        "preference": [
+            { "preference_score":53, "genre":"Adventure"},
+            { "preference_score":39, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 994,
+        "preference": [
+            { "preference_score":66, "genre":"Comedy"},
+            { "preference_score":63, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 967,
+        "preference": [
+            { "preference_score":13, "genre":"Action"},
+            { "preference_score":88, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 439,
+        "preference": [
+            { "preference_score":74, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 867,
+        "preference": [
+            { "preference_score":21, "genre":"Comedy"},
+            { "preference_score":13, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 752,
+        "preference": [
+            { "preference_score":71, "genre":"Comedy"},
+            { "preference_score":92, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 863,
+        "preference": [
+            { "preference_score":33, "genre":"Children"},
+            { "preference_score":37, "genre":"Comedy"},
+            { "preference_score":88, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 730,
+        "preference": [
+            { "preference_score":61, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 935,
+        "preference": [
+            { "preference_score":33, "genre":"Documentary"},
+            { "preference_score":37, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 64,
+        "preference": [
+            { "preference_score":36, "genre":"Drama"},
+            { "preference_score":88, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 120,
+        "preference": [
+            { "preference_score":75, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 721,
+        "preference": [
+            { "preference_score":73, "genre":"Action"}
+        ]
+    },
+    {
+        "user_id": 473,
+        "preference": [
+            { "preference_score":95, "genre":"Comedy"},
+            { "preference_score":89, "genre":"Fantasy"},
+            { "preference_score":71, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 136,
+        "preference": [
+            { "preference_score":43, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 521,
+        "preference": [
+            { "preference_score":51, "genre":"Crime"},
+            { "preference_score":11, "genre":"Drama"},
+            { "preference_score":64, "genre":"Romance"},
+            { "preference_score":81, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 659,
+        "preference": [
+            { "preference_score":89, "genre":"Drama"},
+            { "preference_score":48, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 358,
+        "preference": [
+            { "preference_score":18, "genre":"Drama"},
+            { "preference_score":80, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 649,
+        "preference": [
+            { "preference_score":19, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 207,
+        "preference": [
+            { "preference_score":21, "genre":"Adventure"},
+            { "preference_score":80, "genre":"Comedy"},
+            { "preference_score":76, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 398,
+        "preference": [
+            { "preference_score":17, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 233,
+        "preference": [
+            { "preference_score":36, "genre":"Animation"},
+            { "preference_score":5, "genre":"Comedy"},
+            { "preference_score":55, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 81,
+        "preference": [
+            { "preference_score":70, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 313,
+        "preference": [
+            { "preference_score":47, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 893,
+        "preference": [
+            { "preference_score":25, "genre":"Adventure"},
+            { "preference_score":51, "genre":"Animation"},
+            { "preference_score":5, "genre":"Children"},
+            { "preference_score":50, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 869,
+        "preference": [
+            { "preference_score":49, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 494,
+        "preference": [
+            { "preference_score":58, "genre":"Documentary"},
+            { "preference_score":53, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 576,
+        "preference": [
+            { "preference_score":24, "genre":"Comedy"},
+            { "preference_score":48, "genre":"Drama"},
+            { "preference_score":82, "genre":"Musical"},
+            { "preference_score":22, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 822,
+        "preference": [
+            { "preference_score":24, "genre":"Drama"},
+            { "preference_score":80, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 48,
+        "preference": [
+            { "preference_score":97, "genre":"Drama"},
+            { "preference_score":1, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 819,
+        "preference": [
+            { "preference_score":79, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 48,
+        "preference": [
+            { "preference_score":3, "genre":"Comedy"},
+            { "preference_score":8, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 268,
+        "preference": [
+            { "preference_score":12, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 121,
+        "preference": [
+            { "preference_score":42, "genre":"Crime"},
+            { "preference_score":1, "genre":"Drama"},
+            { "preference_score":57, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 531,
+        "preference": [
+            { "preference_score":69, "genre":"Adventure"},
+            { "preference_score":43, "genre":"Fantasy"},
+            { "preference_score":84, "genre":"Horror"},
+            { "preference_score":54, "genre":"Romance"},
+            { "preference_score":79, "genre":"Sci-Fi"},
+            { "preference_score":95, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 143,
+        "preference": [
+            { "preference_score":65, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 193,
+        "preference": [
+            { "preference_score":21, "genre":"Adventure"},
+            { "preference_score":77, "genre":"Fantasy"},
+            { "preference_score":64, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 61,
+        "preference": [
+            { "preference_score":9, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 472,
+        "preference": [
+            { "preference_score":66, "genre":"Drama"},
+            { "preference_score":50, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 117,
+        "preference": [
+            { "preference_score":9, "genre":"Crime"},
+            { "preference_score":41, "genre":"Drama"},
+            { "preference_score":76, "genre":"Film-Noir"}
+        ]
+    },
+    {
+        "user_id": 103,
+        "preference": [
+            { "preference_score":34, "genre":"Adventure"},
+            { "preference_score":10, "genre":"Animation"},
+            { "preference_score":38, "genre":"Children"},
+            { "preference_score":42, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 358,
+        "preference": [
+            { "preference_score":37, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 620,
+        "preference": [
+            { "preference_score":67, "genre":"Drama"},
+            { "preference_score":62, "genre":"Mystery"},
+            { "preference_score":30, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 916,
+        "preference": [
+            { "preference_score":61, "genre":"Children"},
+            { "preference_score":10, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 710,
+        "preference": [
+            { "preference_score":11, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 487,
+        "preference": [
+            { "preference_score":35, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 644,
+        "preference": [
+            { "preference_score":64, "genre":"Action"},
+            { "preference_score":93, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 395,
+        "preference": [
+            { "preference_score":42, "genre":"Comedy"},
+            { "preference_score":45, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 618,
+        "preference": [
+            { "preference_score":63, "genre":"Comedy"},
+            { "preference_score":74, "genre":"Crime"},
+            { "preference_score":2, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 95,
+        "preference": [
+            { "preference_score":49, "genre":"Drama"},
+            { "preference_score":15, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 464,
+        "preference": [
+            { "preference_score":77, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 406,
+        "preference": [
+            { "preference_score":55, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 709,
+        "preference": [
+            { "preference_score":3, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 629,
+        "preference": [
+            { "preference_score":77, "genre":"Comedy"},
+            { "preference_score":77, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 626,
+        "preference": [
+            { "preference_score":81, "genre":"Drama"},
+            { "preference_score":40, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 857,
+        "preference": [
+            { "preference_score":14, "genre":"Comedy"},
+            { "preference_score":35, "genre":"Horror"},
+            { "preference_score":91, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 32,
+        "preference": [
+            { "preference_score":75, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 924,
+        "preference": [
+            { "preference_score":22, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 863,
+        "preference": [
+            { "preference_score":99, "genre":"Crime"},
+            { "preference_score":86, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 588,
+        "preference": [
+            { "preference_score":93, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 72,
+        "preference": [
+            { "preference_score":29, "genre":"Drama"},
+            { "preference_score":81, "genre":"Horror"},
+            { "preference_score":74, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 911,
+        "preference": [
+            { "preference_score":24, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 707,
+        "preference": [
+            { "preference_score":6, "genre":"Documentary"},
+            { "preference_score":17, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 877,
+        "preference": [
+            { "preference_score":72, "genre":"Animation"},
+            { "preference_score":58, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 873,
+        "preference": [
+            { "preference_score":75, "genre":"Animation"},
+            { "preference_score":68, "genre":"Comedy"},
+            { "preference_score":3, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 996,
+        "preference": [
+            { "preference_score":67, "genre":"Drama"},
+            { "preference_score":85, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 313,
+        "preference": [
+            { "preference_score":12, "genre":"Action"},
+            { "preference_score":88, "genre":"Drama"},
+            { "preference_score":59, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 125,
+        "preference": [
+            { "preference_score":95, "genre":"Comedy"},
+            { "preference_score":5, "genre":"Drama"},
+            { "preference_score":12, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 968,
+        "preference": [
+            { "preference_score":51, "genre":"Drama"},
+            { "preference_score":84, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 446,
+        "preference": [
+            { "preference_score":49, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 45,
+        "preference": [
+            { "preference_score":19, "genre":"Children"},
+            { "preference_score":13, "genre":"Drama"},
+            { "preference_score":94, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 702,
+        "preference": [
+            { "preference_score":89, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 860,
+        "preference": [
+            { "preference_score":24, "genre":"Comedy"},
+            { "preference_score":67, "genre":"Crime"},
+            { "preference_score":88, "genre":"Mystery"},
+            { "preference_score":10, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 142,
+        "preference": [
+            { "preference_score":76, "genre":"Drama"},
+            { "preference_score":68, "genre":"Fantasy"},
+            { "preference_score":78, "genre":"Musical"},
+            { "preference_score":68, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 684,
+        "preference": [
+            { "preference_score":23, "genre":"Comedy"},
+            { "preference_score":1, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 234,
+        "preference": [
+            { "preference_score":58, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 676,
+        "preference": [
+            { "preference_score":32, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 423,
+        "preference": [
+            { "preference_score":51, "genre":"Action"},
+            { "preference_score":92, "genre":"Adventure"},
+            { "preference_score":30, "genre":"Romance"},
+            { "preference_score":83, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 749,
+        "preference": [
+            { "preference_score":34, "genre":"Action"},
+            { "preference_score":60, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 31,
+        "preference": [
+            { "preference_score":35, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 968,
+        "preference": [
+            { "preference_score":90, "genre":"Action"},
+            { "preference_score":90, "genre":"Crime"},
+            { "preference_score":45, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 359,
+        "preference": [
+            { "preference_score":70, "genre":"Action"},
+            { "preference_score":80, "genre":"Adventure"},
+            { "preference_score":93, "genre":"Drama"},
+            { "preference_score":84, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 54,
+        "preference": [
+            { "preference_score":88, "genre":"Crime"},
+            { "preference_score":27, "genre":"Horror"},
+            { "preference_score":3, "genre":"Mystery"},
+            { "preference_score":70, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 398,
+        "preference": [
+            { "preference_score":36, "genre":"Comedy"},
+            { "preference_score":24, "genre":"Romance"},
+            { "preference_score":6, "genre":"Sci-Fi"},
+            { "preference_score":39, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 568,
+        "preference": [
+            { "preference_score":63, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 950,
+        "preference": [
+            { "preference_score":46, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 636,
+        "preference": [
+            { "preference_score":6, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 168,
+        "preference": [
+            { "preference_score":59, "genre":"Comedy"},
+            { "preference_score":63, "genre":"Drama"},
+            { "preference_score":1, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 907,
+        "preference": [
+            { "preference_score":70, "genre":"Action"},
+            { "preference_score":42, "genre":"Crime"},
+            { "preference_score":71, "genre":"Drama"},
+            { "preference_score":14, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 510,
+        "preference": [
+            { "preference_score":23, "genre":"Comedy"},
+            { "preference_score":53, "genre":"Crime"},
+            { "preference_score":49, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 36,
+        "preference": [
+            { "preference_score":23, "genre":"Comedy"},
+            { "preference_score":94, "genre":"Drama"},
+            { "preference_score":51, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 305,
+        "preference": [
+            { "preference_score":35, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 293,
+        "preference": [
+            { "preference_score":74, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 404,
+        "preference": [
+            { "preference_score":69, "genre":"Action"}
+        ]
+    },
+    {
+        "user_id": 962,
+        "preference": [
+            { "preference_score":46, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 976,
+        "preference": [
+            { "preference_score":84, "genre":"Adventure"},
+            { "preference_score":42, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 189,
+        "preference": [
+            { "preference_score":45, "genre":"Comedy"},
+            { "preference_score":16, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 53,
+        "preference": [
+            { "preference_score":78, "genre":"Drama"},
+            { "preference_score":72, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 924,
+        "preference": [
+            { "preference_score":42, "genre":"Drama"},
+            { "preference_score":7, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 46,
+        "preference": [
+            { "preference_score":23, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 95,
+        "preference": [
+            { "preference_score":97, "genre":"Drama"},
+            { "preference_score":26, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 253,
+        "preference": [
+            { "preference_score":57, "genre":"Children"},
+            { "preference_score":43, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 986,
+        "preference": [
+            { "preference_score":78, "genre":"Action"},
+            { "preference_score":63, "genre":"Drama"},
+            { "preference_score":44, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 73,
+        "preference": [
+            { "preference_score":84, "genre":"Action"},
+            { "preference_score":76, "genre":"Mystery"},
+            { "preference_score":47, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 797,
+        "preference": [
+            { "preference_score":63, "genre":"Comedy"},
+            { "preference_score":1, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 570,
+        "preference": [
+            { "preference_score":90, "genre":"Animation"}
+        ]
+    },
+    {
+        "user_id": 80,
+        "preference": [
+            { "preference_score":93, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 5,
+        "preference": [
+            { "preference_score":29, "genre":"Sci-Fi"},
+            { "preference_score":65, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 350,
+        "preference": [
+            { "preference_score":75, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 206,
+        "preference": [
+            { "preference_score":40, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 988,
+        "preference": [
+            { "preference_score":74, "genre":"Crime"},
+            { "preference_score":44, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 349,
+        "preference": [
+            { "preference_score":24, "genre":"Adventure"},
+            { "preference_score":96, "genre":"Drama"},
+            { "preference_score":55, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 901,
+        "preference": [
+            { "preference_score":72, "genre":"Comedy"},
+            { "preference_score":72, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 23,
+        "preference": [
+            { "preference_score":52, "genre":"Action"},
+            { "preference_score":25, "genre":"Adventure"},
+            { "preference_score":56, "genre":"Comedy"},
+            { "preference_score":79, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 56,
+        "preference": [
+            { "preference_score":10, "genre":"Drama"},
+            { "preference_score":5, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 734,
+        "preference": [
+            { "preference_score":24, "genre":"Drama"},
+            { "preference_score":4, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 465,
+        "preference": [
+            { "preference_score":58, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 370,
+        "preference": [
+            { "preference_score":72, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 821,
+        "preference": [
+            { "preference_score":17, "genre":"Drama"},
+            { "preference_score":12, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 53,
+        "preference": [
+            { "preference_score":39, "genre":"Drama"},
+            { "preference_score":99, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 142,
+        "preference": [
+            { "preference_score":50, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 386,
+        "preference": [
+            { "preference_score":20, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 771,
+        "preference": [
+            { "preference_score":38, "genre":"Action"},
+            { "preference_score":90, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 640,
+        "preference": [
+            { "preference_score":86, "genre":"Action"},
+            { "preference_score":4, "genre":"Crime"},
+            { "preference_score":72, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 617,
+        "preference": [
+            { "preference_score":13, "genre":"Action"},
+            { "preference_score":71, "genre":"Crime"},
+            { "preference_score":2, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 371,
+        "preference": [
+            { "preference_score":32, "genre":"Comedy"},
+            { "preference_score":8, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 455,
+        "preference": [
+            { "preference_score":37, "genre":"Action"},
+            { "preference_score":6, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 686,
+        "preference": [
+            { "preference_score":57, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 876,
+        "preference": [
+            { "preference_score":20, "genre":"Documentary"},
+            { "preference_score":41, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 116,
+        "preference": [
+            { "preference_score":19, "genre":"Crime"},
+            { "preference_score":64, "genre":"Drama"},
+            { "preference_score":2, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 455,
+        "preference": [
+            { "preference_score":51, "genre":"Action"},
+            { "preference_score":53, "genre":"Drama"},
+            { "preference_score":66, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 222,
+        "preference": [
+            { "preference_score":55, "genre":"Adventure"},
+            { "preference_score":92, "genre":"Comedy"},
+            { "preference_score":66, "genre":"Fantasy"},
+            { "preference_score":68, "genre":"Romance"},
+            { "preference_score":38, "genre":"IMAX"}
+        ]
+    },
+    {
+        "user_id": 13,
+        "preference": [
+            { "preference_score":66, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 859,
+        "preference": [
+            { "preference_score":22, "genre":"Comedy"},
+            { "preference_score":54, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 441,
+        "preference": [
+            { "preference_score":40, "genre":"Comedy"},
+            { "preference_score":61, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 931,
+        "preference": [
+            { "preference_score":42, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 847,
+        "preference": [
+            { "preference_score":36, "genre":"Drama"},
+            { "preference_score":32, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 78,
+        "preference": [
+            { "preference_score":31, "genre":"Action"},
+            { "preference_score":86, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 971,
+        "preference": [
+            { "preference_score":5, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 405,
+        "preference": [
+            { "preference_score":41, "genre":"Animation"},
+            { "preference_score":27, "genre":"Children"},
+            { "preference_score":49, "genre":"Comedy"},
+            { "preference_score":47, "genre":"Musical"},
+            { "preference_score":21, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 42,
+        "preference": [
+            { "preference_score":32, "genre":"Comedy"},
+            { "preference_score":16, "genre":"Musical"},
+            { "preference_score":64, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 710,
+        "preference": [
+            { "preference_score":16, "genre":"Drama"},
+            { "preference_score":36, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 863,
+        "preference": [
+            { "preference_score":14, "genre":"Comedy"},
+            { "preference_score":40, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 820,
+        "preference": [
+            { "preference_score":66, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 540,
+        "preference": [
+            { "preference_score":94, "genre":"Comedy"},
+            { "preference_score":30, "genre":"Crime"},
+            { "preference_score":1, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 180,
+        "preference": [
+            { "preference_score":49, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 165,
+        "preference": [
+            { "preference_score":76, "genre":"Action"},
+            { "preference_score":21, "genre":"Adventure"},
+            { "preference_score":18, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 915,
+        "preference": [
+            { "preference_score":60, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 598,
+        "preference": [
+            { "preference_score":55, "genre":"Comedy"},
+            { "preference_score":28, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 841,
+        "preference": [
+            { "preference_score":96, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 282,
+        "preference": [
+            { "preference_score":76, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 353,
+        "preference": [
+            { "preference_score":67, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 271,
+        "preference": [
+            { "preference_score":90, "genre":"Drama"},
+            { "preference_score":75, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 142,
+        "preference": [
+            { "preference_score":69, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 330,
+        "preference": [
+            { "preference_score":86, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 200,
+        "preference": [
+            { "preference_score":99, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 691,
+        "preference": [
+            { "preference_score":16, "genre":"Comedy"},
+            { "preference_score":89, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 830,
+        "preference": [
+            { "preference_score":16, "genre":"Crime"},
+            { "preference_score":89, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 572,
+        "preference": [
+            { "preference_score":69, "genre":"Drama"},
+            { "preference_score":10, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 588,
+        "preference": [
+            { "preference_score":64, "genre":"Drama"},
+            { "preference_score":45, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 997,
+        "preference": [
+            { "preference_score":8, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 855,
+        "preference": [
+            { "preference_score":92, "genre":"Crime"},
+            { "preference_score":5, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 879,
+        "preference": [
+            { "preference_score":72, "genre":"Comedy"},
+            { "preference_score":16, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 815,
+        "preference": [
+            { "preference_score":19, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 369,
+        "preference": [
+            { "preference_score":51, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 819,
+        "preference": [
+            { "preference_score":81, "genre":"Adventure"},
+            { "preference_score":1, "genre":"Drama"},
+            { "preference_score":53, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 481,
+        "preference": [
+            { "preference_score":97, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 700,
+        "preference": [
+            { "preference_score":43, "genre":"Action"},
+            { "preference_score":40, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 846,
+        "preference": [
+            { "preference_score":15, "genre":"Animation"},
+            { "preference_score":52, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 711,
+        "preference": [
+            { "preference_score":5, "genre":"Drama"},
+            { "preference_score":45, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 922,
+        "preference": [
+            { "preference_score":6, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 565,
+        "preference": [
+            { "preference_score":44, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 327,
+        "preference": [
+            { "preference_score":32, "genre":"Drama"},
+            { "preference_score":43, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 790,
+        "preference": [
+            { "preference_score":41, "genre":"Comedy"},
+            { "preference_score":47, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 195,
+        "preference": [
+            { "preference_score":1, "genre":"Children"},
+            { "preference_score":85, "genre":"Comedy"},
+            { "preference_score":18, "genre":"Fantasy"},
+            { "preference_score":46, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 483,
+        "preference": [
+            { "preference_score":97, "genre":"Drama"},
+            { "preference_score":44, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 372,
+        "preference": [
+            { "preference_score":58, "genre":"Crime"},
+            { "preference_score":46, "genre":"Drama"},
+            { "preference_score":95, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 137,
+        "preference": [
+            { "preference_score":37, "genre":"Comedy"},
+            { "preference_score":12, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 842,
+        "preference": [
+            { "preference_score":42, "genre":"Drama"},
+            { "preference_score":65, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 805,
+        "preference": [
+            { "preference_score":58, "genre":"Comedy"},
+            { "preference_score":22, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 416,
+        "preference": [
+            { "preference_score":6, "genre":"Animation"}
+        ]
+    },
+    {
+        "user_id": 895,
+        "preference": [
+            { "preference_score":69, "genre":"Documentary"},
+            { "preference_score":40, "genre":"Drama"},
+            { "preference_score":99, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 734,
+        "preference": [
+            { "preference_score":90, "genre":"Drama"},
+            { "preference_score":99, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 633,
+        "preference": [
+            { "preference_score":52, "genre":"Comedy"},
+            { "preference_score":65, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 519,
+        "preference": [
+            { "preference_score":4, "genre":"Horror"},
+            { "preference_score":77, "genre":"Thriller"},
+            { "preference_score":23, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 165,
+        "preference": [
+            { "preference_score":95, "genre":"Action"},
+            { "preference_score":13, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 545,
+        "preference": [
+            { "preference_score":28, "genre":"Action"},
+            { "preference_score":79, "genre":"Crime"},
+            { "preference_score":15, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 170,
+        "preference": [
+            { "preference_score":85, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 755,
+        "preference": [
+            { "preference_score":4, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 39,
+        "preference": [
+            { "preference_score":33, "genre":"Crime"},
+            { "preference_score":66, "genre":"Drama"},
+            { "preference_score":6, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 89,
+        "preference": [
+            { "preference_score":5, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 585,
+        "preference": [
+            { "preference_score":15, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 433,
+        "preference": [
+            { "preference_score":51, "genre":"Action"},
+            { "preference_score":84, "genre":"Drama"},
+            { "preference_score":88, "genre":"Mystery"},
+            { "preference_score":12, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 530,
+        "preference": [
+            { "preference_score":1, "genre":"Horror"},
+            { "preference_score":95, "genre":"Mystery"},
+            { "preference_score":56, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 470,
+        "preference": [
+            { "preference_score":99, "genre":"Comedy"},
+            { "preference_score":18, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 358,
+        "preference": [
+            { "preference_score":83, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 510,
+        "preference": [
+            { "preference_score":39, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 311,
+        "preference": [
+            { "preference_score":13, "genre":"Drama"},
+            { "preference_score":64, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 33,
+        "preference": [
+            { "preference_score":15, "genre":"Children"},
+            { "preference_score":68, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 203,
+        "preference": [
+            { "preference_score":93, "genre":"Drama"},
+            { "preference_score":68, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 130,
+        "preference": [
+            { "preference_score":92, "genre":"Crime"},
+            { "preference_score":22, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 888,
+        "preference": [
+            { "preference_score":55, "genre":"Comedy"},
+            { "preference_score":50, "genre":"Crime"},
+            { "preference_score":48, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 207,
+        "preference": [
+            { "preference_score":20, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 773,
+        "preference": [
+            { "preference_score":3, "genre":"Action"},
+            { "preference_score":55, "genre":"Adventure"},
+            { "preference_score":59, "genre":"Children"}
+        ]
+    },
+    {
+        "user_id": 50,
+        "preference": [
+            { "preference_score":76, "genre":"Drama"},
+            { "preference_score":99, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 289,
+        "preference": [
+            { "preference_score":92, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 74,
+        "preference": [
+            { "preference_score":24, "genre":"Drama"},
+            { "preference_score":68, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 757,
+        "preference": [
+            { "preference_score":5, "genre":"Comedy"},
+            { "preference_score":73, "genre":"Drama"},
+            { "preference_score":59, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 931,
+        "preference": [
+            { "preference_score":94, "genre":"Adventure"},
+            { "preference_score":9, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 480,
+        "preference": [
+            { "preference_score":86, "genre":"Children"}
+        ]
+    },
+    {
+        "user_id": 758,
+        "preference": [
+            { "preference_score":11, "genre":"Drama"},
+            { "preference_score":1, "genre":"Horror"},
+            { "preference_score":6, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 54,
+        "preference": [
+            { "preference_score":24, "genre":"Horror"},
+            { "preference_score":2, "genre":"Mystery"},
+            { "preference_score":64, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 508,
+        "preference": [
+            { "preference_score":19, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 117,
+        "preference": [
+            { "preference_score":66, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 36,
+        "preference": [
+            { "preference_score":5, "genre":"Adventure"},
+            { "preference_score":77, "genre":"Drama"},
+            { "preference_score":33, "genre":"Fantasy"},
+            { "preference_score":60, "genre":"Film-Noir"}
+        ]
+    },
+    {
+        "user_id": 975,
+        "preference": [
+            { "preference_score":26, "genre":"Documentary"},
+            { "preference_score":66, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 67,
+        "preference": [
+            { "preference_score":66, "genre":"Horror"},
+            { "preference_score":96, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 651,
+        "preference": [
+            { "preference_score":59, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 518,
+        "preference": [
+            { "preference_score":75, "genre":"Action"},
+            { "preference_score":2, "genre":"Adventure"},
+            { "preference_score":2, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 302,
+        "preference": [
+            { "preference_score":41, "genre":"Comedy"},
+            { "preference_score":34, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 153,
+        "preference": [
+            { "preference_score":58, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 593,
+        "preference": [
+            { "preference_score":70, "genre":"Comedy"},
+            { "preference_score":3, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 840,
+        "preference": [
+            { "preference_score":17, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 632,
+        "preference": [
+            { "preference_score":32, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 807,
+        "preference": [
+            { "preference_score":30, "genre":"Comedy"},
+            { "preference_score":57, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 264,
+        "preference": [
+            { "preference_score":41, "genre":"Comedy"},
+            { "preference_score":47, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 158,
+        "preference": [
+            { "preference_score":93, "genre":"Comedy"},
+            { "preference_score":45, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 308,
+        "preference": [
+            { "preference_score":8, "genre":"Drama"},
+            { "preference_score":78, "genre":"Horror"},
+            { "preference_score":76, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 635,
+        "preference": [
+            { "preference_score":25, "genre":"Children"},
+            { "preference_score":31, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 292,
+        "preference": [
+            { "preference_score":48, "genre":"Action"},
+            { "preference_score":96, "genre":"Comedy"},
+            { "preference_score":30, "genre":"Crime"},
+            { "preference_score":64, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 665,
+        "preference": [
+            { "preference_score":77, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 256,
+        "preference": [
+            { "preference_score":60, "genre":"Action"},
+            { "preference_score":41, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 58,
+        "preference": [
+            { "preference_score":3, "genre":"Comedy"},
+            { "preference_score":20, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 230,
+        "preference": [
+            { "preference_score":22, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 459,
+        "preference": [
+            { "preference_score":72, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 353,
+        "preference": [
+            { "preference_score":9, "genre":"Drama"},
+            { "preference_score":45, "genre":"Sci-Fi"},
+            { "preference_score":60, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 840,
+        "preference": [
+            { "preference_score":50, "genre":"Drama"},
+            { "preference_score":66, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 274,
+        "preference": [
+            { "preference_score":93, "genre":"Children"},
+            { "preference_score":67, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 805,
+        "preference": [
+            { "preference_score":33, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 913,
+        "preference": [
+            { "preference_score":98, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 824,
+        "preference": [
+            { "preference_score":38, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 307,
+        "preference": [
+            { "preference_score":51, "genre":"Drama"},
+            { "preference_score":10, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 259,
+        "preference": [
+            { "preference_score":26, "genre":"Action"},
+            { "preference_score":52, "genre":"Horror"},
+            { "preference_score":31, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 833,
+        "preference": [
+            { "preference_score":17, "genre":"Drama"},
+            { "preference_score":23, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 543,
+        "preference": [
+            { "preference_score":97, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 846,
+        "preference": [
+            { "preference_score":72, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 954,
+        "preference": [
+            { "preference_score":10, "genre":"Action"},
+            { "preference_score":84, "genre":"Comedy"},
+            { "preference_score":95, "genre":"Crime"},
+            { "preference_score":85, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 606,
+        "preference": [
+            { "preference_score":27, "genre":"Action"},
+            { "preference_score":15, "genre":"Adventure"},
+            { "preference_score":97, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 515,
+        "preference": [
+            { "preference_score":26, "genre":"Comedy"},
+            { "preference_score":75, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 946,
+        "preference": [
+            { "preference_score":59, "genre":"Crime"},
+            { "preference_score":78, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 157,
+        "preference": [
+            { "preference_score":61, "genre":"Drama"},
+            { "preference_score":23, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 515,
+        "preference": [
+            { "preference_score":2, "genre":"Comedy"},
+            { "preference_score":29, "genre":"Fantasy"},
+            { "preference_score":40, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 613,
+        "preference": [
+            { "preference_score":4, "genre":"Action"},
+            { "preference_score":75, "genre":"Adventure"},
+            { "preference_score":32, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 939,
+        "preference": [
+            { "preference_score":59, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 983,
+        "preference": [
+            { "preference_score":36, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 572,
+        "preference": [
+            { "preference_score":33, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 603,
+        "preference": [
+            { "preference_score":83, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 835,
+        "preference": [
+            { "preference_score":11, "genre":"Drama"},
+            { "preference_score":28, "genre":"Romance"},
+            { "preference_score":32, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 283,
+        "preference": [
+            { "preference_score":54, "genre":"Crime"},
+            { "preference_score":43, "genre":"Mystery"},
+            { "preference_score":70, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 871,
+        "preference": [
+            { "preference_score":56, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 539,
+        "preference": [
+            { "preference_score":11, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 372,
+        "preference": [
+            { "preference_score":87, "genre":"Adventure"},
+            { "preference_score":46, "genre":"Comedy"},
+            { "preference_score":98, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 442,
+        "preference": [
+            { "preference_score":8, "genre":"Drama"},
+            { "preference_score":70, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 77,
+        "preference": [
+            { "preference_score":90, "genre":"Comedy"},
+            { "preference_score":32, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 822,
+        "preference": [
+            { "preference_score":46, "genre":"Children"},
+            { "preference_score":11, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 22,
+        "preference": [
+            { "preference_score":49, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 409,
+        "preference": [
+            { "preference_score":24, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 860,
+        "preference": [
+            { "preference_score":68, "genre":"Crime"},
+            { "preference_score":6, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 988,
+        "preference": [
+            { "preference_score":1, "genre":"Comedy"},
+            { "preference_score":45, "genre":"Crime"},
+            { "preference_score":50, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 714,
+        "preference": [
+            { "preference_score":16, "genre":"Action"},
+            { "preference_score":39, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 985,
+        "preference": [
+            { "preference_score":59, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 106,
+        "preference": [
+            { "preference_score":39, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 509,
+        "preference": [
+            { "preference_score":67, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 233,
+        "preference": [
+            { "preference_score":10, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 345,
+        "preference": [
+            { "preference_score":79, "genre":"Crime"},
+            { "preference_score":10, "genre":"Drama"},
+            { "preference_score":41, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 43,
+        "preference": [
+            { "preference_score":5, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 822,
+        "preference": [
+            { "preference_score":78, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 325,
+        "preference": [
+            { "preference_score":3, "genre":"Comedy"},
+            { "preference_score":19, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 549,
+        "preference": [
+            { "preference_score":2, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 786,
+        "preference": [
+            { "preference_score":26, "genre":"Adventure"},
+            { "preference_score":18, "genre":"Comedy"},
+            { "preference_score":93, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 795,
+        "preference": [
+            { "preference_score":38, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 444,
+        "preference": [
+            { "preference_score":68, "genre":"Action"},
+            { "preference_score":22, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 839,
+        "preference": [
+            { "preference_score":11, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 864,
+        "preference": [
+            { "preference_score":63, "genre":"Drama"},
+            { "preference_score":31, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 834,
+        "preference": [
+            { "preference_score":30, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 343,
+        "preference": [
+            { "preference_score":85, "genre":"Action"},
+            { "preference_score":55, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 764,
+        "preference": [
+            { "preference_score":67, "genre":"Drama"},
+            { "preference_score":87, "genre":"Mystery"},
+            { "preference_score":4, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 54,
+        "preference": [
+            { "preference_score":29, "genre":"Action"},
+            { "preference_score":3, "genre":"Adventure"},
+            { "preference_score":53, "genre":"Comedy"},
+            { "preference_score":56, "genre":"Crime"},
+            { "preference_score":75, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 712,
+        "preference": [
+            { "preference_score":75, "genre":"Animation"},
+            { "preference_score":42, "genre":"Children"},
+            { "preference_score":72, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 633,
+        "preference": [
+            { "preference_score":87, "genre":"Drama"},
+            { "preference_score":51, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 29,
+        "preference": [
+            { "preference_score":28, "genre":"Adventure"},
+            { "preference_score":19, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 659,
+        "preference": [
+            { "preference_score":85, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 577,
+        "preference": [
+            { "preference_score":18, "genre":"Action"},
+            { "preference_score":88, "genre":"Comedy"},
+            { "preference_score":39, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 722,
+        "preference": [
+            { "preference_score":23, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 293,
+        "preference": [
+            { "preference_score":74, "genre":"Horror"},
+            { "preference_score":60, "genre":"Mystery"},
+            { "preference_score":45, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 519,
+        "preference": [
+            { "preference_score":36, "genre":"Comedy"},
+            { "preference_score":90, "genre":"Drama"},
+            { "preference_score":70, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 565,
+        "preference": [
+            { "preference_score":40, "genre":"Comedy"},
+            { "preference_score":40, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 68,
+        "preference": [
+            { "preference_score":62, "genre":"Drama"},
+            { "preference_score":79, "genre":"Mystery"},
+            { "preference_score":44, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 679,
+        "preference": [
+            { "preference_score":96, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 105,
+        "preference": [
+            { "preference_score":48, "genre":"Crime"},
+            { "preference_score":23, "genre":"Drama"},
+            { "preference_score":62, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 747,
+        "preference": [
+            { "preference_score":58, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 946,
+        "preference": [
+            { "preference_score":8, "genre":"Action"},
+            { "preference_score":69, "genre":"Comedy"},
+            { "preference_score":77, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 569,
+        "preference": [
+            { "preference_score":2, "genre":"Comedy"},
+            { "preference_score":84, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 889,
+        "preference": [
+            { "preference_score":18, "genre":"Action"},
+            { "preference_score":61, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 363,
+        "preference": [
+            { "preference_score":26, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 232,
+        "preference": [
+            { "preference_score":88, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 542,
+        "preference": [
+            { "preference_score":23, "genre":"Adventure"},
+            { "preference_score":6, "genre":"Animation"},
+            { "preference_score":98, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 445,
+        "preference": [
+            { "preference_score":12, "genre":"Action"},
+            { "preference_score":88, "genre":"Horror"},
+            { "preference_score":59, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 174,
+        "preference": [
+            { "preference_score":18, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 220,
+        "preference": [
+            { "preference_score":81, "genre":"Action"},
+            { "preference_score":2, "genre":"Adventure"},
+            { "preference_score":14, "genre":"Sci-Fi"},
+            { "preference_score":77, "genre":"Thriller"},
+            { "preference_score":85, "genre":"IMAX"}
+        ]
+    },
+    {
+        "user_id": 147,
+        "preference": [
+            { "preference_score":59, "genre":"Action"},
+            { "preference_score":22, "genre":"Children"},
+            { "preference_score":6, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 686,
+        "preference": [
+            { "preference_score":12, "genre":"Horror"},
+            { "preference_score":92, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 337,
+        "preference": [
+            { "preference_score":94, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 559,
+        "preference": [
+            { "preference_score":89, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 744,
+        "preference": [
+            { "preference_score":39, "genre":"Horror"},
+            { "preference_score":10, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 723,
+        "preference": [
+            { "preference_score":20, "genre":"Comedy"},
+            { "preference_score":56, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 478,
+        "preference": [
+            { "preference_score":63, "genre":"Documentary"},
+            { "preference_score":63, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 334,
+        "preference": [
+            { "preference_score":70, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 972,
+        "preference": [
+            { "preference_score":29, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 685,
+        "preference": [
+            { "preference_score":80, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 738,
+        "preference": [
+            { "preference_score":24, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 181,
+        "preference": [
+            { "preference_score":12, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 115,
+        "preference": [
+            { "preference_score":20, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 360,
+        "preference": [
+            { "preference_score":45, "genre":"Crime"},
+            { "preference_score":30, "genre":"Mystery"},
+            { "preference_score":81, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 761,
+        "preference": [
+            { "preference_score":44, "genre":"Drama"},
+            { "preference_score":58, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 185,
+        "preference": [
+            { "preference_score":7, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 673,
+        "preference": [
+            { "preference_score":56, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 930,
+        "preference": [
+            { "preference_score":11, "genre":"Action"},
+            { "preference_score":91, "genre":"Drama"},
+            { "preference_score":23, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 463,
+        "preference": [
+            { "preference_score":71, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 301,
+        "preference": [
+            { "preference_score":25, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 990,
+        "preference": [
+            { "preference_score":7, "genre":"Action"},
+            { "preference_score":98, "genre":"Comedy"},
+            { "preference_score":31, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 259,
+        "preference": [
+            { "preference_score":39, "genre":"Action"},
+            { "preference_score":62, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 661,
+        "preference": [
+            { "preference_score":11, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 885,
+        "preference": [
+            { "preference_score":71, "genre":"Crime"},
+            { "preference_score":90, "genre":"Drama"},
+            { "preference_score":66, "genre":"Mystery"},
+            { "preference_score":6, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 693,
+        "preference": [
+            { "preference_score":86, "genre":"Adventure"},
+            { "preference_score":51, "genre":"Drama"},
+            { "preference_score":82, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 486,
+        "preference": [
+            { "preference_score":49, "genre":"Drama"},
+            { "preference_score":31, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 400,
+        "preference": [
+            { "preference_score":12, "genre":"Action"},
+            { "preference_score":67, "genre":"Adventure"},
+            { "preference_score":16, "genre":"Drama"},
+            { "preference_score":76, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 434,
+        "preference": [
+            { "preference_score":58, "genre":"Crime"},
+            { "preference_score":87, "genre":"Drama"},
+            { "preference_score":39, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 530,
+        "preference": [
+            { "preference_score":65, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 183,
+        "preference": [
+            { "preference_score":27, "genre":"Drama"},
+            { "preference_score":48, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 187,
+        "preference": [
+            { "preference_score":7, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 484,
+        "preference": [
+            { "preference_score":50, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 989,
+        "preference": [
+            { "preference_score":14, "genre":"Drama"},
+            { "preference_score":14, "genre":"Romance"},
+            { "preference_score":93, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 13,
+        "preference": [
+            { "preference_score":32, "genre":"Drama"},
+            { "preference_score":49, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 536,
+        "preference": [
+            { "preference_score":36, "genre":"Drama"},
+            { "preference_score":6, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 977,
+        "preference": [
+            { "preference_score":86, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 910,
+        "preference": [
+            { "preference_score":50, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 947,
+        "preference": [
+            { "preference_score":95, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 781,
+        "preference": [
+            { "preference_score":73, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 344,
+        "preference": [
+            { "preference_score":14, "genre":"Horror"},
+            { "preference_score":86, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 33,
+        "preference": [
+            { "preference_score":95, "genre":"Action"},
+            { "preference_score":55, "genre":"Adventure"},
+            { "preference_score":59, "genre":"Sci-Fi"},
+            { "preference_score":71, "genre":"IMAX"}
+        ]
+    },
+    {
+        "user_id": 77,
+        "preference": [
+            { "preference_score":97, "genre":"Comedy"},
+            { "preference_score":30, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 402,
+        "preference": [
+            { "preference_score":60, "genre":"Crime"},
+            { "preference_score":59, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 551,
+        "preference": [
+            { "preference_score":18, "genre":"Comedy"},
+            { "preference_score":22, "genre":"Drama"},
+            { "preference_score":2, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 73,
+        "preference": [
+            { "preference_score":32, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 602,
+        "preference": [
+            { "preference_score":31, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 558,
+        "preference": [
+            { "preference_score":33, "genre":"Documentary"},
+            { "preference_score":73, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 780,
+        "preference": [
+            { "preference_score":81, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 49,
+        "preference": [
+            { "preference_score":5, "genre":"Action"},
+            { "preference_score":72, "genre":"Comedy"},
+            { "preference_score":14, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 635,
+        "preference": [
+            { "preference_score":55, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 575,
+        "preference": [
+            { "preference_score":73, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 254,
+        "preference": [
+            { "preference_score":35, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 575,
+        "preference": [
+            { "preference_score":56, "genre":"Comedy"},
+            { "preference_score":25, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 862,
+        "preference": [
+            { "preference_score":75, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 114,
+        "preference": [
+            { "preference_score":82, "genre":"Adventure"},
+            { "preference_score":80, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 269,
+        "preference": [
+            { "preference_score":71, "genre":"Comedy"},
+            { "preference_score":6, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 722,
+        "preference": [
+            { "preference_score":65, "genre":"Comedy"},
+            { "preference_score":10, "genre":"Drama"},
+            { "preference_score":62, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 644,
+        "preference": [
+            { "preference_score":59, "genre":"Comedy"},
+            { "preference_score":57, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 74,
+        "preference": [
+            { "preference_score":16, "genre":"Comedy"},
+            { "preference_score":46, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 923,
+        "preference": [
+            { "preference_score":47, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 794,
+        "preference": [
+            { "preference_score":2, "genre":"Musical"},
+            { "preference_score":30, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 220,
+        "preference": [
+            { "preference_score":60, "genre":"Drama"},
+            { "preference_score":83, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 978,
+        "preference": [
+            { "preference_score":58, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 682,
+        "preference": [
+            { "preference_score":67, "genre":"Comedy"},
+            { "preference_score":1, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 940,
+        "preference": [
+            { "preference_score":71, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 939,
+        "preference": [
+            { "preference_score":31, "genre":"Children"},
+            { "preference_score":93, "genre":"Comedy"},
+            { "preference_score":90, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 27,
+        "preference": [
+            { "preference_score":90, "genre":"Action"},
+            { "preference_score":91, "genre":"Crime"},
+            { "preference_score":68, "genre":"Mystery"},
+            { "preference_score":21, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 768,
+        "preference": [
+            { "preference_score":26, "genre":"Crime"},
+            { "preference_score":10, "genre":"Drama"},
+            { "preference_score":66, "genre":"Film-Noir"}
+        ]
+    },
+    {
+        "user_id": 601,
+        "preference": [
+            { "preference_score":73, "genre":"Action"},
+            { "preference_score":69, "genre":"Crime"},
+            { "preference_score":83, "genre":"Mystery"},
+            { "preference_score":3, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 163,
+        "preference": [
+            { "preference_score":19, "genre":"Action"},
+            { "preference_score":60, "genre":"Crime"},
+            { "preference_score":72, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 887,
+        "preference": [
+            { "preference_score":86, "genre":"Adventure"},
+            { "preference_score":28, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 195,
+        "preference": [
+            { "preference_score":15, "genre":"Comedy"},
+            { "preference_score":1, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 766,
+        "preference": [
+            { "preference_score":17, "genre":"Comedy"},
+            { "preference_score":85, "genre":"Drama"},
+            { "preference_score":78, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 153,
+        "preference": [
+            { "preference_score":75, "genre":"Drama"},
+            { "preference_score":70, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 235,
+        "preference": [
+            { "preference_score":24, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 753,
+        "preference": [
+            { "preference_score":85, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 930,
+        "preference": [
+            { "preference_score":14, "genre":"Children"},
+            { "preference_score":84, "genre":"Drama"},
+            { "preference_score":66, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 541,
+        "preference": [
+            { "preference_score":37, "genre":"Drama"},
+            { "preference_score":76, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 632,
+        "preference": [
+            { "preference_score":64, "genre":"Action"},
+            { "preference_score":75, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 545,
+        "preference": [
+            { "preference_score":82, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 183,
+        "preference": [
+            { "preference_score":16, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 390,
+        "preference": [
+            { "preference_score":93, "genre":"Drama"},
+            { "preference_score":17, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 220,
+        "preference": [
+            { "preference_score":10, "genre":"Horror"},
+            { "preference_score":23, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 884,
+        "preference": [
+            { "preference_score":36, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 398,
+        "preference": [
+            { "preference_score":6, "genre":"Crime"},
+            { "preference_score":98, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 327,
+        "preference": [
+            { "preference_score":96, "genre":"Action"},
+            { "preference_score":14, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 729,
+        "preference": [
+            { "preference_score":55, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 593,
+        "preference": [
+            { "preference_score":64, "genre":"Comedy"},
+            { "preference_score":80, "genre":"Drama"},
+            { "preference_score":61, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 268,
+        "preference": [
+            { "preference_score":52, "genre":"Mystery"},
+            { "preference_score":32, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 244,
+        "preference": [
+            { "preference_score":80, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 148,
+        "preference": [
+            { "preference_score":73, "genre":"Drama"},
+            { "preference_score":84, "genre":"Film-Noir"},
+            { "preference_score":77, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 350,
+        "preference": [
+            { "preference_score":92, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 947,
+        "preference": [
+            { "preference_score":84, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 540,
+        "preference": [
+            { "preference_score":50, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 840,
+        "preference": [
+            { "preference_score":25, "genre":"Documentary"},
+            { "preference_score":88, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 163,
+        "preference": [
+            { "preference_score":47, "genre":"Crime"},
+            { "preference_score":99, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 490,
+        "preference": [
+            { "preference_score":49, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 282,
+        "preference": [
+            { "preference_score":94, "genre":"Comedy"},
+            { "preference_score":11, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 848,
+        "preference": [
+            { "preference_score":64, "genre":"Drama"},
+            { "preference_score":26, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 886,
+        "preference": [
+            { "preference_score":89, "genre":"Crime"},
+            { "preference_score":1, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 224,
+        "preference": [
+            { "preference_score":45, "genre":"Comedy"},
+            { "preference_score":97, "genre":"Drama"},
+            { "preference_score":18, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 78,
+        "preference": [
+            { "preference_score":72, "genre":"Comedy"},
+            { "preference_score":78, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 214,
+        "preference": [
+            { "preference_score":71, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 975,
+        "preference": [
+            { "preference_score":15, "genre":"Drama"},
+            { "preference_score":76, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 225,
+        "preference": [
+            { "preference_score":33, "genre":"Comedy"},
+            { "preference_score":24, "genre":"Crime"},
+            { "preference_score":69, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 577,
+        "preference": [
+            { "preference_score":38, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 536,
+        "preference": [
+            { "preference_score":50, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 865,
+        "preference": [
+            { "preference_score":36, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 915,
+        "preference": [
+            { "preference_score":74, "genre":"(no genres listed)"}
+        ]
+    },
+    {
+        "user_id": 558,
+        "preference": [
+            { "preference_score":59, "genre":"Horror"},
+            { "preference_score":49, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 408,
+        "preference": [
+            { "preference_score":55, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 314,
+        "preference": [
+            { "preference_score":71, "genre":"Comedy"},
+            { "preference_score":21, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 504,
+        "preference": [
+            { "preference_score":54, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 499,
+        "preference": [
+            { "preference_score":69, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 92,
+        "preference": [
+            { "preference_score":7, "genre":"Musical"},
+            { "preference_score":9, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 695,
+        "preference": [
+            { "preference_score":47, "genre":"Drama"},
+            { "preference_score":75, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 167,
+        "preference": [
+            { "preference_score":86, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 225,
+        "preference": [
+            { "preference_score":1, "genre":"Drama"},
+            { "preference_score":73, "genre":"Mystery"},
+            { "preference_score":77, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 959,
+        "preference": [
+            { "preference_score":92, "genre":"Drama"},
+            { "preference_score":75, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 469,
+        "preference": [
+            { "preference_score":93, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 307,
+        "preference": [
+            { "preference_score":75, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 663,
+        "preference": [
+            { "preference_score":65, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 802,
+        "preference": [
+            { "preference_score":76, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 378,
+        "preference": [
+            { "preference_score":96, "genre":"Action"},
+            { "preference_score":18, "genre":"Horror"},
+            { "preference_score":21, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 586,
+        "preference": [
+            { "preference_score":36, "genre":"Fantasy"},
+            { "preference_score":62, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 779,
+        "preference": [
+            { "preference_score":84, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 336,
+        "preference": [
+            { "preference_score":26, "genre":"Animation"},
+            { "preference_score":26, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 304,
+        "preference": [
+            { "preference_score":50, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 675,
+        "preference": [
+            { "preference_score":24, "genre":"Action"},
+            { "preference_score":8, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 709,
+        "preference": [
+            { "preference_score":61, "genre":"Comedy"},
+            { "preference_score":10, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 367,
+        "preference": [
+            { "preference_score":56, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 175,
+        "preference": [
+            { "preference_score":35, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 520,
+        "preference": [
+            { "preference_score":96, "genre":"Crime"},
+            { "preference_score":76, "genre":"Drama"},
+            { "preference_score":75, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 12,
+        "preference": [
+            { "preference_score":10, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 195,
+        "preference": [
+            { "preference_score":78, "genre":"Adventure"},
+            { "preference_score":16, "genre":"Animation"},
+            { "preference_score":20, "genre":"Children"},
+            { "preference_score":93, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 140,
+        "preference": [
+            { "preference_score":62, "genre":"Comedy"},
+            { "preference_score":38, "genre":"Drama"},
+            { "preference_score":95, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 605,
+        "preference": [
+            { "preference_score":82, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 481,
+        "preference": [
+            { "preference_score":10, "genre":"Comedy"},
+            { "preference_score":7, "genre":"Drama"},
+            { "preference_score":39, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 198,
+        "preference": [
+            { "preference_score":55, "genre":"Drama"},
+            { "preference_score":38, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 367,
+        "preference": [
+            { "preference_score":22, "genre":"Action"},
+            { "preference_score":17, "genre":"Comedy"},
+            { "preference_score":45, "genre":"Fantasy"},
+            { "preference_score":64, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 401,
+        "preference": [
+            { "preference_score":58, "genre":"Crime"},
+            { "preference_score":70, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 547,
+        "preference": [
+            { "preference_score":83, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 404,
+        "preference": [
+            { "preference_score":57, "genre":"Adventure"},
+            { "preference_score":2, "genre":"Children"},
+            { "preference_score":54, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 383,
+        "preference": [
+            { "preference_score":98, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 180,
+        "preference": [
+            { "preference_score":10, "genre":"Drama"},
+            { "preference_score":27, "genre":"Mystery"},
+            { "preference_score":88, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 826,
+        "preference": [
+            { "preference_score":94, "genre":"Adventure"},
+            { "preference_score":5, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 874,
+        "preference": [
+            { "preference_score":48, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 224,
+        "preference": [
+            { "preference_score":82, "genre":"Children"}
+        ]
+    },
+    {
+        "user_id": 853,
+        "preference": [
+            { "preference_score":3, "genre":"Action"},
+            { "preference_score":44, "genre":"Adventure"},
+            { "preference_score":28, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 350,
+        "preference": [
+            { "preference_score":82, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 231,
+        "preference": [
+            { "preference_score":12, "genre":"Action"},
+            { "preference_score":22, "genre":"Adventure"},
+            { "preference_score":36, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 874,
+        "preference": [
+            { "preference_score":27, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 41,
+        "preference": [
+            { "preference_score":13, "genre":"Action"},
+            { "preference_score":25, "genre":"Crime"},
+            { "preference_score":97, "genre":"Drama"},
+            { "preference_score":39, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 20,
+        "preference": [
+            { "preference_score":32, "genre":"Drama"},
+            { "preference_score":75, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 436,
+        "preference": [
+            { "preference_score":49, "genre":"Horror"},
+            { "preference_score":27, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 869,
+        "preference": [
+            { "preference_score":13, "genre":"Comedy"},
+            { "preference_score":52, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 508,
+        "preference": [
+            { "preference_score":66, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 252,
+        "preference": [
+            { "preference_score":44, "genre":"Action"},
+            { "preference_score":75, "genre":"Adventure"},
+            { "preference_score":18, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 531,
+        "preference": [
+            { "preference_score":48, "genre":"Drama"},
+            { "preference_score":96, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 488,
+        "preference": [
+            { "preference_score":6, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 62,
+        "preference": [
+            { "preference_score":13, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 724,
+        "preference": [
+            { "preference_score":69, "genre":"Action"},
+            { "preference_score":55, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 215,
+        "preference": [
+            { "preference_score":29, "genre":"Action"},
+            { "preference_score":12, "genre":"Crime"},
+            { "preference_score":92, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 421,
+        "preference": [
+            { "preference_score":70, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 515,
+        "preference": [
+            { "preference_score":47, "genre":"Action"}
+        ]
+    },
+    {
+        "user_id": 209,
+        "preference": [
+            { "preference_score":31, "genre":"Action"},
+            { "preference_score":24, "genre":"Adventure"},
+            { "preference_score":90, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 583,
+        "preference": [
+            { "preference_score":18, "genre":"Action"},
+            { "preference_score":74, "genre":"Adventure"},
+            { "preference_score":31, "genre":"Sci-Fi"},
+            { "preference_score":90, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 928,
+        "preference": [
+            { "preference_score":48, "genre":"Action"},
+            { "preference_score":13, "genre":"Comedy"},
+            { "preference_score":51, "genre":"Drama"},
+            { "preference_score":16, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 502,
+        "preference": [
+            { "preference_score":55, "genre":"Documentary"},
+            { "preference_score":62, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 310,
+        "preference": [
+            { "preference_score":82, "genre":"Documentary"},
+            { "preference_score":46, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 123,
+        "preference": [
+            { "preference_score":3, "genre":"Drama"},
+            { "preference_score":62, "genre":"Romance"},
+            { "preference_score":1, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 456,
+        "preference": [
+            { "preference_score":62, "genre":"Drama"},
+            { "preference_score":60, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 526,
+        "preference": [
+            { "preference_score":97, "genre":"Drama"},
+            { "preference_score":70, "genre":"Mystery"},
+            { "preference_score":36, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 587,
+        "preference": [
+            { "preference_score":69, "genre":"Crime"},
+            { "preference_score":65, "genre":"Drama"},
+            { "preference_score":30, "genre":"Mystery"},
+            { "preference_score":60, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 883,
+        "preference": [
+            { "preference_score":24, "genre":"Action"},
+            { "preference_score":73, "genre":"Comedy"},
+            { "preference_score":83, "genre":"Crime"},
+            { "preference_score":64, "genre":"Romance"},
+            { "preference_score":42, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 771,
+        "preference": [
+            { "preference_score":89, "genre":"Comedy"},
+            { "preference_score":29, "genre":"Drama"},
+            { "preference_score":7, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 672,
+        "preference": [
+            { "preference_score":46, "genre":"Drama"},
+            { "preference_score":98, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 7,
+        "preference": [
+            { "preference_score":27, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 305,
+        "preference": [
+            { "preference_score":60, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 896,
+        "preference": [
+            { "preference_score":98, "genre":"Drama"},
+            { "preference_score":84, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 624,
+        "preference": [
+            { "preference_score":24, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 883,
+        "preference": [
+            { "preference_score":62, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 284,
+        "preference": [
+            { "preference_score":15, "genre":"Drama"},
+            { "preference_score":32, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 643,
+        "preference": [
+            { "preference_score":42, "genre":"Comedy"},
+            { "preference_score":59, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 581,
+        "preference": [
+            { "preference_score":34, "genre":"Comedy"},
+            { "preference_score":39, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 11,
+        "preference": [
+            { "preference_score":74, "genre":"Action"},
+            { "preference_score":88, "genre":"Crime"},
+            { "preference_score":27, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 156,
+        "preference": [
+            { "preference_score":95, "genre":"Drama"},
+            { "preference_score":29, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 628,
+        "preference": [
+            { "preference_score":92, "genre":"Comedy"},
+            { "preference_score":55, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 842,
+        "preference": [
+            { "preference_score":34, "genre":"Drama"},
+            { "preference_score":27, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 413,
+        "preference": [
+            { "preference_score":3, "genre":"Comedy"},
+            { "preference_score":88, "genre":"Horror"},
+            { "preference_score":75, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 395,
+        "preference": [
+            { "preference_score":42, "genre":"Action"},
+            { "preference_score":83, "genre":"Comedy"},
+            { "preference_score":2, "genre":"Romance"},
+            { "preference_score":45, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 361,
+        "preference": [
+            { "preference_score":66, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 735,
+        "preference": [
+            { "preference_score":37, "genre":"Crime"},
+            { "preference_score":41, "genre":"Drama"},
+            { "preference_score":13, "genre":"Film-Noir"},
+            { "preference_score":74, "genre":"Romance"},
+            { "preference_score":1, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 177,
+        "preference": [
+            { "preference_score":25, "genre":"Action"},
+            { "preference_score":7, "genre":"Horror"},
+            { "preference_score":29, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 491,
+        "preference": [
+            { "preference_score":35, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 212,
+        "preference": [
+            { "preference_score":73, "genre":"Action"},
+            { "preference_score":53, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 88,
+        "preference": [
+            { "preference_score":39, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 176,
+        "preference": [
+            { "preference_score":66, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 134,
+        "preference": [
+            { "preference_score":63, "genre":"Action"},
+            { "preference_score":13, "genre":"Comedy"},
+            { "preference_score":88, "genre":"Crime"},
+            { "preference_score":74, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 458,
+        "preference": [
+            { "preference_score":21, "genre":"Comedy"},
+            { "preference_score":13, "genre":"Crime"},
+            { "preference_score":71, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 927,
+        "preference": [
+            { "preference_score":92, "genre":"Drama"},
+            { "preference_score":33, "genre":"Fantasy"},
+            { "preference_score":37, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 561,
+        "preference": [
+            { "preference_score":88, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 259,
+        "preference": [
+            { "preference_score":61, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 880,
+        "preference": [
+            { "preference_score":33, "genre":"Drama"},
+            { "preference_score":37, "genre":"Horror"},
+            { "preference_score":36, "genre":"Mystery"},
+            { "preference_score":88, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 816,
+        "preference": [
+            { "preference_score":75, "genre":"Comedy"},
+            { "preference_score":73, "genre":"Horror"},
+            { "preference_score":95, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 820,
+        "preference": [
+            { "preference_score":89, "genre":"Crime"},
+            { "preference_score":71, "genre":"Drama"},
+            { "preference_score":43, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 647,
+        "preference": [
+            { "preference_score":51, "genre":"Action"},
+            { "preference_score":11, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 491,
+        "preference": [
+            { "preference_score":64, "genre":"Adventure"},
+            { "preference_score":81, "genre":"Animation"},
+            { "preference_score":89, "genre":"Children"}
+        ]
+    },
+    {
+        "user_id": 948,
+        "preference": [
+            { "preference_score":48, "genre":"Adventure"},
+            { "preference_score":18, "genre":"Drama"},
+            { "preference_score":80, "genre":"Western"}
+        ]
+    },
+    {
+        "user_id": 489,
+        "preference": [
+            { "preference_score":19, "genre":"Action"}
+        ]
+    },
+    {
+        "user_id": 8,
+        "preference": [
+            { "preference_score":21, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 467,
+        "preference": [
+            { "preference_score":80, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 669,
+        "preference": [
+            { "preference_score":76, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 975,
+        "preference": [
+            { "preference_score":17, "genre":"Drama"},
+            { "preference_score":36, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 690,
+        "preference": [
+            { "preference_score":5, "genre":"Adventure"},
+            { "preference_score":55, "genre":"Children"},
+            { "preference_score":70, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 108,
+        "preference": [
+            { "preference_score":47, "genre":"Crime"},
+            { "preference_score":25, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 461,
+        "preference": [
+            { "preference_score":51, "genre":"Comedy"},
+            { "preference_score":5, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 158,
+        "preference": [
+            { "preference_score":50, "genre":"Action"},
+            { "preference_score":49, "genre":"Adventure"},
+            { "preference_score":58, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 120,
+        "preference": [
+            { "preference_score":53, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 355,
+        "preference": [
+            { "preference_score":24, "genre":"Comedy"},
+            { "preference_score":48, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 168,
+        "preference": [
+            { "preference_score":82, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 379,
+        "preference": [
+            { "preference_score":22, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 928,
+        "preference": [
+            { "preference_score":24, "genre":"Drama"},
+            { "preference_score":80, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 573,
+        "preference": [
+            { "preference_score":97, "genre":"Adventure"},
+            { "preference_score":1, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 403,
+        "preference": [
+            { "preference_score":79, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 929,
+        "preference": [
+            { "preference_score":3, "genre":"Action"},
+            { "preference_score":8, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 9,
+        "preference": [
+            { "preference_score":12, "genre":"Comedy"},
+            { "preference_score":42, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 193,
+        "preference": [
+            { "preference_score":1, "genre":"Action"},
+            { "preference_score":57, "genre":"Adventure"},
+            { "preference_score":69, "genre":"Drama"},
+            { "preference_score":43, "genre":"Mystery"},
+            { "preference_score":84, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 654,
+        "preference": [
+            { "preference_score":54, "genre":"Action"},
+            { "preference_score":79, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 861,
+        "preference": [
+            { "preference_score":95, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 863,
+        "preference": [
+            { "preference_score":65, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 924,
+        "preference": [
+            { "preference_score":21, "genre":"(no genres listed)"}
+        ]
+    },
+    {
+        "user_id": 574,
+        "preference": [
+            { "preference_score":77, "genre":"Horror"},
+            { "preference_score":64, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 220,
+        "preference": [
+            { "preference_score":9, "genre":"Action"},
+            { "preference_score":66, "genre":"Drama"},
+            { "preference_score":50, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 494,
+        "preference": [
+            { "preference_score":9, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 780,
+        "preference": [
+            { "preference_score":41, "genre":"Crime"},
+            { "preference_score":76, "genre":"Drama"},
+            { "preference_score":34, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 886,
+        "preference": [
+            { "preference_score":10, "genre":"Drama"},
+            { "preference_score":38, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 423,
+        "preference": [
+            { "preference_score":42, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 485,
+        "preference": [
+            { "preference_score":37, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 734,
+        "preference": [
+            { "preference_score":67, "genre":"Comedy"},
+            { "preference_score":62, "genre":"Drama"},
+            { "preference_score":30, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 28,
+        "preference": [
+            { "preference_score":61, "genre":"Drama"},
+            { "preference_score":10, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 397,
+        "preference": [
+            { "preference_score":11, "genre":"Crime"},
+            { "preference_score":35, "genre":"Mystery"},
+            { "preference_score":64, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 471,
+        "preference": [
+            { "preference_score":93, "genre":"Action"},
+            { "preference_score":42, "genre":"Comedy"},
+            { "preference_score":45, "genre":"Horror"},
+            { "preference_score":63, "genre":"Romance"},
+            { "preference_score":74, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 293,
+        "preference": [
+            { "preference_score":2, "genre":"Adventure"},
+            { "preference_score":49, "genre":"Children"},
+            { "preference_score":15, "genre":"Drama"},
+            { "preference_score":77, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 151,
+        "preference": [
+            { "preference_score":55, "genre":"Comedy"},
+            { "preference_score":3, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 554,
+        "preference": [
+            { "preference_score":77, "genre":"Adventure"},
+            { "preference_score":77, "genre":"Drama"},
+            { "preference_score":81, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 943,
+        "preference": [
+            { "preference_score":40, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 994,
+        "preference": [
+            { "preference_score":14, "genre":"Children"},
+            { "preference_score":35, "genre":"Comedy"},
+            { "preference_score":91, "genre":"Fantasy"},
+            { "preference_score":75, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 777,
+        "preference": [
+            { "preference_score":22, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 950,
+        "preference": [
+            { "preference_score":99, "genre":"Drama"},
+            { "preference_score":86, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 962,
+        "preference": [
+            { "preference_score":93, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 471,
+        "preference": [
+            { "preference_score":29, "genre":"Crime"},
+            { "preference_score":81, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 893,
+        "preference": [
+            { "preference_score":74, "genre":"Crime"},
+            { "preference_score":24, "genre":"Drama"},
+            { "preference_score":6, "genre":"Mystery"},
+            { "preference_score":17, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 258,
+        "preference": [
+            { "preference_score":72, "genre":"Drama"},
+            { "preference_score":58, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 552,
+        "preference": [
+            { "preference_score":75, "genre":"Comedy"},
+            { "preference_score":68, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 916,
+        "preference": [
+            { "preference_score":3, "genre":"Comedy"},
+            { "preference_score":67, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 348,
+        "preference": [
+            { "preference_score":85, "genre":"Crime"},
+            { "preference_score":12, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 552,
+        "preference": [
+            { "preference_score":88, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 684,
+        "preference": [
+            { "preference_score":59, "genre":"Action"},
+            { "preference_score":95, "genre":"Drama"},
+            { "preference_score":5, "genre":"Romance"},
+            { "preference_score":12, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 251,
+        "preference": [
+            { "preference_score":51, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 407,
+        "preference": [
+            { "preference_score":84, "genre":"Comedy"},
+            { "preference_score":49, "genre":"Romance"},
+            { "preference_score":19, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 426,
+        "preference": [
+            { "preference_score":13, "genre":"Comedy"},
+            { "preference_score":94, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 32,
+        "preference": [
+            { "preference_score":89, "genre":"Action"},
+            { "preference_score":24, "genre":"Sci-Fi"},
+            { "preference_score":67, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 394,
+        "preference": [
+            { "preference_score":88, "genre":"Drama"},
+            { "preference_score":10, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 734,
+        "preference": [
+            { "preference_score":76, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 149,
+        "preference": [
+            { "preference_score":68, "genre":"Crime"},
+            { "preference_score":78, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 494,
+        "preference": [
+            { "preference_score":68, "genre":"Drama"},
+            { "preference_score":23, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 356,
+        "preference": [
+            { "preference_score":1, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 530,
+        "preference": [
+            { "preference_score":58, "genre":"Comedy"},
+            { "preference_score":32, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 861,
+        "preference": [
+            { "preference_score":51, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 5,
+        "preference": [
+            { "preference_score":92, "genre":"Comedy"},
+            { "preference_score":30, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 534,
+        "preference": [
+            { "preference_score":83, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 179,
+        "preference": [
+            { "preference_score":34, "genre":"Comedy"},
+            { "preference_score":60, "genre":"Crime"}
+        ]
+    },
+    {
+        "user_id": 273,
+        "preference": [
+            { "preference_score":35, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 629,
+        "preference": [
+            { "preference_score":90, "genre":"Children"},
+            { "preference_score":90, "genre":"Drama"},
+            { "preference_score":45, "genre":"Fantasy"},
+            { "preference_score":70, "genre":"Mystery"}
+        ]
+    },
+    {
+        "user_id": 412,
+        "preference": [
+            { "preference_score":80, "genre":"Drama"},
+            { "preference_score":93, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 344,
+        "preference": [
+            { "preference_score":84, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 92,
+        "preference": [
+            { "preference_score":88, "genre":"Action"},
+            { "preference_score":27, "genre":"Adventure"}
+        ]
+    },
+    {
+        "user_id": 593,
+        "preference": [
+            { "preference_score":3, "genre":"Comedy"},
+            { "preference_score":70, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 827,
+        "preference": [
+            { "preference_score":36, "genre":"Comedy"},
+            { "preference_score":24, "genre":"Crime"},
+            { "preference_score":6, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 652,
+        "preference": [
+            { "preference_score":39, "genre":"Drama"},
+            { "preference_score":63, "genre":"Fantasy"},
+            { "preference_score":46, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 970,
+        "preference": [
+            { "preference_score":6, "genre":"Horror"}
+        ]
+    },
+    {
+        "user_id": 850,
+        "preference": [
+            { "preference_score":59, "genre":"Comedy"},
+            { "preference_score":63, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 442,
+        "preference": [
+            { "preference_score":1, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 1000,
+        "preference": [
+            { "preference_score":70, "genre":"Drama"},
+            { "preference_score":42, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 8,
+        "preference": [
+            { "preference_score":71, "genre":"Drama"},
+            { "preference_score":14, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 241,
+        "preference": [
+            { "preference_score":23, "genre":"Comedy"},
+            { "preference_score":53, "genre":"Drama"},
+            { "preference_score":49, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 279,
+        "preference": [
+            { "preference_score":23, "genre":"Drama"},
+            { "preference_score":94, "genre":"Romance"},
+            { "preference_score":51, "genre":"War"}
+        ]
+    },
+    {
+        "user_id": 278,
+        "preference": [
+            { "preference_score":35, "genre":"Comedy"},
+            { "preference_score":74, "genre":"Fantasy"},
+            { "preference_score":69, "genre":"Horror"},
+            { "preference_score":46, "genre":"Musical"},
+            { "preference_score":84, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 38,
+        "preference": [
+            { "preference_score":42, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 373,
+        "preference": [
+            { "preference_score":45, "genre":"Children"},
+            { "preference_score":16, "genre":"Fantasy"},
+            { "preference_score":78, "genre":"Musical"},
+            { "preference_score":72, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 640,
+        "preference": [
+            { "preference_score":42, "genre":"Drama"},
+            { "preference_score":7, "genre":"Musical"}
+        ]
+    },
+    {
+        "user_id": 387,
+        "preference": [
+            { "preference_score":23, "genre":"Action"},
+            { "preference_score":97, "genre":"Comedy"},
+            { "preference_score":26, "genre":"Sci-Fi"},
+            { "preference_score":57, "genre":"IMAX"}
+        ]
+    },
+    {
+        "user_id": 478,
+        "preference": [
+            { "preference_score":43, "genre":"Action"},
+            { "preference_score":78, "genre":"Comedy"},
+            { "preference_score":63, "genre":"Crime"},
+            { "preference_score":44, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 509,
+        "preference": [
+            { "preference_score":84, "genre":"Crime"},
+            { "preference_score":76, "genre":"Drama"},
+            { "preference_score":47, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 732,
+        "preference": [
+            { "preference_score":63, "genre":"Drama"},
+            { "preference_score":1, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 270,
+        "preference": [
+            { "preference_score":90, "genre":"Action"},
+            { "preference_score":93, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 353,
+        "preference": [
+            { "preference_score":29, "genre":"Horror"},
+            { "preference_score":65, "genre":"Romance"},
+            { "preference_score":75, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 403,
+        "preference": [
+            { "preference_score":40, "genre":"Action"},
+            { "preference_score":74, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 432,
+        "preference": [
+            { "preference_score":44, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 185,
+        "preference": [
+            { "preference_score":24, "genre":"Action"},
+            { "preference_score":96, "genre":"Adventure"},
+            { "preference_score":55, "genre":"Children"},
+            { "preference_score":72, "genre":"Comedy"},
+            { "preference_score":72, "genre":"Fantasy"}
+        ]
+    },
+    {
+        "user_id": 497,
+        "preference": [
+            { "preference_score":52, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 596,
+        "preference": [
+            { "preference_score":25, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 1000,
+        "preference": [
+            { "preference_score":56, "genre":"Drama"},
+            { "preference_score":79, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 236,
+        "preference": [
+            { "preference_score":10, "genre":"(no genres listed)"}
+        ]
+    },
+    {
+        "user_id": 533,
+        "preference": [
+            { "preference_score":5, "genre":"Comedy"},
+            { "preference_score":24, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 47,
+        "preference": [
+            { "preference_score":4, "genre":"Horror"},
+            { "preference_score":58, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 85,
+        "preference": [
+            { "preference_score":72, "genre":"Action"},
+            { "preference_score":17, "genre":"Sci-Fi"},
+            { "preference_score":12, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 103,
+        "preference": [
+            { "preference_score":39, "genre":"Drama"},
+            { "preference_score":99, "genre":"Musical"},
+            { "preference_score":50, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 351,
+        "preference": [
+            { "preference_score":20, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 84,
+        "preference": [
+            { "preference_score":38, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 963,
+        "preference": [
+            { "preference_score":90, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 447,
+        "preference": [
+            { "preference_score":86, "genre":"Drama"},
+            { "preference_score":4, "genre":"Film-Noir"},
+            { "preference_score":72, "genre":"Romance"}
+        ]
+    },
+    {
+        "user_id": 585,
+        "preference": [
+            { "preference_score":13, "genre":"Documentary"}
+        ]
+    },
+    {
+        "user_id": 582,
+        "preference": [
+            { "preference_score":71, "genre":"Horror"},
+            { "preference_score":2, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 98,
+        "preference": [
+            { "preference_score":32, "genre":"Horror"},
+            { "preference_score":8, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 528,
+        "preference": [
+            { "preference_score":37, "genre":"Drama"},
+            { "preference_score":6, "genre":"Mystery"},
+            { "preference_score":57, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 970,
+        "preference": [
+            { "preference_score":20, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 590,
+        "preference": [
+            { "preference_score":41, "genre":"Comedy"},
+            { "preference_score":19, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 197,
+        "preference": [
+            { "preference_score":64, "genre":"Action"},
+            { "preference_score":2, "genre":"Fantasy"},
+            { "preference_score":51, "genre":"Sci-Fi"}
+        ]
+    },
+    {
+        "user_id": 507,
+        "preference": [
+            { "preference_score":53, "genre":"Action"},
+            { "preference_score":66, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 820,
+        "preference": [
+            { "preference_score":55, "genre":"Drama"}
+        ]
+    },
+    {
+        "user_id": 974,
+        "preference": [
+            { "preference_score":92, "genre":"Comedy"}
+        ]
+    },
+    {
+        "user_id": 819,
+        "preference": [
+            { "preference_score":66, "genre":"Action"},
+            { "preference_score":68, "genre":"Crime"},
+            { "preference_score":38, "genre":"Thriller"}
+        ]
+    },
+    {
+        "user_id": 800,
+        "preference": [
+            { "preference_score":66, "genre":"Adventure"},
+            { "preference_score":22, "genre":"Documentary"},
+            { "preference_score":68, "genre":"IMAX"}
+        ]
+    },
+    {
+        "user_id": 230,
+        "preference": [
+            { "preference_score":38, "genre":"Adventure"},
+            { "preference_score":66, "genre":"Fantasy"},
+            { "preference_score":22, "genre":"Mystery"}
+        ]
+    }
+]
